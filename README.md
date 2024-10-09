@@ -2,7 +2,7 @@
 <h5 align="center"> If you appreciate our project, please consider giving us a star ⭐ on GitHub to stay updated with the latest developments.  </h2>
 <h4 align="center">
   
-[![Project Page](https://img.shields.io/badge/Project_Page-Uni_MoE-blue)](https://filmagent.github.io/)
+[![Project Page](https://img.shields.io/badge/Project_Page-FilmAgent-blue)](https://filmagent.github.io/)
 [![Paper](https://img.shields.io/badge/Paper-arxiv-yellow)](https://arxiv.org/abs/2405.11273)
 
 </h4>
