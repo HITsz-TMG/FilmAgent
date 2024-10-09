@@ -9,6 +9,6 @@
 
 ## 🎨 Framework
 
-Following the traditional film studio workflow, we divide the whole virtual film production process into three sequential stages: planning, scriptwriting and cinematography, then apply the **Critique-Correct-Verify** and **Debate-Judge** collaboration strategy. After these stages, each line in the script is specified with the positions of the actors, their actions, their dialogues, and the chosen camera shots.
+Following the traditional film studio workflow, we divide the whole virtual film production process into three sequential stages: planning, scriptwriting and cinematography, and apply the **Critique-Correct-Verify**、**Debate-Judge** collaboration strategy. After these stages, each line in the script is specified with the positions of the actors, their actions, their dialogue, and the chosen camera shots.
 
 <div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/framework.png" height="100%" width="75%"/></div>
