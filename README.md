@@ -22,14 +22,14 @@ conda activate filmagent
 pip install -r env.txt
 ```
 
-2. Create `Script` and `Logs` folders in the Filmagent directory, then replace the absolute pathname '/path/to/' with your specific path and modify the `topic` in the `main.py`. Run the following command to get the movie script created by the agents collaboratively:
+2. Create `Script` and `Logs` folders in the Filmagent directory, then replace the absolute pathname '/path/to/' with your specific path and modify the `topic` in the `main.py`. Modify the api_key and organization number in `LLMCaller.py`. Run the following commands to get the movie script created by the agents collaboratively:
 ```bash
 cd /path/to/FilmAgent
 conda activate filmagent
 python main.py
 ```
 
-3. We use [ChatTTS](https://github.com/2noise/ChatTTS) to provide voice acting for the characters in the script. You need to download the [ChatTTS](https://github.com/2noise/ChatTTS) repository to the `TTS` directory. Then replace the absolute pathname '/path/to/' with your specific path in the `tts_main.py`. Run the following command to deploy the text-to-speech service:
+3. We use [ChatTTS](https://github.com/2noise/ChatTTS) to provide voice acting for the characters in the script. You need to download the [ChatTTS](https://github.com/2noise/ChatTTS) repository to the `TTS` directory. Then replace the absolute pathname '/path/to/' with your specific path in the `tts_main.py`. Run the following commands to deploy the text-to-speech service:
 ```bash
 cd /path/to/TTS
 conda create -n tts python==3.9.18
@@ -38,7 +38,7 @@ pip install -r tts_env.txt
 python tts_main.py
 ```
 
-4. Modify the `Script_path`, `actos_path`, `Audio_path` and `url` in the `GenerateAudio.py`. Run the following command to get the audio files:
+4. Modify the `Script_path`, `actos_path`, `Audio_path` and `url` in the `GenerateAudio.py`. Run the following commands to get the audio files:
 ```bash
 cd /path/to/FilmAgent
 conda activate filmagent
@@ -49,5 +49,6 @@ python GenerateAudio.py
 
 <div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/unity_1.png" height="100%" width="50%"/><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/unity_2.png" height="100%" width="50%"/></div>
 
+6. For the tests on 15 topics in our experimental section, we provide three py files: `test_full.py` (The full FilmAgent framework, utilizing multi-agent collaboration.), `test_no_interation.py` (A single agent is responsible for planning, scriptwriting, and cinematography, representing our FilmAgent framework without multi-agent collaboration algorithms.) and `test_cot.py` (A single agent generates the chain-of-thought rationale and the complete script).
 
 
