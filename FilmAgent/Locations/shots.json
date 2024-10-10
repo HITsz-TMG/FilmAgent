@@ -1,0 +1,11 @@
+{
+    "Close Shot": "Captures only the upper body of the speaker, ideal for creating a sense of tension, pressure, or intimacy and focus on the character.",
+    "Mid Shot": "Captures only the speaker's full body, useful for showing body language and balances detail and context.",
+    "Follow Shot": "The camera follows the character continuously as they move. This shot creates a sense of immersion and keeps the audience connected to the character’s journey.",
+    "Pan Shot": "The camera remains focused on the character, even if the character moves. This maintains the audience's attention on the character, emphasizing their importance or reactions.",
+    "360 Degrees Shot": "The camera rotates 360 degrees around the character (the character must be standing).",
+    "Curve Surround Shot": "The camera moves from the character's feet to their head while sweeping from back to front (the character must be standing).",
+    "Track Shot": "The camera will dynamically transition from one long shot to another long shot.",
+    "Zoom Shot": "This shot allows for a smooth transition from one perspective to another.",
+    "Long Shot": "This shot displays the entire scene."
+}

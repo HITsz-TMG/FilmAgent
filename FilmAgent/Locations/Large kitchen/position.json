@@ -1,0 +1,32 @@
+[
+    {
+        "id": "Position 1",
+        "description": "The position is situated in an open area within the large kitchen.",
+        "sittable": false,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 2",
+        "description": "The position is situated in an open area within the large kitchen.",
+        "sittable": false,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 3",
+        "description": "The position is situated in an open area within the large kitchen, close to position 4.",
+        "sittable": false,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 4",
+        "description": "The position is situated in an open area within the large kitchen, close to position 3.",
+        "sittable": false,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 5",
+        "description": "The position is situated in an open area within the large kitchen.",
+        "sittable": false,
+        "fixed_angle": false
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "Position 1",
+        "description": "The position is next to the pool table.",
+        "sittable": false,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 2",
+        "description": "The position is next to the pool table.",
+        "sittable": false,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 3",
+        "description": "The position is next to the pool table.",
+        "sittable": false,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 4",
+        "description": "The position is next to the pool table.",
+        "sittable": false,
+        "fixed_angle": false
+    }
+]

@@ -1,0 +1,23 @@
+1. **Actions performed in standing state**:
+   - Standing Talking: simply show the character is talking.
+   - Standing Thinking: show the character is thinking.
+   - Standing Depressed: convey the character's depressed emotion.
+   - Standing Crying: show the character is crying.
+   - Standing Angry: convey the character's angry emotion.
+   - Standing Happy: convey the character's happy emotion.
+   - Standing Surprise: convey the character's surprise emotion.
+   - Standing Puzzled: show the character's confusion.
+   - Standing Greeting: only used for the character to greet others.
+   - Standing Bored: show the character's boredom.
+   - Standing Normal: merely depict the character standing.
+   - Standing Arguing: show the character is arguing with others.
+   - Standing Agree: convey the character's approval.
+   - Standing Deny: convey the character's rejection or disapproval.
+   - Joyful Jump: demonstrate the character is extremely happy.
+   - Sit Down: Only when you need to change the character's state from standing to sitting, you must perform this action.
+
+2. **Actions performed in sitting state**:
+   - Sitting Talking: simply show the character is talking.
+   - Sitting Laughing: convey the character's happy emotion.
+   - Sitting Claping: indicate the character agrees or is happy.
+   - Stand Up: Only when you need to change the character's state from sitting to standing, you must perform this action.

@@ -1,0 +1,44 @@
+[
+    {
+        "id": "Position 1",
+        "description": "This position is located in front of the middle seat in the meeting room. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 2",
+        "description": "The position is located in front of a seat on the right side of the meeting room, close to position 1. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 3",
+        "description": "The position is located in front of a seat on the right side of the meeting room, between position 2 and 4. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 4",
+        "description": "The position is located in front of a seat on the right side of the meeting room. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 5",
+        "description": "The position is located in front of a seat on the left side of the meeting room. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 6",
+        "description": "The position is located in front of a seat on the left side of the meeting room, between position 5 and 7. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 7",
+        "description": "The position is located in front of a seat on the left side of the meeting room, close to position 1. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    }
+]

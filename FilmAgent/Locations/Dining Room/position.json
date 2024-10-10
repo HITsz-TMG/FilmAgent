@@ -1,0 +1,26 @@
+[
+    {
+        "id": "Position 1",
+        "description": "The position is in front of a chair. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 2",
+        "description": "The position is in front of a chair. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 3",
+        "description": "The position is in front of a chair. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 4",
+        "description": "This position is at the entrance of the dining room.",
+        "sittable": false,
+        "fixed_angle": false
+    }
+]

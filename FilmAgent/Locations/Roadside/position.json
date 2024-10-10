@@ -1,0 +1,14 @@
+[
+    {
+        "id": "Position 1",
+        "description": "This position is in front of the bench on the left side of the road. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 2",
+        "description": "This position is in front of the bench on the right side of the road. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    }
+]

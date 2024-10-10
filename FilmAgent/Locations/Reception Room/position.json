@@ -1,0 +1,32 @@
+[
+    {
+        "id": "Position 1",
+        "description": "The position is in front of the sofa in the reception room. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 2",
+        "description": "The position is in front of the sofa in the reception room. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 3",
+        "description": "The position is situated in an open area within the reception room.",
+        "sittable": false,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 4",
+        "description": "The position is situated in an open area within the reception room.",
+        "sittable": false,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 5",
+        "description": "The position is at the front desk in the reception room.",
+        "sittable": false,
+        "fixed_angle": true
+    }
+]

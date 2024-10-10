@@ -1,0 +1,20 @@
+[
+    {
+        "id": "Position 1",
+        "description": "The position is in front of the guest chair. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 2",
+        "description": "The position is in front of the guest chair. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 3",
+        "description": "The position is in front of the main chair. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    }
+]

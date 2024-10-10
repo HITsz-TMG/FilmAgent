@@ -1,0 +1,27 @@
+- **Dynamic Shots**:
+   - **Zoom Shot**: Appears to move closer to the subject, following a Long Shot.
+     - **Usage Condition**:
+       1. When the character is talking, gradually focus on the character.
+       2. When the character is talking, highlight key comedic or dramatic moment.
+   - **Pan Shot**: Pivots horizontally from a fixed position to track character movement.
+     - **Usage Condition**:
+       1. When the character is talking, use this shot multiple times in a row to create a tense atmosphere.
+       2. When the character is moving, use this shot to display both the character and surroundings.
+   - **Follow Shot**: Continuously follows a moving character.
+     - **Usage Condition**: This shot can only be used when the character is moving. Immersing the audience in the character's perspective during movement.
+   - **360 Degrees Shot**: Circles completely around a standing character.
+     - **Usage Condition**:
+       1. This shot can be used when the character first appears in the script.
+       2. When the character is talking, create unease and heightening scene tension.
+   - **Curve Surround Shot**: Moves from the character's feet to head, with the character standing.
+     - **Usage Condition**: This shot can only be used when the character first appears in the script.
+   - **Track Shot**: Switches dynamically between long shots.
+     - **Usage Condition**: This shot can only be used in the opening shot of each scene to showcase characters and their environments.
+
+- **Static Shots**:
+   - **Long Shot**: Displays the entire scene.
+     - **Usage Condition**: Providing background and showing interactions during dialogue.
+   - **Close Shot**: Focuses on the upper body of a character.
+     - **Usage Condition**: Captures the character's emotions during dialogue.
+   - **Mid Shot**: Captures the full body of a character.
+     - **Usage Condition**: Showcasing body language and interactions.

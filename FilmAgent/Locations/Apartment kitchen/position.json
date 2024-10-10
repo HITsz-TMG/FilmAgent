@@ -1,0 +1,32 @@
+[
+    {
+        "id": "Position 1",
+        "description": "This position is situated at the innermost part of the apartment kitchen, adjacent to position 2.",
+        "sittable": false,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 2",
+        "description": "This position is located in the middle of the apartment's kitchen, adjacent to position 1.",
+        "sittable": false,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 3",
+        "description": "This position is situated on the far right side of the apartment kitchen, against the wall.",
+        "sittable": false,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 4",
+        "description": "This location is situated in the open area of the apartment kitchen.",
+        "sittable": false,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 5",
+        "description": "This location is situated in the open area of the apartment kitchen.",
+        "sittable": false,
+        "fixed_angle": false
+    }
+]

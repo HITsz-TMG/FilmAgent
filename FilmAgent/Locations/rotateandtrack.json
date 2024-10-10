@@ -1,0 +1,77 @@
+{
+    "Apartment living room": {
+        "rotate": 1,
+        "track": 4,
+        "long": 4
+    },
+    "Apartment kitchen": {
+        "rotate": 1,
+        "track": 1,
+        "long": 3
+    },
+    "Roadside": {
+        "rotate": 1,
+        "track": 1,
+        "long": 1
+    },
+    "Gaming room": {
+        "rotate": 1,
+        "track": 2,
+        "long": 1
+    },
+    "Meeting room": {
+        "rotate": 1,
+        "track": 3,
+        "long": 3
+    },
+    "Storehouse": {
+        "rotate": 1,
+        "track": 2,
+        "long": 1
+    },
+    "Relaxing Room": {
+        "rotate": 3,
+        "track": 2,
+        "long": 3
+    },
+    "Reception Room": {
+       "rotate": 3,
+        "track": 3,
+        "long": 3
+    },
+    "Sofa Corner": {
+        "rotate": 3,
+        "track": 3,
+        "long": 3
+    },
+    "Large kitchen": {
+        "rotate": 3,
+        "track": 3,
+        "long": 3
+    },
+    "Beverage Room": {
+        "rotate": 2,
+        "track": 2,
+        "long": 1
+    },
+    "Office": {
+        "rotate": 2,
+        "track": 2,
+        "long": 1
+    },
+    "Dining Room": {
+        "rotate": 2,
+        "track": 2,
+        "long": 2
+    },
+    "Billiard room": {
+        "rotate": 2,
+        "track": 2,
+        "long": 2
+    },
+    "Work room": {
+        "rotate": 3,
+        "track": 2,
+        "long": 2
+    }
+}

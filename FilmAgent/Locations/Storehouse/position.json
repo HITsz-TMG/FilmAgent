@@ -1,0 +1,20 @@
+[
+    {
+        "id": "Position 1",
+        "description": "This position is located in front of a chair at the very back of the storehouse. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 2",
+        "description": "This position is in front of the cabinet in the middle of the storehouse.",
+        "sittable": false,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 3",
+        "description": "The position is not far from the storehouse entrance.",
+        "sittable": false,
+        "fixed_angle": true
+    }
+]

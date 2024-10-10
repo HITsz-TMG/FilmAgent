@@ -1,0 +1,32 @@
+[
+    {
+        "id": "Position 1",
+        "description": "This position is located in front of the long sofa at the center of the apartment, between position 2 and 3. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 2",
+        "description": "This position is located in front of the short sofa at the center of the apartment, close to position 1 and 3. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 3",
+        "description": "This position is located in front of the long sofa at the center of the apartment, close to position 1 and 2.",
+        "sittable": false,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 4",
+        "description": "This position is situated in the hallway of an apartment, behind position 2.",
+        "sittable": false,
+        "fixed_angle": true
+    },
+    {
+        "id": "Position 5",
+        "description": "This position is located diagonally behind position 1, close to the window.",
+        "sittable": false,
+        "fixed_angle": true
+    } 
+]

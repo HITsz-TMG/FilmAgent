@@ -1,0 +1,26 @@
+[
+    {
+        "id": "Position 1",
+        "description": "This position is located in front of the sofa in the gaming room, adjacent to position 2. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 2",
+        "description": "This position is located in front of the sofa in the gaming room, adjacent to position 1. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 3",
+        "description": "This position is located in front of the computer desk in the middle of the gaming room. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    },
+    {
+        "id": "Position 4",
+        "description": "This position is located in front of the computer desk at the far end of the gaming room. A character can sit down at this position.",
+        "sittable": true,
+        "fixed_angle": false
+    }
+]
