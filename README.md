@@ -63,3 +63,15 @@ Case #1 and #2 are from the Critique-Correct-Verify method in Scriptwriting #2 a
 - **Case #3**, in the Debate-Judge method in cinematography, demonstrates the correction of an inappropriate dynamic shot, which is replaced with a medium shot to better convey body language.
 - **Case #4** replaces a series of identical static shots with a mix of dynamic and static shots, resulting in a more diverse camera setup.
 
+## Citation
+
+If you find FilmAgent useful for your research and applications, please cite using this BibTeX:
+```bibtex
+@article{xxxx,
+  title={FilmAgent: Automating Virtual Film Production via Multi-Agent Collaboration},
+  author={Xu, Zhenran and Wang, Jifang and Li, Zhouyi and Shi, Senbao and Hu, Baotian and Wang, Longyue and Zhang, Min},
+  journal={arXiv preprint arXiv:xxxxxxxx},
+  year={2024}
+}
+
+```
