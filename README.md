@@ -48,7 +48,14 @@ python GenerateAudio.py
 5. We now have the `script.json`, `actors_profile.json`, and a series of `.wav` audio files. Next, we need to execute the script in Unity. The recommended version of the Unity editor is **Unity 2022.3.14f1c1**. You need to download the [Unity project file](https://huggingface.co/datasets/wjfhit/filmagent_unity/tree/main) we provide. After decompression, open `TheBigBang\Assets\TheBigBang\Manyrooms.unity` with Unity. Then replace all the absolute pathnames '/path/to/' with your specific path in `TheBigBang\Assets\Scirpts\StartVideo.cs` and `TheBigBang\Assets\Scirpts\ScriptExecute.cs`. Press **ctrl+R** in the unity interface to recompile, click **Play** to enter Game mode, then press **E** to start executing the script (sometimes the audio files load slowly, so you may need to play it 2 or 3 times before it can run normally).
 
 <div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/unity_1.png" height="100%" width="50%"/><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/unity_2.png" height="100%" width="50%"/></div>
-
+<br>
 6. For the tests on 15 topics in our experimental section, we provide three py files: `test_full.py` (The full FilmAgent framework, utilizing multi-agent collaboration.), `test_no_interation.py` (A single agent is responsible for planning, scriptwriting, and cinematography, representing our FilmAgent framework without multi-agent collaboration algorithms.) and `test_cot.py` (A single agent generates the chain-of-thought rationale and the complete script).
 
+## 🌈 Case Show
+The following table records some comparisons of the scripts and camera settings before (left) and after (right) multi-agent collaboration, with excerpts from their discussion process.
+
+<div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/cases.png" height="100%" width="50%"/></div>
+<br>
+
+Case #1 and #2 are from the Critique-Correct-Verify method in Scriptwriting #2 and #3 stages respectively. Case #3 and #4 are from the Debate-Judge method in Cinematography. Case #1 shows that Director-Screenwriter discussion reduces hallucinations in non-existent actions (e.g., standing suggest), enhances plot coherence, and ensures consistency across scenes. Case #2 shows that Actor-Director-Screenwriter discussion improves the alignment of dialogue with character profiles. For the Debate-Judge method in cinematography, Case #3 demonstrates the correction of an inappropriate dynamic shot, which is replaced with a medium shot to better convey body language. Case #4 replaces a series of identical static shots with a mix of dynamic and static shots, resulting in a more diverse camera setup.
 
