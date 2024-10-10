@@ -45,9 +45,9 @@ conda activate filmagent
 python GenerateAudio.py
 ```
 
-5. We now have the `script.json`, `actors_profile.json`, and a series of `.wav` audio files. Next, we need to execute the script in Unity. The recommended version of the Unity editor is **Unity 2022.3.14f1c1**. You need to download the [Unity project file](https://huggingface.co/datasets/wjfhit/filmagent_unity/tree/main) we provide. After decompression, open `TheBigBang\Assets\TheBigBang\Manyrooms.unity` with Unity. Then Replace all the absolute pathnames '/path/to/' with your specific path in `TheBigBang\Assets\Scirpts\StartVideo.cs` and `TheBigBang\Assets\Scirpts\ScriptExecute.cs`. Press **ctrl+R** in the unity interface to recompile, Click **Play** to enter Game mode, then press **E** to start executing the script (sometimes the audio files load slowly, so you may need to play it 2 or 3 times before it can run normally).
+5. We now have the `script.json`, `actors_profile.json`, and a series of `.wav` audio files. Next, we need to execute the script in Unity. The recommended version of the Unity editor is **Unity 2022.3.14f1c1**. You need to download the [Unity project file](https://huggingface.co/datasets/wjfhit/filmagent_unity/tree/main) we provide. After decompression, open `TheBigBang\Assets\TheBigBang\Manyrooms.unity` with Unity. Then replace all the absolute pathnames '/path/to/' with your specific path in `TheBigBang\Assets\Scirpts\StartVideo.cs` and `TheBigBang\Assets\Scirpts\ScriptExecute.cs`. Press **ctrl+R** in the unity interface to recompile, click **Play** to enter Game mode, then press **E** to start executing the script (sometimes the audio files load slowly, so you may need to play it 2 or 3 times before it can run normally).
 
-<div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/unity_1.png" height="100%" width="50%"/><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/unity_2.png" height="100%" width="50%"/></div>
+<div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/unity_1.png" height="100%" width="45%"/><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/unity_2.png" height="100%" width="45%"/></div>
 
 
 
