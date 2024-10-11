@@ -1,0 +1,116 @@
+You need to write a complete script based on the given topic "{topic}". Please strictly follow the steps below to perform this task.
+
+
+
+### Step 1:
+Plan three coherent scenes based on the topic, assign a sub-topic to each scene, select corresponding locations and main characters based on the sub-topic, develop a plot for each scene.
+
+This step may require the following information:
+#### Main Characters:
+1. **Male**: {male_characters}
+2. **Female**: {female_characters}
+
+#### Main Locations:
+1. **Apartment living room**: maximum capacity: 5
+2. **Apartment kitchen**: maximum capacity: 5
+3. **Roadside**: maximum capacity: 2
+4. **Gaming room**: maximum capacity: 4
+5. **Meeting room**: maximum capacity: 7
+6. **Storehouse**: maximum capacity: 3
+7. **Relaxing Room**: maximum capacity: 5
+8. **Reception Room**: maximum capacity: 5
+9. **Sofa Corner**: maximum capacity: 5
+10. **Large kitchen**: maximum capacity: 5
+11. **Beverage Room**: maximum capacity: 3
+12. **Office**: maximum capacity: 3
+13. **Dining Room**: maximum capacity: 4
+14. **Billiard room**: maximum capacity: 4
+15. **Work room**: maximum capacity: 5
+
+After this step, the following parts of the script will be completed:
+"scene_information": {"who": [Selected Main Characters], "where": "Selected Location", "what": "The Plot For This Scene"}
+
+
+
+### Step 2:
+Create specific and vivid dialogues for each scene based on the result from step 1. The dialogues should be conform to the characters' profile. The number of conversations in one scene should not be too few.
+
+This step may require the following information:
+#### Characters' Profile:
+{profiles}
+
+After this step, the following parts of the script will be completed:
+"dialogues":[{"speaker": "...", "content": "..."}, ...]
+
+
+
+### Step 3:
+Choose an appropriate position for each character in every scene of the script based on the result from step 1. In a scene, each character's position must be different.
+
+This step may require the following information:
+#### Optional Positions:
+{optional_positions}
+
+After this step, the following parts of the script will be completed:
+"initial position": [{"character": "...", "position": "Position XX"}, ...]
+
+
+
+### Step 4:
+Understand the emotions expressed in the dialogues from step 2, and consider the emotional states of the characters in the conversation. According to your considerations and [Action Selection Requirements], choose the most appropriate actions from the [Complete List of Actions] and add them after each line of dialogue, including the speaker and some other (not all) characters' actions.
+
+Each action added should consist of the following parts:
+   - action: The action selected from [Complete List of Actions].
+   - character: The character that performs the action.
+   - state: The state before the action is performed, including standing or sitting.
+
+This step may require the following information:
+#### [Complete List of Actions]:
+{all_actions}
+
+
+#### [Action Selection Requirements]:
+
+1. **Basic Requirements**:
+   - Note that all actions should be selected from [Complete List of Actions].
+   - Each character can only add one action at a time.
+   - Unnecessary actions should not be added to avoid cluttering the scene.
+
+2. **Key Requirements**:
+   - In one scene, you cannot overuse a certain action.
+   - When a character is in the standing state, you can only choose the action performed in standing state. When a character is in the sitting state, you can only choose the action performed in sitting state.
+   - You can choose "Sit Down" only when the character is at a sittable position.
+   - Only by using "Stand Up" or "Sit Down" can the character's state be changed; otherwise, the character's state should remain the same as before.
+
+After this step, the following parts of the script will be completed:
+"actions": [{"character": "...","state": "....","action": "..."}, ...]
+
+
+
+### Step 5:
+Focus on the usage conditions of each shot in the [Complete List of Shots], then allocate them to the shot annotation points in the script according to different usage conditions. Check if the shot annotations meet the [Shot Annotation Requirements]. If not, identify which requirements are not met, then update the shot annotations to meet these requirements.
+
+This step may require the following information:
+#### [Complete List of Shots]:
+{all_shots}
+
+
+#### [Shot Annotation Requirements]:
+   - Each scene should not have too many close shots and mid shots.
+   - Each shot used must meet its usage conditions.
+   - For the dialogue-starting scene, you should choose between [Track Shot, Long Shot] to set the context.
+   - If you want to use Zoom Shot, you must ensure the preceding shot is a Long Shot
+   - If you want to use Pan Shot during dialogue, it should be used multiple times in a row.
+
+After this step, the following parts of the script will be completed:
+"selected shot": "..."
+
+
+
+After completing all steps, return your completed script. Your response should only contain the following JSON content:
+```json
+[{"scene_information": {"who": ["...", ...], "where": "...", "what": "..."},
+"dialogues":[{"speaker": "...", "content": "...", "actions": [{"character": "...","state": "....","action": "..."}, ...], "selected shot": "...."}, ...]
+},
+...]
+```

@@ -1,0 +1,14 @@
+You are a director. You have provided feedback on the script, and then the script has been revised.
+
+
+### Feedback:
+{feedback}
+
+### Updated Script:
+{revised_script}
+
+
+Please review the updated script to determine if it fully addresses your feedback. Review the script step-by-step. Then, provide your final decision on whether the feedback has been fully incorporated and if the script is ready (by setting the "finalize" field to "True" or "False"). You need to provide the specific reason for your decision.
+
+Your response should only contain the following JSON content:
+{"reason": "...", "finalize": "..."}

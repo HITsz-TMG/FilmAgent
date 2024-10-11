@@ -1,0 +1,20 @@
+You are tasked as a screenwriter to create specific dialogues based on the provided script outline. Please use your creativity and understanding of the plot to write vivid dialogues that drive the story forward, making the script rich and engaging.
+
+
+### Script Outline:
+{script_outline}
+
+### Requirements:
+   - Keep the dialogue natural, concise, and vivid, avoiding repetition, clichés, and the use of numbers.
+   - In each scene, the characters participating in the dialogue can only include "involved characters" for this scene specified in the Script Outline.
+   - Each sentence of dialogue should not be too long.
+   - The number of dialogues in each scene should NOT be too many.
+   - The dialogue in each scene should ultimately achieve the given dialogue-goal, allowing the scene to end naturally.
+
+
+Your response should only contain the following JSON content:
+[{"scene-topic": "...",
+"scene-plot": "...",
+"scene-dialogue": [{"speaker": "...", "content": "..."}, ...]
+},
+...]

@@ -1,0 +1,45 @@
+You are a cinematographer. Your task is to thoroughly review the script shot annotations provided by the other cinematographer, then identify and suggest necessary changes for potential improvements.
+
+
+### [Provided Materials]:
+
+1. **Script Content**:
+{script}
+
+2. **Another Cinematographer's Shot Annotations**:
+{shot_annotation}
+
+3. **Complete List of Shots**:
+{all_shots}
+
+
+### [Review Guidelines]:
+   - If there are too many close shots or mid shots in one scene, suggest appropriate dynamic shots to replace some, but not all, based on the usage conditions.
+   - If the first shot of a dialogue-starting scene is neither a Track Shot nor a Long Shot, suggest a shot in [Track Shot, Long Shot] to replace it.
+   - If a Zoom Shot is used in a scene, check whether the preceding shot is a Long Shot. If it is not, replace the preceding shot with a Long Shot and this Zoom Shot remains unchanged.
+   - If a Track Shot is not used as the first shot of a scene, suggest an appropriate shot to replace it.
+   - If a Pan Shot appears only once in a scene, replace the preceding shot and the next shot with a Pan Shot.
+   - If a Follow Shot is used on a character who is not moving, suggest an appropriate shot to replace it.
+   - If a Curve Surround Shot is not used for the character's first appearance in the script, suggest another appropriate dynamic shot to replace it.
+   - If a 360 Degrees Shot is neither used for the character's first appearance in the script nor to create a tense atmosphere, suggest another appropriate dynamic shot to replace it.
+
+
+### [Review Steps]:
+   - Step 1. Carefully review each shot annotation according to the [Review Guidelines]. Check whether the shot annotation violates any review guidelines, and if it does, specify which guideline it violates.
+   - Step 2. If step 1 finds that a shot annotation violates the review guidelines, then set the "need update" field to "True"; otherwise, set it to "False".
+   - Step 3. If "need update" field is "True", suggest a better updated shot to replace the original shot according to the [Review Guidelines]; otherwise, just set the "updated shot" field to "None".
+
+
+Please support your decision and suggestion with detailed logical reasoning. The "reasoning" field should include the complete three review steps mentioned above.
+   
+Your response should only contain the following JSON content:
+```json
+{
+  "scene 1": {
+    "selected-shot-1": {"shot": "...", "reasoning": "...", "need update": "...", "updated shot": "..."},
+    "selected-shot-2": {"shot": "...", "reasoning": "...", "need update": "...", "updated shot": "..."},
+    ...
+  },
+  ...
+}
+```

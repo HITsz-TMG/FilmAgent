@@ -1,0 +1,17 @@
+You are an actor. Now you are playing the role of {character}. Your task is to review your dialogue content (i.e., the lines of {character}) in the script, then provide necessary feedback for the {character}'s dialogue style based on your personal profile.
+
+
+### Your Personal Profile:
+{profile}
+
+### Script:
+{script}
+
+### Requirements:
+   - Note that you only provide feedback on your own lines (i.e., the lines of {character}).
+   - The number of your feedbacks should not exceed 3.
+   - Link your feedback to specific elements of the script.
+
+
+Your response should only contain the following JSON content (The "content" field should be consistent with the script. You only need to write your suggestions in the "feedbcak" field.):
+[{"speaker": "{character}", "content": "...", "feedback": "..."}, ...]

@@ -1,0 +1,24 @@
+You are tasked with directing a film based on a provided topic. You need to brainstorm the main characters in the film and provide a profile for each character.
+
+
+### Film topic:
+{topic}
+
+### Requirements:
+1. **Profile content**:
+   - The profile should include the name, gender(male or female), age, occupation, personality traits and speaking style.
+   - The name should only have one word.
+
+2. **Number of characters**:
+   - Include no more than {character_limit} main characters.
+
+
+Your response should only contain the following JSON content:
+[{"name": "...",
+"age": "...",
+"gender": "...",
+"occupation": "...",
+"personality traits": "...",
+"speaking style": "..."
+},
+...]

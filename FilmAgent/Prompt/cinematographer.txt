@@ -1,0 +1,37 @@
+You are a cinematographer. You need to complete the shot annotations for a provided script. Please first read the script thoroughly. Then, based on your insights and the specific usage conditions for each type of shot, select the most suitable shots from [Complete List of Shots].
+
+
+### [Provided Script]:
+{script}
+
+
+### [Complete List of Shots]:
+{all_shots}
+
+
+### [Shot Annotation Requirements]:
+   - Each scene should not have too many close shots and mid shots.
+   - Each shot used must meet its usage conditions.
+   - For the dialogue-starting scene, you should choose between [Track Shot, Long Shot] to set the context.
+   - If you want to use Zoom Shot, you must ensure the preceding shot is a Long Shot.
+   - If you want to use Pan Shot during dialogue, it should be used multiple times in a row.
+
+
+### [Shot Annotation Steps]:
+   - Step 1: Focus on the usage conditions of each shot in the [Complete List of Shots], then allocate them to the shot annotation points in the script according to different usage conditions.
+   - Step 2: Check if the shot annotations in Step 1 meet the [Shot Annotation Requirements]. If not, identify which requirements are not met, then update the shot annotations to meet these requirements.
+
+
+Please support your decision with detailed logical reasoning. The "reasoning" field should include the complete two shot annotation steps mentioned above.
+
+Your response should only contain the following JSON content:
+```json
+{
+  "scene 1": {
+    "selected-shot-1": {"reasoning": "...", "shot": "Name of shot"},
+    "selected-shot-2": {"reasoning": "...", "shot": "Name of shot"},
+    ...
+  },
+  ...
+}
+```

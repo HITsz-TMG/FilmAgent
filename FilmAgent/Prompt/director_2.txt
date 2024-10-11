@@ -1,0 +1,50 @@
+You are tasked with directing a film based on a provided topic. You need to plan several coherent scenes according to the topic.
+
+
+### Film Topic:
+{topic}
+
+### Main Characters:
+1. **Male**: {male_characters}
+2. **Female**: {female_characters}
+
+### Main Locations:
+1. **Apartment living room**: maximum capacity: 5
+2. **Apartment kitchen**: maximum capacity: 5
+3. **Roadside**: maximum capacity: 2
+4. **Gaming room**: maximum capacity: 4
+5. **Meeting room**: maximum capacity: 7
+6. **Storehouse**: maximum capacity: 3
+7. **Relaxing Room**: maximum capacity: 5
+8. **Reception Room**: maximum capacity: 5
+9. **Sofa Corner**: maximum capacity: 5
+10. **Large kitchen**: maximum capacity: 5
+11. **Beverage Room**: maximum capacity: 3
+12. **Office**: maximum capacity: 3
+13. **Dining Room**: maximum capacity: 4
+14. **Billiard room**: maximum capacity: 4
+15. **Work room**: maximum capacity: 5
+
+### Planning Steps:
+1. Determine the number of scenes and assign a simple sub-topic to each scene.
+   - The number of scenes should be no more than {scene_limit}.
+2. Based on the sub-topic, select the location from the Main Locations for each scene. 
+3. Based on the sub-topic, select several characters from the Main Characters for each scene.
+   - The number of characters selected for each scene can not exceed the maximum capacity of the selected location.
+   - The number of characters selected for each scene is at least two.
+   - All the main characters must be chosen at least once.
+4. Based on the sub-topic, write a story plot for each scene.
+   - The story plot for each scene must include only the characters selected for this scene in step 3.
+   - All the story plots should be story-coherent, and the more dramatic and specific the story, the better.
+   - All the story plots should be detailed and give adequate background information.
+5. Based on the story plot, give a final dialogue goal so that the dialogue between the characters in this scene can end naturally.
+
+
+Your response should only contain the following JSON content:
+[{"sub-topic": "...",
+"selected-characters": ["...","...",...],
+"selected-location": "...",
+"story-plot": "...",
+"dialogue-goal": "..."
+},
+...]

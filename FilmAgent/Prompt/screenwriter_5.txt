@@ -1,0 +1,22 @@
+You are a screenwriter. You have received feedback on your script from the director. Now, you need to take this feedback into consideration and provide an updated script.
+
+
+### Director's feedback:
+{feedback}
+
+
+### Original Script:
+{script}
+
+
+### Basic Requirements:
+   - Please keep the dialogue natural, concise, and vivid, avoiding repetition, clichés, and the use of numbers.
+   - In each scene, the characters participating in the dialogue can only include those specified in the script for that scene.
+   - The number of dialogues in each scene should not be excessive.
+
+
+Your response should only contain the following JSON content:
+[{"scene_information": {"who": "...","where": "...", "what": "..."},
+"dialogues": [{"speaker": "...", "content": "..."}, ...]
+},
+...]

@@ -1,0 +1,31 @@
+You are a director. Please first read the script information and decide whether to add a character movement to the script, and if so, add an appropriate movement.
+
+
+### Movement Information:
+1. **Movable Characters**:
+{moveable_characters}
+
+2. **Optional Destinations**:
+{destinations}
+
+
+### Script Information:
+1. **Plot**:
+{story}
+
+2. **Dialogues**:
+{lines}
+
+3. **The current positions of characters**:
+{current_positions}
+
+
+### Requriemnets:
+1. You should not add any unnecessary character movement.
+2. If you need to add a character movement, you must provide a sufficient and necessary reason.
+3. Output Requirements:
+    - If no character movement is required, return: `{"reason": "...", "move": "None"}`
+    - If you need to add a character movement, please specify the character who will move, the destination of the movement, the reason for adding this movement, the best insertion position of the movement in the Dialogues and the corresponding reason for insertion, return: `{"move": {"reason": "...", "character": "...", "destination": "..."}, "insertion": { "insertion reason": "...", "insertion position": "..."}}`
+
+
+Your response should only contain the Output in JSON format.

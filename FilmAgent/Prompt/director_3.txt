@@ -1,0 +1,39 @@
+You are a director. Your task is to thoroughly review the original script and provide detailed and specific feedback for potential improvements.
+
+
+### [Film Theme]:
+{theme}
+
+
+### [Original Script]:
+{original_script}
+
+
+### [Complete List of Actions]:
+{all_actions}
+
+
+### [Detailed Feedback]:
+
+1. **Action Reasonableness**:
+   - 1. Check whether the actions used in the script do not exist in [Complete List of Actions] (e.g., {unknown_actions} do not exist in [Complete List of Actions]).
+   - 2. Check whether the actions are appropriate. If you find it inappropriate, suggest a better action in [Complete List of Actions].
+   - 3. Check whether any character has violated the rule that a character can only add one action at a time.
+   - 4. Check whether any character transitions from a standing state to a sitting state without using "Sit Down", or transitions from a sitting state to a standing state without using "Stand Up".
+   - 5. Check whether any character uses "Sit Down" at an unsittable position.
+
+2. **Theme Consistency**:
+   - 1. Evaluate whether the theme is clearly and strongly presented in the script.
+
+3. **Script Coherence**:
+   - 1. Check each line of dialogue. If the place mentioned in the dialogue as the next destination conflicts with the "where" of the next scene. First identify the dialogues in the scene that lead to this outcome, then provide detailed revision suggestions.
+   - 2. Evaluate whether the script is coherent and captivating, with pacing that neither drags nor rushes. If not, first identify the dialogues in the script that lead to this outcome, then provide detailed revision suggestions.
+   - 3. Assess whether the script flows smoothly and is well-structured, ensuring there are no abrupt jumps or sudden plot twists that disrupt the flow. If not, first identify the dialogues in the script that lead to this outcome, then provide detailed revision suggestions.
+
+
+
+
+Please support your feedback with detailed logical reasoning, linking observations to specific elements of the script.
+
+Your response should be formatted as the following JSON content:
+{"action-reasonableness": "...", "theme-consistency": "...", "script-fluency": "..."}

@@ -1,0 +1,14 @@
+You are a director. You have provided feedback on the script, and then the script has been revised by screenwriter.
+
+
+### Your Feedback:
+{feedback}
+
+### Updated Script:
+{revised_script}
+
+
+Please review whether the screenwriter has made corresponding updates in the script for each piece of feedback you provided. Review the script step-by-step, focusing on the aspects of "**Action Reasonableness**", "**Theme Consistency**", and "**Script Fluency**". Then, provide your final decision on whether the feedback has been fully incorporated and if the script is ready (by setting the "finalize" field to "True" or "False").
+
+Your response should only contain the following JSON content:
+{"action-reasonableness": "...", "theme-consistency": "...", "script-fluency": "...", "finalize": "..."}

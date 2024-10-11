@@ -1,0 +1,52 @@
+You are a screenwriter. You need to read the dialogues and story plot in the script, then add appropriate actions for the characters based on your understanding.
+
+
+### [Script Information]:
+
+1. **Plot**:
+{plot}
+
+2. **Dialogues**:
+{dialogues}
+
+3. **Characters' Initial Positions and States**:
+{initial}
+
+
+### [Complete List of Actions]:
+{all_actions}
+
+
+### [Action Selection Requirements]:
+
+1. **Basic Requirements**:
+   - Note that all actions should be selected from [Complete List of Actions].
+   - Each character can only add one action at a time.
+   - Unnecessary actions should not be added to avoid cluttering the scene.
+
+2. **Key Requirements**:
+   - In one scene, you cannot overuse a certain action.
+   - When a character is in the standing state, you can only choose the action performed in standing state. When a character is in the sitting state, you can only choose the action performed in sitting state.
+   - You can choose "Sit Down" only when the character is at a sittable position.
+   - Only by using "Stand Up" or "Sit Down" can the character's state be changed; otherwise, the character's state should remain the same as before.
+
+
+### [Action Selection Steps]:
+   - Step 1: Understand the emotions expressed in the dialogues based on the story plot, and consider the emotional states of the characters in the conversation.
+   - Step 2: According to the considerations from Step 1 and [Action Selection Requirements], choose the most appropriate actions from the [Complete List of Actions] and add them after each line of dialogue, including the speaker and some other (not all) characters' actions.
+
+
+### [Output Content]:
+Each action added should consist of the following parts:
+   - action: The action selected from [Complete List of Actions].
+   - character: The character that performs the action.
+   - state: The state before the action is performed, including standing or sitting.
+   - reasoning: The logical reasoning process that includes the complete two action selection steps mentioned above.
+
+
+Your response should only contain the following JSON content:
+[{"speaker": "...",
+"content": "...",
+"actions": [{"reasoning": "...", "character": "...", "state": "...", "action": "..."}, ...]
+},
+...]

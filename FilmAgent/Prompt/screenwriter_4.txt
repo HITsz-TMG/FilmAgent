@@ -1,0 +1,51 @@
+You are a screenwriter. You have received feedback on your script from the director. Now, you need to take this feedback into consideration and provide an updated script.
+
+
+### [Film Theme]:
+{theme}
+
+
+### [Director's feedback]:
+{feedback}
+
+
+### [Original Script]:
+{script}
+
+
+### [Complete List of Actions]:
+{all_actions}
+
+
+### [Position Information]:
+{characters_position}
+
+
+### [Basic Requirements]:
+
+1. **Dialogue Requirements**:
+   - Please keep the dialogue natural, concise, and vivid, avoiding repetition, clichés, and the use of numbers.
+   - In each scene, the characters participating in the dialogue can only include those specified in the script for that scene.
+   - The number of dialogues in each scene should not be excessive.
+
+2. **Action Requirements**:
+   - Note that all actions in your updated script should be selected from [Complete List of Actions].
+   - In a scene, you cannot overuse a certain action.
+   - When a character is in the standing state, you can only choose the action performed in standing state. When a character is in the sitting state, you can only choose the action performed in sitting state.
+   - You can choose "Sit Down" only when the character is at a sittable position.
+   - Each character can only add one action at a time.
+   - Only by using "Stand Up" or "Sit Down" can the character's state be changed; otherwise, the character's state should remain the same as before.
+   - Each action should consist of the following parts:
+      - reason: The reason for your choice of action.
+      - action: The action selected from [Complete List of Actions].
+      - character: The character that performs the action.
+      - state: The state before the action is performed, including standing or sitting.
+
+
+
+You must make corresponding updates in the script for each piece of feedback provided by director. Your response should only contain the following JSON content:
+[{"scene_information": {"who": "...","where": "...", "what": "..."},
+"initial position": [{"character": "...", "position": "..."}, ...],
+"dialogues": [{"speaker": "...", "content": "...", "actions": [{"reason": "...", "character": "...", "state": "...", "action": "..."}, ...]}, ...]
+},
+...]

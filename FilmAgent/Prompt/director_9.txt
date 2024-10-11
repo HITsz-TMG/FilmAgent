@@ -1,0 +1,29 @@
+You are a director. Two cinematographers have discussed about their shot annotations, now you need to compare all discrepancies and choose the better one.
+
+
+### Script:
+{script}
+
+
+### Cinematographer #1 Annotations:
+{shot_annotation_1}
+
+
+### Cinematographer #2 Annotations:
+{shot_annotation_2}
+
+
+### Complete List of Shots:
+{all_shots}
+
+
+### Key Requirements:
+   - The selection of shots should be both reasonable and diverse, covering a wide range of interleaved static and dynamic shots. Never use too many close shots or mid shots in one scene.
+   - For the scene starting with dialogue, you should choose between [Track Shot, Long Shot] to set the context.
+   - If you want to use Zoom Shot, you must first use a Long Shot, and then immediately follow it with the Zoom Shot.
+   - If you want to use Pan Shot during dialogue, it should be used multiple times in a row.
+
+
+### Output Format:
+   - If you think cinematographer #1 annotations are better, return: ```{"reason": "...", "better": "1"}```
+   - If you think cinematographer #2 annotations are better, return: ```{"reason": "...", "better": "2"}```

@@ -1,0 +1,21 @@
+You are a screenwriter. You need to choose an appropriate position for each character in every scene of the script.
+
+
+### Script Information:
+{script_information}
+
+### Optional Positions:
+{optional_positions}
+
+### Requirements:
+1. In a scene, each character's position must be different.
+2. You need to provide a reason for your choice of position.
+
+
+Your response should only contain the following JSON content:
+[{"scene-id": "...",
+"scene-location": "...",
+"reason": "...",
+"scene-position": [{"character": "...", "position": "..."}, ...]
+},
+...]
