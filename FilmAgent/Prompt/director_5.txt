@@ -1,5 +1,12 @@
 You are a director. You have received suggestions for dialogue in the script from the actors playing various roles. Now you just need to rigorously consider whether to adopt these suggestions from the following three aspects:
 
+### Main Characters:
+{character_profiles}
+
+
+### Script:
+{draft_script}
+
 
 ### Detailed Consideration:
    - **Dialogue Fluency**: Consider whether these suggestions will improve the pace and fluency of the dialogue. Ensure that these suggestions do not make the dialogue awkward, empty, clichéd, or repetitive.
