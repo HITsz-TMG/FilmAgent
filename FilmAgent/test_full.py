@@ -501,7 +501,7 @@ class FilmCrafter:
         all_shots = read_prompt(self.shot_description_path)   
         params = {"{script}": script, "{all_shots}": all_shots}
         result1 = self.call("cinematographer", params)
-        result2 = self.call("director_8", params)
+        result2 = self.call("cinematographer", params)
         for scene_id, scene in result1.items():
             for shot_id, shot in scene.items():
                 shot.pop("reasoning")
@@ -573,7 +573,8 @@ class FilmCrafter:
                     "{all_shots}": all_shots
                     }
         result = self.call("director_9", params)
-        last_shots = current_shot_d if result['better'].lower()=="director" else current_shot_c
+        last_shots = current_shot_d if result['better']=="1" else current_shot_c
+        # last_shots = current_shot_d if result['better'].lower()=="director" else current_shot_c
         
         assert len(list(last_shots.keys())) == len(scenes)
         for id in range(len(list(last_shots.keys()))):
