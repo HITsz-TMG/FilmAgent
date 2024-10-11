@@ -8,11 +8,11 @@
        1. When the character is talking, use this shot multiple times in a row to create a tense atmosphere.
        2. When the character is moving, use this shot to display both the character and surroundings.
    - **Follow Shot**: Continuously follows a moving character.
-     - **Usage Condition**: This shot can only be used when the character is moving. Immersing the audience in the character's perspective during movement.
+     - **Usage Condition**: This shot can only be used when the character is moving, immersing the audience in the character's perspective during movement.
    - **360 Degrees Shot**: Circles completely around a standing character.
      - **Usage Condition**:
        1. This shot can be used when the character first appears in the script.
-       2. When the character is talking, create unease and heightening scene tension.
+       2. When the character is talking, create unease and heighten scene tension.
    - **Curve Surround Shot**: Moves from the character's feet to head, with the character standing.
      - **Usage Condition**: This shot can only be used when the character first appears in the script.
    - **Track Shot**: Switches dynamically between long shots.
