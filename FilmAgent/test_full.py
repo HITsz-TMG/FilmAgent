@@ -341,7 +341,9 @@ class FilmCrafter:
         suggestions = ""
         for name, suggestion in feedback.items():
             suggestions = suggestions + f"   - **{name}**: {suggestion}\n"
-        params = {"{suggestions}": suggestions}
+        params = {"{suggestions}": suggestions,
+                  "{character_profiles}": profiles,
+                  "{draft_script}": scenes}
         result = self.call("director_5", params)
         
         if result[return_most_similar("adopted-suggestions", list(result.keys()))] == "None":
