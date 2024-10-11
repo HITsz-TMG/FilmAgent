@@ -13,7 +13,7 @@ You are a cinematographer. Your task is to thoroughly review the script shot ann
 {all_shots}
 
 
-### [Review Guidelines]:
+### [Annotation Requirements]:
    - If there are too many close shots or mid shots in one scene, suggest appropriate dynamic shots to replace some, but not all, based on the usage conditions.
    - If the first shot of a dialogue-starting scene is neither a Track Shot nor a Long Shot, suggest a shot in [Track Shot, Long Shot] to replace it.
    - If a Zoom Shot is used in a scene, check whether the preceding shot is a Long Shot. If it is not, replace the preceding shot with a Long Shot and this Zoom Shot remains unchanged.
@@ -25,9 +25,9 @@ You are a cinematographer. Your task is to thoroughly review the script shot ann
 
 
 ### [Review Steps]:
-   - Step 1. Carefully review each shot annotation according to the [Review Guidelines]. Check whether the shot annotation violates any review guidelines, and if it does, specify which guideline it violates.
-   - Step 2. If step 1 finds that a shot annotation violates the review guidelines, then set the "need update" field to "True"; otherwise, set it to "False".
-   - Step 3. If "need update" field is "True", suggest a better updated shot to replace the original shot according to the [Review Guidelines]; otherwise, just set the "updated shot" field to "None".
+   - Step 1. Carefully review each shot annotation according to the [Annotation Requirements]. Check whether the shot annotation violates any requirements, and if it does, specify which guideline it violates.
+   - Step 2. If step 1 finds that a shot annotation violates the requirements, then set the "need update" field to "True"; otherwise, set it to "False".
+   - Step 3. If "need update" field is "True", suggest a better updated shot to replace the original shot according to the [Annotation Requirements]; otherwise, just set the "updated shot" field to "None".
 
 
 Please support your decision and suggestion with detailed logical reasoning. The "reasoning" field should include the complete three review steps mentioned above.
