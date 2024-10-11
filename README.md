@@ -3,7 +3,6 @@
 <h4 align="center">
   
 [![Project Page](https://img.shields.io/badge/Project_Page-FilmAgent-blue)](https://filmagent.github.io/)
-[![Paper](https://img.shields.io/badge/Paper-arxiv-yellow)](https://arxiv.org/abs/2405.11273)
 
 </h4>
 
