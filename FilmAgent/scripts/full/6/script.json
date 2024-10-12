@@ -1,0 +1,819 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Lisa",
+                "Emily"
+            ],
+            "where": "Apartment kitchen",
+            "what": "Lisa and Emily are preparing dinner in the kitchen. There's an underlying tension between the two. Lisa is chopping vegetables, while Emily is setting the table. Lisa keeps trying to offer advice to Emily, who is visibly frustrated. The tension stems from an earlier argument about Emily's future plans; she wants to move out, but Lisa thinks she's too young and not ready."
+        },
+        "scene": [
+            {
+                "speaker": "Lisa",
+                "content": "Emily, make sure the knife is really sharp before you cut the bread.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    },
+                    {
+                        "character": "Emily",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Long Shot 2",
+                "current position": [
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emily",
+                "content": "I know how to cut bread, Mom.",
+                "actions": [
+                    {
+                        "character": "Emily",
+                        "state": "standing",
+                        "action": "Standing Angry 4"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "I'm just trying to help.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emily",
+                "content": "I don't need help with everything.",
+                "actions": [
+                    {
+                        "character": "Emily",
+                        "state": "standing",
+                        "action": "Standing Angry 2"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "I'm sorry if I've been overprotective.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emily",
+                "content": "It's just... I need to make my own decisions.",
+                "actions": [
+                    {
+                        "character": "Emily",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "I understand. Promise me you'll think about it more?",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emily",
+                "content": "I promise, Mom.",
+                "actions": [
+                    {
+                        "character": "Emily",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Lisa",
+                "position": "Position 1"
+            },
+            {
+                "character": "Emily",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Mark",
+                "Jake",
+                "Lisa",
+                "Emily"
+            ],
+            "where": "Dining Room",
+            "what": "The family sits down for dinner. Mark casually mentions Emily's moving plans, not knowing the tension it had already caused. Jake, who is Emily's younger brother, takes Emily's side, believing she should be free to make her own decisions. The argument quickly escalates, with Lisa feeling cornered and Mark attempting to play the mediator. Emily and Jake bring up past grievances about how they're treated by their parents."
+        },
+        "scene": [
+            {
+                "speaker": "Mark",
+                "content": "I heard you girls talking in the kitchen earlier. So, Emily, when are you planning to move out?",
+                "actions": [
+                    {
+                        "character": "Mark",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    },
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    },
+                    {
+                        "character": "Emily",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Mark",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emily",
+                "content": "Dad, let's not talk about it right now.",
+                "actions": [
+                    {
+                        "character": "Emily",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Mark",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "I think she should move if she wants to.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Mark",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "Jake, you don't understand.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Mark",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "No, Mom. You don't understand us.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Arguing 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Mark",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emily",
+                "content": "Exactly. You guys treat us like kids.",
+                "actions": [
+                    {
+                        "character": "Emily",
+                        "state": "standing",
+                        "action": "Standing Arguing 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Mark",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "Because we worry about you.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Mark",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Mark",
+                "content": "Let's table this discussion for now and handle it more systematically after dinner.",
+                "actions": [
+                    {
+                        "character": "Mark",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Mark",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emily",
+                "content": "Fine by me.",
+                "actions": [
+                    {
+                        "character": "Emily",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Mark",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "Sure, can't wait for another round of family therapy.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Bored"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Mark",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Mark",
+                "position": "Position 1"
+            },
+            {
+                "character": "Lisa",
+                "position": "Position 2"
+            },
+            {
+                "character": "Emily",
+                "position": "Position 3"
+            },
+            {
+                "character": "Jake",
+                "position": "Position 4"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Mark",
+                "Jake",
+                "Lisa",
+                "Emily"
+            ],
+            "where": "Meeting room",
+            "what": "The family moves to the meeting room to have a more structured discussion. Mark introduces the idea of a 'talking stick' to ensure everyone gets a chance to speak without interruption. Each family member shares their perspective. Lisa explains her fears about Emily leaving and not being safe, while Jake talks about feeling unheard in the family. Emily expresses her desire for independence and reassures her family she's thought it through. Mark suggests potential compromises, like Emily looking at nearby apartments first."
+        },
+        "scene": [
+            {
+                "speaker": "Mark",
+                "content": "We'll use this stick to talk, okay? No interruptions.",
+                "actions": [
+                    {
+                        "character": "Mark",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Long Shot 2",
+                "current position": [
+                    {
+                        "character": "Mark",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 6"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "My fear is that Emily won't be safe if she leaves.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Mark",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 6"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "I feel like you never listen to us, Mom.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Angry 3"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Mark",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 6"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emily",
+                "content": "Mom, I've been planning this for months! I need my independence to grow and become my own person.",
+                "actions": [
+                    {
+                        "character": "Emily",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Mark",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 6"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Mark",
+                "content": "Let's look at nearby apartments first, as a compromise.",
+                "actions": [
+                    {
+                        "character": "Mark",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Mark",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 6"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emily",
+                "content": "I can agree to that.",
+                "actions": [
+                    {
+                        "character": "Emily",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Mark",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 6"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "Okay, but please, involve us more in your decisions.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Mark",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 6"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emily",
+                "content": "I will, Mom, I promise.",
+                "actions": [
+                    {
+                        "character": "Emily",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Mark",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Emily",
+                        "position": "Position 6"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 7"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Mark",
+                "position": "Position 1"
+            },
+            {
+                "character": "Lisa",
+                "position": "Position 2"
+            },
+            {
+                "character": "Emily",
+                "position": "Position 6"
+            },
+            {
+                "character": "Jake",
+                "position": "Position 7"
+            }
+        ]
+    }
+]

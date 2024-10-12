@@ -1,0 +1,780 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Beth",
+                "Drew",
+                "Maya"
+            ],
+            "where": "Apartment living room",
+            "what": "Alex, Drew, Beth, and Maya, who were once inseparable in college, have drifted apart due to misunderstandings and personal differences. Beth sends out invitations for a reunion in hopes of mending the fractures, choosing the intimate setting of their old friend's apartment living room. As they gather, memories of their past come flooding back, but so do the unresolved issues, leading to an initial confrontation. Drew, who feels betrayed by Alex over a past disagreement, immediately brings up the old feud, setting a tense tone. Maya, trying to pacify the situation, steps in but stirs up her own buried emotions."
+        },
+        "scene": [
+            {
+                "speaker": "Beth",
+                "content": "Seeing all of us together again brings back so many good memories. Despite everything, those times meant a lot to me.",
+                "actions": [
+                    {
+                        "character": "Beth",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Long Shot 2",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Beth",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Drew",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Drew",
+                "content": "The old days? Come on, Beth. Those days ended in a mess for me!",
+                "actions": [
+                    {
+                        "character": "Drew",
+                        "state": "standing",
+                        "action": "Standing Angry 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Beth",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Drew",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Oh come on, Drew. Are we still on this? It's been years.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Arguing 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Beth",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Drew",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Drew",
+                "content": "Years, Alex, but the sting is still there. You just left me hanging.",
+                "actions": [
+                    {
+                        "character": "Drew",
+                        "state": "standing",
+                        "action": "Standing Angry 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Beth",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Drew",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Guys, can we just... breathe for a second? We're here to mend things, not reopen wounds.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    },
+                    {
+                        "character": "Beth",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Beth",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Drew",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Drew",
+                "content": "Easy for you to say, Maya. You weren't the one blindsided.",
+                "actions": [
+                    {
+                        "character": "Drew",
+                        "state": "standing",
+                        "action": "Standing Angry 2"
+                    }
+                ],
+                "shot": "Long Shot 3",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Beth",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Drew",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "I believed my actions were in everyone's best interest. Looking back, I can see how they might have been hurtful. I wasn't trying to cause pain.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Zoom Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Beth",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Drew",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Can we at least try to understand each other's side for once?",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Zoom Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Beth",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Drew",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Beth",
+                "position": "Position 5"
+            },
+            {
+                "character": "Drew",
+                "position": "Position 3"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Beth",
+                "Maya"
+            ],
+            "where": "Relaxing Room",
+            "what": "Beth and Maya retreat to the Relaxing Room to catch their breath after the heated exchange in the living room. As they settle in, Beth opens up about her guilt of not being there for the group during crucial moments. Maya reveals her struggles of feeling unappreciated and distant. They reminisce about their college days, laugh about old times, and begin to understand each other's perspectives and personal journeys post-college. Their bond shows signs of mending, providing a hopeful contrast to the prior tension."
+        },
+        "scene": [
+            {
+                "speaker": "Beth",
+                "content": "I can't help but feel I should've been there more for all of you... for you, Maya.",
+                "actions": [
+                    {
+                        "character": "Beth",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Beth",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "It's not just you, Beth. I felt like everyone moved on and I was stuck. It hurt.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Beth",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Beth",
+                "content": "You know what I miss? Those late-night talks in our dorm room. We always had each other's back.",
+                "actions": [
+                    {
+                        "character": "Beth",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Beth",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Yeah, those were the best. I guess life just got in the way. But those moments meant the world to me.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Beth",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Beth",
+                "content": "Me too. I should've said something sooner. I'm sorry.",
+                "actions": [
+                    {
+                        "character": "Beth",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    },
+                    {
+                        "character": "Beth",
+                        "state": "standing",
+                        "action": "Sit Down"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Beth",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "We both made mistakes. What's important is that we're here now, right?",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Sit Down"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Beth",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 5"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Beth",
+                "position": "Position 4"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 5"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Drew",
+                "Beth",
+                "Maya"
+            ],
+            "where": "Dining Room",
+            "what": "Gathered around the Dining Room table for dinner, the group attempts to break the ice with some casual conversation. Alex, motivated by Beth and Maya's reconciliation, attempts to apologize to Drew. Drew, still hurt but willing to listen, explains how Alex's decisions impacted him deeply. The discussion becomes cathartic, with everyone starting to openly confront their issues and misunderstandings. By the end of the dinner, they aren't entirely mended but have taken significant steps towards reconciliation, highlighted by a group decision to work through their past grievances together."
+        },
+        "scene": [
+            {
+                "speaker": "Beth",
+                "content": "This lasagna tastes just like the one we used to make in college. Remember those kitchen disasters?",
+                "actions": [
+                    {
+                        "character": "Beth",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Drew",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Beth",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Oh god, how could I forget the infamous fire alarm incident?",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Drew",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Beth",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Beth",
+                "content": "Shall we join the others for dinner? It's getting late.",
+                "actions": [
+                    {
+                        "character": "Beth",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Drew",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Beth",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Speaking of disasters, Drew, I... I want to apologize for what happened. I handled it poorly.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Drew",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Beth",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Drew",
+                "content": "It's not as simple as an apology, Alex. You left me when I needed you the most.",
+                "actions": [
+                    {
+                        "character": "Drew",
+                        "state": "standing",
+                        "action": "Standing Angry 1"
+                    }
+                ],
+                "shot": "Zoom Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Drew",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Beth",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "I know. And I've regretted it every day. I didn't realize how much it hurt you until it was too late.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Drew",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Beth",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Drew",
+                "content": "Hurt doesn't even begin to cover it, but I see you're trying now. I just hope we can find a way to move forward.",
+                "actions": [
+                    {
+                        "character": "Drew",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Drew",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Beth",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Beth",
+                "content": "One step at a time. We all have our faults, but we also have our history.",
+                "actions": [
+                    {
+                        "character": "Beth",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Drew",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Beth",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "And maybe that history is worth fighting for. Agreed?",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Drew",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Beth",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Drew",
+                "content": "Agreed. Let's make this a new beginning, all of us.",
+                "actions": [
+                    {
+                        "character": "Drew",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Drew",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Beth",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Drew",
+                "position": "Position 3"
+            },
+            {
+                "character": "Beth",
+                "position": "Position 2"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 4"
+            }
+        ]
+    }
+]

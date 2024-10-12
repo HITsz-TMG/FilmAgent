@@ -1,0 +1,918 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Lisa",
+                "Mark"
+            ],
+            "where": "Meeting room",
+            "what": "Alex is called into the meeting room by his boss, Lisa, accompanied by HR representative Mark. Lisa informs Alex that due to budget cuts and company restructuring, his position has been terminated. Alex, visibly shaken, tries to understand why he was chosen. Lisa explains that the decision wasn't personal, and Mark offers to assist with any severance and job placement services. Alex's initial shock turns to frustration, expressing how much he has given to the company."
+        },
+        "scene": [
+            {
+                "speaker": "Lisa",
+                "content": "Alex, thank you for joining us. We have some difficult news.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Track Shot 2",
+                "current position": [
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "What's going on?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "Due to budget cuts and restructuring, your position is one of those being terminated.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Terminated? Why me? I've given so much to this company.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Angry 2"
+                    },
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "It's not personal, Alex. This decision was made after thorough review.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Mark",
+                "content": "We'll help with severance and job placement services. You're not alone in this.",
+                "actions": [
+                    {
+                        "character": "Mark",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "I can't believe this... after all my hard work.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "Your hard work doesn't go unnoticed. This is a tough situation for all of us.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Mark",
+                "content": "Let's focus on the next steps. We have a list of opportunities you can consider, and I'm here to assist.",
+                "actions": [
+                    {
+                        "character": "Mark",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Fine. Let's look at those options. I need to figure out my next move.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 7"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Lisa",
+                "position": "Position 1"
+            },
+            {
+                "character": "Alex",
+                "position": "Position 5"
+            },
+            {
+                "character": "Mark",
+                "position": "Position 7"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Nina"
+            ],
+            "where": "Apartment living room",
+            "what": "Alex returns home to his apartment and finds his partner Nina in the living room. He explains what happened at work. Nina comforts him, but Alex's emotions overwhelm him. He starts to cry, feeling helpless and unsure about the future. Nina tries to assure him that they will get through this together and that he is more than just his job."
+        },
+        "scene": [
+            {
+                "speaker": "Nina",
+                "content": "Hey, you're home early. What's wrong?",
+                "actions": [
+                    {
+                        "character": "Nina",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Track Shot 2",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "They fired me, Nina. Just like that.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Nina",
+                "content": "Oh no, Alex. I'm so sorry.",
+                "actions": [
+                    {
+                        "character": "Nina",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "I don't know what to do. I feel so lost.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Nina",
+                "content": "We'll figure it out, together. You're more than your job.",
+                "actions": [
+                    {
+                        "character": "Nina",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "I just... I don't see a way forward right now.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Nina",
+                "content": "Take a breath. We'll take this one step at a time. I'm here for you.",
+                "actions": [
+                    {
+                        "character": "Nina",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "sighs and starts to cry What if we can't make it through this?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Crying"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Nina",
+                "content": "We will. We've faced hard times before and survived. We'll do it again.",
+                "actions": [
+                    {
+                        "character": "Nina",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "sniffling You're right. Together, we'll find a way.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Crying"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Nina",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Mark",
+                "Lisa",
+                "Nina"
+            ],
+            "where": "Relaxing Room",
+            "what": "A few days later, Alex meets Mark and Lisa in a relaxing room at a local facility for a follow-up discussion, accompanied by Nina for moral support. Mark outlines some job placement options and Lisa provides recommendations for job positions in the network. Alex is more composed now, discussing potential opportunities and acknowledging the unfortunate situation. Nina adds her perspectives, helping Alex feel hopeful and focused on the future."
+        },
+        "scene": [
+            {
+                "speaker": "Mark",
+                "content": "Thank you for meeting with us, Alex. We have some potential opportunities to discuss.",
+                "actions": [
+                    {
+                        "character": "Mark",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "And we have some personal recommendations that might fit your skill set.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "I appreciate that. It's been tough, but I'm ready to move forward.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    },
+                    {
+                        "character": "Nina",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Nina",
+                "content": "Alex has been looking through his options. We're optimistic.",
+                "actions": [
+                    {
+                        "character": "Nina",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Mark",
+                "content": "That's the spirit. Here are a few roles that align with your experience. This one, for example, looks promising.",
+                "actions": [
+                    {
+                        "character": "Mark",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Yes, that does look interesting. Thank you for this.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "You'll bounce back from this, Alex. You have a strong track record.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Nina",
+                "content": "Exactly. This is just a new chapter for us.",
+                "actions": [
+                    {
+                        "character": "Nina",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "I'm starting to feel hopeful again. Let's pursue these leads and make things happen.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Mark",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Mark",
+                "content": "We're here to support you through this transition. Keep us updated on your progress.",
+                "actions": [
+                    {
+                        "character": "Mark",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Will do. Thanks again. I'm ready to take the next step.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Nina",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Mark",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 4"
+            },
+            {
+                "character": "Nina",
+                "position": "Position 5"
+            },
+            {
+                "character": "Lisa",
+                "position": "Position 1"
+            },
+            {
+                "character": "Mark",
+                "position": "Position 2"
+            }
+        ]
+    }
+]

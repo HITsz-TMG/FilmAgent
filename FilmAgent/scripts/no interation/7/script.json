@@ -1,0 +1,751 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Abe",
+                "Liza"
+            ],
+            "where": "Sofa Corner",
+            "what": "Abe and Liza sit in the dimly lit corner of their apartment, the atmosphere thick with tension. Abe has just revealed that he has accepted a job offer in another state. Liza is shocked and hurt, as this is the first she's hearing of it. They begin a heartfelt discussion about the impact of this decision on their relationship, reflecting on their memories and the challenges they've faced together. Liza tries to understand why Abe did not consult her first, and Abe explains his desperation for a change and better opportunities."
+        },
+        "scene": [
+            {
+                "speaker": "Liza",
+                "content": "Why didn't you tell me, Abe? How could you make such a huge decision without me?",
+                "actions": [
+                    {
+                        "character": "Liza",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Abe",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liza",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Abe",
+                "content": "I'm sorry, Liza. I just... I felt stuck. This job is a chance for something better, for both of us.",
+                "actions": [
+                    {
+                        "character": "Abe",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Abe",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liza",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liza",
+                "content": "But we're supposed to be a team. This blindsided me. Do you even care how this affects us?",
+                "actions": [
+                    {
+                        "character": "Liza",
+                        "state": "standing",
+                        "action": "Standing Angry 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Abe",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liza",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Abe",
+                "content": "Of course, I do. Every day it eats me up inside. I thought I could make things better for us. I wasn't thinking straight.",
+                "actions": [
+                    {
+                        "character": "Abe",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Abe",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liza",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liza",
+                "content": "We've faced so much together. From the start, we've always been open... about everything. Why didn't you trust me with this?",
+                "actions": [
+                    {
+                        "character": "Liza",
+                        "state": "standing",
+                        "action": "Standing Crying"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Abe",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liza",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Abe",
+                "content": "I was desperate, Liza. We've been through hell and back, and I didn't want to drag you through uncertainty anymore. This seemed like a way out.",
+                "actions": [
+                    {
+                        "character": "Abe",
+                        "state": "standing",
+                        "action": "Standing Arguing 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Abe",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liza",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liza",
+                "content": "I get needing change, but we're in this together. You should have told me. Now we're left with tough choices.",
+                "actions": [
+                    {
+                        "character": "Liza",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Long Shot 2",
+                "current position": [
+                    {
+                        "character": "Abe",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liza",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Abe",
+                "content": "I know. And I'm ready to face them with you. If you still want to.",
+                "actions": [
+                    {
+                        "character": "Abe",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Abe",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liza",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Abe",
+                "position": "Position 1"
+            },
+            {
+                "character": "Liza",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Max",
+                "Ray",
+                "Liza"
+            ],
+            "where": "Meeting room",
+            "what": "Liza seeks support from her close friends, Max and Ray, at the meeting room of a community center. She needs the strength to face the upcoming changes. Liza shares the news of Abe's impending move, and the trio discusses the implications for her future. Max, pragmatic and supportive, offers advice on how to navigate the situation. Ray, more emotional, reacts strongly, highlighting the strain this move could place on Liza and Abe's relationship. Together, they brainstorm possible solutions, exploring whether long-distance could work."
+        },
+        "scene": [
+            {
+                "speaker": "Liza",
+                "content": "Abe's moving. He took a job out of state, and he didn't tell me until now.",
+                "actions": [
+                    {
+                        "character": "Liza",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Track Shot 3",
+                "current position": [
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Ray",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "Wow, that's heavy. How are you feeling about it?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Ray",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Ray",
+                "content": "I can't believe it. How can he just drop this on you? What's he thinking?",
+                "actions": [
+                    {
+                        "character": "Ray",
+                        "state": "standing",
+                        "action": "Standing Angry 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Ray",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liza",
+                "content": "I'm torn. He says it's for our future, but it feels like a betrayal. What if we can't make this work?",
+                "actions": [
+                    {
+                        "character": "Liza",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Ray",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "Okay, let's take a step back. This isn't ideal, but long-distance isn't impossible. Many couples do it. You need a plan.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Ray",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Ray",
+                "content": "Yeah, but it's going to be incredibly hard. You need to prepare for that strain.",
+                "actions": [
+                    {
+                        "character": "Ray",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Ray",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liza",
+                "content": "I know. But I still love him. Maybe we can find a balance?",
+                "actions": [
+                    {
+                        "character": "Liza",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Ray",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "Sure, you need to set clear communication routines, plan regular visits, and stay committed to each other.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Ray",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Ray",
+                "content": "And don't forget, you can reach out to us. We'll support you however we can.",
+                "actions": [
+                    {
+                        "character": "Ray",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Ray",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liza",
+                "content": "Thank you both. This helps. I feel a bit more ready to talk to him about it.",
+                "actions": [
+                    {
+                        "character": "Liza",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Ray",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Liza",
+                "position": "Position 1"
+            },
+            {
+                "character": "Max",
+                "position": "Position 5"
+            },
+            {
+                "character": "Ray",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Abe",
+                "Liza"
+            ],
+            "where": "Roadside",
+            "what": "Abe and Liza stand at the roadside, the morning sun casting long shadows on the pavement. Abe's car, packed with his belongings, is parked nearby. The scene is heavy with unspoken words as they both struggle to find closure. Their conversation oscillates between hopeful reminiscences and fears for the future. Liza hands Abe a small, cherished memento, symbolizing everything they've shared. Abe promises to stay in touch and reassures Liza that this is not the end for them. They share a final, tearful embrace before Abe gets into his car."
+        },
+        "scene": [
+            {
+                "speaker": "Liza",
+                "content": "This feels like a dream, like you're not really leaving.",
+                "actions": [
+                    {
+                        "character": "Liza",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Abe",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Abe",
+                "content": "I know. It feels so surreal. But this isn't goodbye forever.",
+                "actions": [
+                    {
+                        "character": "Abe",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Abe",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liza",
+                "content": "I found this. Thought you should have it. It's everything we are.",
+                "actions": [
+                    {
+                        "character": "Liza",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Abe",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Abe",
+                "content": "Our first photo together. I remember that day like it was yesterday. Thank you, Liza.",
+                "actions": [
+                    {
+                        "character": "Abe",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Abe",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liza",
+                "content": "Promise me we'll make this work. I can't bear to think otherwise.",
+                "actions": [
+                    {
+                        "character": "Liza",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Abe",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Abe",
+                "content": "I promise. We'll call every night, visit whenever we can. This isn't the end for us.",
+                "actions": [
+                    {
+                        "character": "Abe",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Abe",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liza",
+                "content": "I hope you're right. I believe in us-just scared of what's ahead.",
+                "actions": [
+                    {
+                        "character": "Liza",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Abe",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Abe",
+                "content": "I'm scared too. But we'll face it together, no matter the distance.",
+                "actions": [
+                    {
+                        "character": "Abe",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Abe",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liza",
+                "content": "Take care of yourself out there. Don't forget to call me the moment you arrive.",
+                "actions": [
+                    {
+                        "character": "Liza",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Abe",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Abe",
+                "content": "I won't. I love you, Liza.",
+                "actions": [
+                    {
+                        "character": "Abe",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Abe",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liza",
+                "content": "I love you too, Abe.",
+                "actions": [
+                    {
+                        "character": "Liza",
+                        "state": "standing",
+                        "action": "Standing Crying"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Abe",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liza",
+                        "position": "Position 1"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Abe",
+                "position": "Position 2"
+            },
+            {
+                "character": "Liza",
+                "position": "Position 1"
+            }
+        ]
+    }
+]

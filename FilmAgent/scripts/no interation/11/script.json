@@ -1,0 +1,455 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Morgan"
+            ],
+            "where": "Office",
+            "what": "Alex and Morgan are in the office putting the final touches on the project presentation. They've been working tirelessly for months, pushing through obstacles and roadblocks. As they hit the 'submit' button, they exchange relieved smiles, signaling the end of an arduous journey. The office is quiet, reflecting the surreal feeling of finally finishing the project."
+        },
+        "scene": [
+            {
+                "speaker": "Alex",
+                "content": "It's done. We actually did it.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "move": {
+                    "character": "Morgan",
+                    "destination": "Position 2"
+                },
+                "shot": "Follow Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Morgan",
+                "content": "I can't believe it's finally over. This feels unreal.",
+                "actions": [
+                    {
+                        "character": "Morgan",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Morgan",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "We need to gather the team and share the news. It's time to celebrate.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 3"
+            },
+            {
+                "character": "Morgan",
+                "position": "Position 1"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Casey",
+                "Sam",
+                "Morgan"
+            ],
+            "where": "Meeting room",
+            "what": "Alex and Morgan meet with Casey and Sam in the meeting room to share the great news of the project completion. The room still has traces of their intense working sessions-whiteboards filled with diagrams, sticky notes on walls, and a table cluttered with papers. As Alex explains the successful submission, the team's tension melts away, replaced by smiles and laughter. They reminisce about the challenges they overcame together."
+        },
+        "scene": [
+            {
+                "speaker": "Alex",
+                "content": "Everyone, great news! The project is officially submitted.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Track Shot 3",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 7"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Casey",
+                "content": "No way! This is amazing!",
+                "actions": [
+                    {
+                        "character": "Casey",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    },
+                    {
+                        "character": "Morgan",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 7"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "We did it. Remember when we thought it was impossible?",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 7"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Morgan",
+                "content": "I'll never forget those all-nighters and last-minute changes.",
+                "actions": [
+                    {
+                        "character": "Morgan",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 7"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Casey",
+                "content": "Feels like we've been through a war together.",
+                "actions": [
+                    {
+                        "character": "Casey",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 7"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "How about we take this celebration to a more relaxed environment?",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Sit Down"
+                    }
+                ],
+                "shot": "Long Shot 2",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 7"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 5"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Morgan",
+                "position": "Position 7"
+            },
+            {
+                "character": "Casey",
+                "position": "Position 3"
+            },
+            {
+                "character": "Sam",
+                "position": "Position 5"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Casey",
+                "Sam",
+                "Morgan"
+            ],
+            "where": "Relaxing Room",
+            "what": "The team relocates to the Relaxing Room, a cozy space with comfortable seating, subtle lighting, and a relaxed ambiance perfect for unwinding. They grab some beverages and settle in, reflecting on their collaboration, shared experiences, and the friendships forged during the project. Casey proposes a toast to everyone's hard work, dedication, and the success they've achieved together."
+        },
+        "scene": [
+            {
+                "speaker": "Casey",
+                "content": "Here's to us - to the long nights, the teamwork, and the impossible deadlines.",
+                "actions": [],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "And to the bonds we've forged along the way.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Morgan",
+                "content": "To the project and many more successes to come!",
+                "actions": [
+                    {
+                        "character": "Morgan",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 4"
+            },
+            {
+                "character": "Morgan",
+                "position": "Position 5"
+            },
+            {
+                "character": "Casey",
+                "position": "Position 1"
+            },
+            {
+                "character": "Sam",
+                "position": "Position 2"
+            }
+        ]
+    }
+]

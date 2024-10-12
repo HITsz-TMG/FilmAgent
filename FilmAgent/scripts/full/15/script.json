@@ -1,0 +1,722 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Jake",
+                "Tara"
+            ],
+            "where": "Apartment living room",
+            "what": "Jake and Tara are lounging in the living room, chatting about their day. Gradually, Tara starts to notice that Jake is unusually quiet and seems distracted. She brings up a few past incidents that didn't make sense at the time, but now seem suspicious. Jake becomes increasingly uncomfortable as Tara's questions get closer to the truth. She finally confronts him directly, asking if there's something he's hiding. Jake's guilt is written all over his face but he avoids a direct answer."
+        },
+        "scene": [
+            {
+                "speaker": "Tara",
+                "content": "You seem awfully quiet tonight, Jake. Everything okay?",
+                "actions": [
+                    {
+                        "character": "Tara",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Track Shot 4",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tara",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "I am feeling a bit worn out today. It's been a long week.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tara",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Tara",
+                "content": "Remember that time you said you were working late, but I found out the office was closed?",
+                "actions": [
+                    {
+                        "character": "Tara",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tara",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "That... that was a misunderstanding.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tara",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Tara",
+                "content": "And last month, you got that mysterious call. You said it was the wrong number, but you looked rattled.",
+                "actions": [
+                    {
+                        "character": "Tara",
+                        "state": "standing",
+                        "action": "Standing Arguing 1"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tara",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "Life can be unpredictable, and not everything makes sense right away.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Tara",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Tara",
+                "content": "Jake, is there something you need to tell me?",
+                "actions": [
+                    {
+                        "character": "Tara",
+                        "state": "standing",
+                        "action": "Standing Arguing 1"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Tara",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "Tara, I... There's something I need to tell you all, but I'm scared.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Tara",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Tara",
+                "content": "More time for what? What's going on?",
+                "actions": [
+                    {
+                        "character": "Tara",
+                        "state": "standing",
+                        "action": "Standing Angry 2"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Tara",
+                        "position": "Position 3"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jake",
+                "position": "Position 1"
+            },
+            {
+                "character": "Tara",
+                "position": "Position 3"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Lila",
+                "Max"
+            ],
+            "where": "Storehouse",
+            "what": "Lila and Max meet at the storehouse to pick up some supplies for an upcoming event. As they rummage through old boxes, Lila finds an old photo album that belongs to Jake. Curiously, she flips through the pages and stumbles upon pictures that suggest Jake has a connection to someone they all know but never mentioned. Max joins her and they both start piecing together the puzzle. Realizing the magnitude of the secret, they decide to confront Jake together."
+        },
+        "scene": [
+            {
+                "speaker": "Lila",
+                "content": "Max, come check this out. Looks like Jake has an old photo album here.",
+                "actions": [
+                    {
+                        "character": "Lila",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Track Shot 2",
+                "current position": [
+                    {
+                        "character": "Lila",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "What's in it?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Lila",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lila",
+                "content": "Hold on... These pictures... Isn't this Sarah? But Jake never mentioned her.",
+                "actions": [
+                    {
+                        "character": "Lila",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Lila",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "He said she left town. Why are they together here?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Lila",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lila",
+                "content": "This doesn't add up, Max. We've got to find out what's really going on.",
+                "actions": [
+                    {
+                        "character": "Lila",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Lila",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "Jake's definitely hiding something. I say we bust him now!",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Angry 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Lila",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lila",
+                "content": "Today. No more waiting.",
+                "actions": [
+                    {
+                        "character": "Lila",
+                        "state": "standing",
+                        "action": "Standing Angry 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Lila",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "Agreed. Let's go now.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Zoom Shot",
+                "current position": [
+                    {
+                        "character": "Lila",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Lila",
+                "position": "Position 1"
+            },
+            {
+                "character": "Max",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Jake",
+                "Lila",
+                "Max",
+                "Tara"
+            ],
+            "where": "Apartment living room",
+            "what": "All four friends gather in the living room, tension palpable in the air. Tara and Jake are already there, with Jake feeling the pressure. Lila and Max arrive, holding the photo album. Lila opens with a stern yet concerned tone, asking Jake to explain the pictures. Jake, cornered, admits that he had a secret relationship with someone they all know-an ex-member of their friend group who had mysteriously left town. Jake reveals that this person was hiding from a troubled past and Jake had been secretly helping them. His confession brings mixed reactions: shock, betrayal, and understanding. They all discuss how the secret has affected their friendship."
+        },
+        "scene": [
+            {
+                "speaker": "Tara",
+                "content": "What's going on, Jake? You look even more tense than before.",
+                "actions": [
+                    {
+                        "character": "Tara",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Track Shot 2",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tara",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lila",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lila",
+                "content": "Jake, we found this at the storehouse.",
+                "actions": [
+                    {
+                        "character": "Lila",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tara",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lila",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "These photos... you need to explain.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Angry 1"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tara",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lila",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "I... I need to come clean. Sarah didn't just leave town.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tara",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lila",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Tara",
+                "content": "What do you mean?",
+                "actions": [
+                    {
+                        "character": "Tara",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tara",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lila",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "She was hiding from someone dangerous. I was helping her in secret.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tara",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lila",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lila",
+                "content": "Why didn't you tell us?",
+                "actions": [
+                    {
+                        "character": "Lila",
+                        "state": "standing",
+                        "action": "Standing Angry 4"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tara",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lila",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "I didn't want to put you in danger. I'm sorry.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tara",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lila",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "We could've helped. We're your friends.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Zoom Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tara",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lila",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jake",
+                "position": "Position 1"
+            },
+            {
+                "character": "Tara",
+                "position": "Position 3"
+            },
+            {
+                "character": "Lila",
+                "position": "Position 2"
+            },
+            {
+                "character": "Max",
+                "position": "Position 5"
+            }
+        ]
+    }
+]

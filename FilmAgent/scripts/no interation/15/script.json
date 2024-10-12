@@ -1,0 +1,1036 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Max",
+                "Kai",
+                "Luna"
+            ],
+            "where": "Apartment living room",
+            "what": "The story opens with Max and Kai playing a video game in the living room. Luna enters, visibly anxious as she joins them. While playing, Luna drops subtle hints about knowing something important. Max picks up on her anxiety and questions Luna gently, but she dodges the question. Kai, sensing the tension, also feels something is off. The scene sets the stage for a bigger reveal, creating a suspenseful atmosphere."
+        },
+        "scene": [
+            {
+                "speaker": "Max",
+                "content": "Luna, you got quiet all of a sudden. Everything okay?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Luna",
+                "content": "Yeah, I'm just... thinking. Don't worry about it.",
+                "actions": [
+                    {
+                        "character": "Luna",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Kai",
+                "content": "Thinking about what? You've been tense all week.",
+                "actions": [
+                    {
+                        "character": "Kai",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Luna",
+                "content": "It's nothing, really.",
+                "actions": [
+                    {
+                        "character": "Luna",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "Come on, you can tell us. We're here for you.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Luna",
+                "content": "I appreciate it, but it's complicated.",
+                "actions": [
+                    {
+                        "character": "Luna",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Kai",
+                "content": "Well, we're good at complicated. Spill it out whenever you're ready.",
+                "actions": [
+                    {
+                        "character": "Kai",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Luna",
+                "content": "Thanks, Kai...I'll try.",
+                "actions": [
+                    {
+                        "character": "Luna",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 3"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Max",
+                "position": "Position 1"
+            },
+            {
+                "character": "Kai",
+                "position": "Position 2"
+            },
+            {
+                "character": "Luna",
+                "position": "Position 3"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Max",
+                "Kai",
+                "Jade",
+                "Luna"
+            ],
+            "where": "Meeting room",
+            "what": "Gathered in the large meeting room, the friends discuss Luna's earlier behavior. Jade joins them, having been texted by Kai about the situation. Luna, under the pressure of her friends' concern, reluctantly reveals that she has been keeping a secret for years. She discloses that while in a previous city, she witnessed a traumatic event that she's been unable to talk about. The revelation shocks everyone, especially Max, who feels deeply about Luna's inability to share this pain earlier. Emotions run high as each friend expresses their feelings on the hidden secret."
+        },
+        "scene": [
+            {
+                "speaker": "Max",
+                "content": "Alright Luna, we've been worried sick. What's going on?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Long Shot 3",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jade",
+                "content": "Kai texted me, said something's bothering you. We're here for you, Luna.",
+                "actions": [
+                    {
+                        "character": "Jade",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Luna",
+                "content": "You guys... It's just so hard to talk about.",
+                "actions": [
+                    {
+                        "character": "Luna",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Kai",
+                "content": "We care, alright? Just tell us.",
+                "actions": [
+                    {
+                        "character": "Kai",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Luna",
+                "content": "Okay... I've been hiding something. Back in my old city, I witnessed something... traumatic.",
+                "actions": [
+                    {
+                        "character": "Luna",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "What happened?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Luna",
+                "content": "I saw someone get hurt, really badly, and I couldn't stop it. I've lived with that guilt.",
+                "actions": [
+                    {
+                        "character": "Luna",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jade",
+                "content": "Luna, you should have told us sooner. We're your friends.",
+                "actions": [
+                    {
+                        "character": "Jade",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "Why didn't you share this burden with us?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Luna",
+                "content": "I didn't want to drag you down with my past.",
+                "actions": [
+                    {
+                        "character": "Luna",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Kai",
+                "content": "You're never a burden. We're family.",
+                "actions": [
+                    {
+                        "character": "Kai",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jade",
+                "content": "We're here now. Thank you for telling us.",
+                "actions": [
+                    {
+                        "character": "Jade",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Luna",
+                "content": "I'm sorry for keeping it from you all.",
+                "actions": [
+                    {
+                        "character": "Luna",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "We'll get through this together, Luna. You're not alone.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Kai",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 1"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Max",
+                "position": "Position 5"
+            },
+            {
+                "character": "Kai",
+                "position": "Position 2"
+            },
+            {
+                "character": "Jade",
+                "position": "Position 4"
+            },
+            {
+                "character": "Luna",
+                "position": "Position 1"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Max",
+                "Jade",
+                "Luna"
+            ],
+            "where": "Sofa Corner",
+            "what": "After the intense conversation in the meeting room, Max, Jade, and Luna move to the cozy sofa corner to cool down. The atmosphere is somber but more peaceful. Jade comforts Luna with a heartfelt talk about the importance of friendship and emotional support. Max reflects on the bond they share and promises to be more attentive and supportive in the future. Luna, feeling a sense of relief, thanks her friends and expresses hope for healing. The scene closes with the trio sharing a quiet moment of solidarity, highlighting the strength of their friendship."
+        },
+        "scene": [
+            {
+                "speaker": "Max",
+                "content": "Feeling any better, Luna?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    },
+                    {
+                        "character": "Luna",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Long Shot 2",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Luna",
+                "content": "A bit... Thank you, Max.",
+                "actions": [
+                    {
+                        "character": "Luna",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    },
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jade",
+                "content": "Remember, Luna, we're always here. Friendship means sharing the highs and the lows.",
+                "actions": [
+                    {
+                        "character": "Jade",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    },
+                    {
+                        "character": "Luna",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Luna",
+                "content": "I know, Jade. I just didn't want to hurt you all.",
+                "actions": [
+                    {
+                        "character": "Luna",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    },
+                    {
+                        "character": "Jade",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "You could never hurt us by being honest. We'll face things together from now on.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    },
+                    {
+                        "character": "Luna",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jade",
+                "content": "Exactly. We're stronger as a team.",
+                "actions": [
+                    {
+                        "character": "Jade",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    },
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Luna",
+                "content": "I'll hold onto that. You guys are the best.",
+                "actions": [
+                    {
+                        "character": "Luna",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    },
+                    {
+                        "character": "Jade",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "We've got your back, always.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    },
+                    {
+                        "character": "Luna",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jade",
+                "content": "And we'll be here through thick and thin. No more secrets, okay?",
+                "actions": [
+                    {
+                        "character": "Jade",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    },
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Luna",
+                "content": "Agreed. Thank you both. This really means a lot.",
+                "actions": [
+                    {
+                        "character": "Luna",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Jade",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Luna",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Max",
+                "position": "Position 1"
+            },
+            {
+                "character": "Jade",
+                "position": "Position 3"
+            },
+            {
+                "character": "Luna",
+                "position": "Position 2"
+            }
+        ]
+    }
+]

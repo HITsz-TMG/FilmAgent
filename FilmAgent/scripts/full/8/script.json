@@ -1,0 +1,733 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Jordan",
+                "Casey"
+            ],
+            "where": "Meeting room",
+            "what": "In the workplace, Alex, Jordan, and Casey sit in the meeting room to discuss a potential new investment opportunity for the company. Alex, a cautious and strategic thinker, is wary of the risks involved, while Casey, always enthusiastic about innovation, sees great potential in the new venture. Jordan, the mediator, tries to weigh the pros and cons to facilitate a balanced discussion."
+        },
+        "scene": [
+            {
+                "speaker": "Casey",
+                "content": "This new venture could skyrocket our market reach. I mean, the tech alone is groundbreaking.",
+                "actions": [
+                    {
+                        "character": "Casey",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Track Shot 2",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Groundbreaking, sure, but also potentially bankrupting. We need more due diligence, including a thorough market analysis and financial risk assessment.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Angry 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jordan",
+                "content": "Hold on, both points are valid. Casey, let's hear those groundbreaking benefits you're talking about.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Casey",
+                "content": "Increased efficiency, new revenue streams, and a stronger market position.",
+                "actions": [
+                    {
+                        "character": "Casey",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "And the risks?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jordan",
+                "content": "Alright, how about this: we compile a detailed report and present it to the wider team tomorrow?",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Casey",
+                "content": "Agreed. I'll start preparing immediately.",
+                "actions": [
+                    {
+                        "character": "Casey",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Fine, but we need to stress the risks as well as the benefits.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jordan",
+                "content": "Then it's settled. We'll present it to the team tomorrow.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 6"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Casey",
+                "position": "Position 3"
+            },
+            {
+                "character": "Jordan",
+                "position": "Position 6"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Morgan",
+                "Jordan"
+            ],
+            "where": "Work room",
+            "what": "In the work room, Alex is frustrated with Morgan over his aggressive promotion of the new investment. Morgan believes taking risks is essential for significant growth, whereas Alex retorts that reckless decisions could jeopardize the company's stability. Jordan steps in to manage the tension and ensure that their debate doesn't derail the briefing."
+        },
+        "scene": [
+            {
+                "speaker": "Morgan",
+                "content": "I believe we should consider moving quickly on this opportunity, as it may not come around often.",
+                "actions": [
+                    {
+                        "character": "Morgan",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Fast? That's reckless. You can't just throw caution to the wind.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Angry 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Morgan",
+                "content": "Playing it safe won't get us anywhere. Growth requires bold moves.",
+                "actions": [
+                    {
+                        "character": "Morgan",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Bold moves, or foolish gambles? This company isn't just about taking wild risks.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Arguing 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jordan",
+                "content": "Alright, let's cool it for a moment. We're here to discuss, not to argue.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Morgan",
+                "content": "Fine, but we can't overanalyze to the point of inaction.",
+                "actions": [
+                    {
+                        "character": "Morgan",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "And we can't rush without understanding the full scope.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "shot": "Long Shot 2",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jordan",
+                "content": "We all have valid points. Let's agree to review more data before making any final calls.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Morgan",
+                "content": "Fair enough, I'll look at more data.",
+                "actions": [
+                    {
+                        "character": "Morgan",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Agreed, let's dive deeper before deciding.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 5"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Morgan",
+                "position": "Position 3"
+            },
+            {
+                "character": "Jordan",
+                "position": "Position 5"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Jordan",
+                "Casey",
+                "Morgan"
+            ],
+            "where": "Relaxing Room",
+            "what": "In the Relaxing Room, Jordan, Casey, and Morgan gather to make a final decision on the investment. The atmosphere is still charged with the day's earlier tensions. Jordan proposes a compromise that incorporates elements from both conservative and aggressive points of view. Casey reiterates the potential benefits, while Morgan grudgingly agrees to the compromise as long as there are safeguards."
+        },
+        "scene": [
+            {
+                "speaker": "Jordan",
+                "content": "Alright, everyone. How about a middle ground? We proceed, but with clear safeguards.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Track Shot 2",
+                "current position": [
+                    {
+                        "character": "Jordan",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Casey",
+                "content": "That way, we can harness the benefits without ignoring the risks.",
+                "actions": [
+                    {
+                        "character": "Casey",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jordan",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Morgan",
+                "content": "As long as the safeguards don't stifle innovation, I can accept that.",
+                "actions": [
+                    {
+                        "character": "Morgan",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jordan",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jordan",
+                "content": "We'll tailor the safeguards to ensure progress without jeopardy.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Zoom Shot",
+                "current position": [
+                    {
+                        "character": "Jordan",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Casey",
+                "content": "And we can adjust as we go, based on what we learn.",
+                "actions": [
+                    {
+                        "character": "Casey",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jordan",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Morgan",
+                "content": "Alright, but let's make sure it's dynamic, not just layers of bureaucracy.",
+                "actions": [
+                    {
+                        "character": "Morgan",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Jordan",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Morgan",
+                        "position": "Position 1"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jordan",
+                "position": "Position 4"
+            },
+            {
+                "character": "Casey",
+                "position": "Position 5"
+            },
+            {
+                "character": "Morgan",
+                "position": "Position 1"
+            }
+        ]
+    }
+]

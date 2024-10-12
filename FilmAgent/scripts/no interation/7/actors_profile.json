@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Abe",
+        "age": "32",
+        "gender": "male",
+        "occupation": "Mechanic",
+        "personality traits": "Dependable, stoic, kind-hearted",
+        "speaking style": "Brief, sincere, with a subtle Southern accent"
+    },
+    {
+        "name": "Liza",
+        "age": "29",
+        "gender": "female",
+        "occupation": "Nurse",
+        "personality traits": "Compassionate, empathetic, strong-willed",
+        "speaking style": "Warm and comforting, with a hint of urgency"
+    },
+    {
+        "name": "Max",
+        "age": "7",
+        "gender": "male",
+        "occupation": "Student",
+        "personality traits": "Curious, innocent, energetic",
+        "speaking style": "Inquisitive and straightforward, sometimes overly blunt"
+    },
+    {
+        "name": "Ray",
+        "age": "65",
+        "gender": "male",
+        "occupation": "Retired Army Veteran",
+        "personality traits": "Stern, wise, protective",
+        "speaking style": "Gruff, authoritative, with a deep and resonant voice"
+    }
+]

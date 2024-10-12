@@ -1,0 +1,827 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Sam",
+                "Lisa"
+            ],
+            "where": "Work room",
+            "what": "In a busy workroom filled with computers and cubicles, Sam and Lisa have just finished a stressful team meeting. As they de-stress, Sam mentions overhearing their boss talking about potential layoffs. Lisa, concerned, begins to speculate more about who might be on the chopping block, and how this could change office dynamics. The conversation starts to build an unintended narrative about internal company issues, quickly spiraling into a juicy piece of office gossip that begins to take shape."
+        },
+        "scene": [
+            {
+                "speaker": "Sam",
+                "content": "Wow, that was an intense meeting. Makes me wonder if there's more going on.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Track Shot 3",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "Yeah, the tension was palpable. What's on your mind?",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "Well, I overheard the boss talking about 'tough decisions' and 'tightening the belt'. Sounds like layoffs might be coming.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "Layoffs? Really? That would be a disaster. Do you think it's serious?",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "I don't mean to worry you, but it sounded pretty grim. Maybe we need to brace ourselves.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "This is terrible. If it's true, who do you think might be let go? The whole office dynamic would shift.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "Can't say for sure, but it's definitely something we should keep an eye on.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "You're right. This could be bigger than we think.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "Let's just stay alert and see how things unfold.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 5"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Sam",
+                "position": "Position 1"
+            },
+            {
+                "character": "Lisa",
+                "position": "Position 5"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Ben",
+                "Zoe",
+                "Lisa"
+            ],
+            "where": "Relaxing Room",
+            "what": "In the company's relaxing room, Ben and Zoe are having some downtime, playing casual games on their phones. Lisa enters, visibly anxious from her earlier conversation with Sam. Without much hesitation, she shares what she heard from Sam, adding her own speculations about job security and the potential for layoffs. Ben and Zoe, caught off-guard by this alarming information, start discussing the possibilities and how it might affect them personally. The gossip spreads like a wildfire as each adds their own twist to the story."
+        },
+        "scene": [
+            {
+                "speaker": "Lisa",
+                "content": "Hey guys, got a minute?",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Greeting"
+                    }
+                ],
+                "shot": "Track Shot 2",
+                "current position": [
+                    {
+                        "character": "Ben",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Ben",
+                "content": "Sure, what's up?",
+                "actions": [
+                    {
+                        "character": "Ben",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Ben",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zoe",
+                "content": "You look worried, Lisa. Everything okay?",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Ben",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "I just came from a chat with Sam. He overheard the boss talking about potential layoffs.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Ben",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Layoffs? Are you serious? That's huge.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Ben",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Ben",
+                "content": "Wait, what did he hear exactly?",
+                "actions": [
+                    {
+                        "character": "Ben",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Ben",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "Words like 'tough decisions' and 'tightening the belt'. It sounds like they're preparing for some cuts.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Ben",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zoe",
+                "content": "This could change everything. Who do you think is at risk?",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Ben",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Ben",
+                "content": "This will definitely stress everyone out. We should start thinking about our own plans just in case.",
+                "actions": [
+                    {
+                        "character": "Ben",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Ben",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "I hate to spread this, but we have to be prepared.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Ben",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Agreed. Better safe than sorry. Let's keep each other informed.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Ben",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 1"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Ben",
+                "position": "Position 4"
+            },
+            {
+                "character": "Zoe",
+                "position": "Position 5"
+            },
+            {
+                "character": "Lisa",
+                "position": "Position 1"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Sam",
+                "Lisa",
+                "Ben",
+                "Zoe"
+            ],
+            "where": "Meeting room",
+            "what": "Following a tension-filled week, the company holds an all-hands meeting in the spacious meeting room. As all four main characters gather among their colleagues, their boss clarifies the situation that started the rumors. It turns out the conversation Sam overheard was about a potential merger offering new opportunities rather than layoffs. Realizing their misunderstanding, Sam feels guilty for starting the gossip chain. Lisa, Ben, and Zoe discuss how assumptions led them astray, reaching a major understanding about the risks of office gossip and the importance of clear communication."
+        },
+        "scene": [
+            {
+                "speaker": "Lisa",
+                "content": "Good morning, everyone. I want to address some rumors about potential layoffs. There are no layoffs happening.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    },
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Track Shot 3",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ben",
+                        "position": "Position 6"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "What Sam overheard was part of a discussion about a possible merger, which could bring new opportunities, not cuts.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    },
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ben",
+                        "position": "Position 6"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "Oh man, I totally misunderstood. I'm so sorry everyone.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    },
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ben",
+                        "position": "Position 6"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "Sam, it happens. It's just... we got so carried away with it.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ben",
+                        "position": "Position 6"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zoe",
+                "content": "We all added our own twists. It kind of snowballed.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    },
+                    {
+                        "character": "Ben",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ben",
+                        "position": "Position 6"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Ben",
+                "content": "Yeah, assumptions really led us astray. We should have just asked for clarity.",
+                "actions": [
+                    {
+                        "character": "Ben",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ben",
+                        "position": "Position 6"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "Lesson learned. Next time, I'll make sure to get the facts straight before saying anything.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ben",
+                        "position": "Position 6"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lisa",
+                "content": "Agreed. Communication is key. Let's move on and be more open with each other.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lisa",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ben",
+                        "position": "Position 6"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 5"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Sam",
+                "position": "Position 3"
+            },
+            {
+                "character": "Lisa",
+                "position": "Position 2"
+            },
+            {
+                "character": "Ben",
+                "position": "Position 6"
+            },
+            {
+                "character": "Zoe",
+                "position": "Position 5"
+            }
+        ]
+    }
+]

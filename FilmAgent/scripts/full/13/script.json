@@ -1,0 +1,917 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Jack",
+                "Maya"
+            ],
+            "where": "Apartment living room",
+            "what": "Jack and Maya are setting up for a small house party. The living room is cozy and semi-lit with string lights. They are arranging snacks and drinks on the table, laughing and reminiscing about their college days. Jack mentions he's invited a few old friends, while Maya says she's glad to have some time to catch up."
+        },
+        "scene": [
+            {
+                "speaker": "Jack",
+                "content": "Remember that time we stayed up all night before finals?",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Track Shot 4",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "How could I forget? The caffeine-fueled delirium was the best part.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jack",
+                "content": "Speaking of snacks, the table looks great. I've invited a few old friends.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "I'm excited to catch up. We've got a lot of spectacularly bad decisions to laugh about.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jack",
+                "content": "Yeah, I thought it'd be nice to have everyone together again.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Definitely. Who all is coming?",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jack",
+                "content": "You know Sam, of course. And Mark, Jenny, and a couple more.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Sounds perfect. Can't wait to see everyone.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jack",
+                "position": "Position 1"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Jack",
+                "Ella",
+                "Sam"
+            ],
+            "where": "Dining Room",
+            "what": "As the party gets going, the doorbell rings. Jack, thinking it's another friend, casually opens the door. To his shock, it's Ella, Jack's ex-girlfriend, who wasn't invited. Sam, who is just arriving, is taken aback. Ella explains she's in the neighborhood and saw Jack's social media post. Tension builds as Jack and Ella exchange awkward pleasantries, and Sam tries to lighten the mood."
+        },
+        "scene": [
+            {
+                "speaker": "Jack",
+                "content": "Ella? Wow, I wasn't expecting to see you here.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Greeting"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Ella",
+                "content": "Hey Jack! I was just in the neighborhood, saw your post, and couldn't resist dropping by!",
+                "actions": [
+                    {
+                        "character": "Ella",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "360 Degrees Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jack",
+                "content": "Oh... uh, okay. Come in, I guess.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "Hey, Ella. Long time no see! What a surprise.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Ella",
+                "content": "Yeah, it's been a while. How have you been, Sam?",
+                "actions": [
+                    {
+                        "character": "Ella",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "Good, good. I've been busy with work, but things are going well. How about you, what have you been up to lately?",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Ella",
+                "content": "Just working and staying busy. Jack, is it okay if I join you guys tonight?",
+                "actions": [
+                    {
+                        "character": "Ella",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jack",
+                "content": "Sure, yeah. Just, um, make yourself comfortable.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jack",
+                "position": "Position 4"
+            },
+            {
+                "character": "Ella",
+                "position": "Position 1"
+            },
+            {
+                "character": "Sam",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Jack",
+                "Maya",
+                "Ella",
+                "Sam"
+            ],
+            "where": "Gaming room",
+            "what": "As the night progresses, the atmosphere becomes increasingly tense with Ella's presence. Jack, Maya, and Sam retreat to the gaming room. Ella follows them, wanting to reconnect. She sits quietly at first, but eventually, an argument breaks out between Jack and Ella. Maya, trying to mediate, suggests they all have a serious conversation. Sam supports this idea, sharing his neutral perspective. Eventually, Ella apologizes, and Jack agrees to move on, though clearly keeping boundaries."
+        },
+        "scene": [
+            {
+                "speaker": "Jack",
+                "content": "This room feels better.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Yeah, but it's getting a bit tense out there. How about we move to the gaming room for a change?",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jack",
+                "content": "Good idea. Let's get some breathing space.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Ella",
+                "content": "Jack, can we talk?",
+                "actions": [
+                    {
+                        "character": "Ella",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jack",
+                "content": "Okay, let's move to the gaming room, it's quieter there.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Ella",
+                "content": "I just want to clear the air.",
+                "actions": [
+                    {
+                        "character": "Ella",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jack",
+                "content": "Fine. What do you need to say?",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Ella",
+                "content": "I'm sorry for how things ended.",
+                "actions": [
+                    {
+                        "character": "Ella",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jack",
+                "content": "It hurt, but we've moved on.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Maybe we should lay everything out. It might help.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "I agree. Let's all just be honest.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Ella",
+                "content": "I didn't mean to cause tension tonight.",
+                "actions": [
+                    {
+                        "character": "Ella",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jack",
+                "content": "Okay, I accept your apology. But let's keep some boundaries.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Ella",
+                "content": "Absolutely. I respect that.",
+                "actions": [
+                    {
+                        "character": "Ella",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jack",
+                "content": "Alright then, let's try to enjoy the evening.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ella",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 4"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jack",
+                "position": "Position 1"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 2"
+            },
+            {
+                "character": "Ella",
+                "position": "Position 3"
+            },
+            {
+                "character": "Sam",
+                "position": "Position 4"
+            }
+        ]
+    }
+]

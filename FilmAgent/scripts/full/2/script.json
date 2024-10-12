@@ -1,0 +1,569 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Mia"
+            ],
+            "where": "Apartment living room",
+            "what": "Mia finds out that Alex has been hiding something significant from her-a secret correspondence with his ex, Lily. She is furious, feeling betrayed and confused. The scene begins with Mia confronting Alex, asking him to explain the messages she stumbled upon. Mia's anger intensifies as Alex tries to explain, leading to a heated exchange."
+        },
+        "scene": [
+            {
+                "move": {
+                    "character": "Mia",
+                    "destination": "Position 3"
+                },
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Mia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Mia",
+                "content": "Alex, what is this? I found messages between you and Lily.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Arguing 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Mia, I can explain. These conversations were part of resolving some unfinished matters from the past. I was trying to tie up loose ends, not hide anything important.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Mia",
+                "content": "Old? These are from just last week! How could you hide this from me, Alex? This isn't something you just forget to mention!",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Arguing 2"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "I didn't think it was important. I didn't want to upset you.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Mia",
+                "content": "Upset me? Do you have any idea how betrayed I feel?",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Angry 3"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "It wasn't like that, Mia. I swear, nothing happened.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Mia",
+                "content": "It's not just about what happened, Alex. It's about trust. And right now, I don't know if I can ever trust you again.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Crying"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Mia",
+                "position": "Position 2"
+            },
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Sam",
+                "Lily"
+            ],
+            "where": "Meeting room",
+            "what": "Sam calls Lily to discuss the recent fallout between Alex and Mia. Sam is clearly in Mia's corner and is upset with Lily for complicating their relationship. Lily, on the other hand, insists that she meant no harm and that Alex should have been forthright with Mia from the start. The tension between Sam and Lily peaks as they argue over who is to blame for the escalating situation."
+        },
+        "scene": [
+            {
+                "speaker": "Sam",
+                "content": "Lily, why were you texting Alex? You know how sensitive this is for Mia.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Angry 2"
+                    }
+                ],
+                "shot": "Track Shot 2",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lily",
+                "content": "Sam, it wasn't my intention to cause trouble. Alex reached out to me.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "Well, intention or not, you should have shut it down. You know how Mia feels about your history with Alex.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Arguing 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lily",
+                "content": "Look, Alex should have been honest with Mia from the very beginning! I'm not the one weaving lies and hiding truths here!",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "Seriously, Lily? Texting Alex? What, did your phone not have anyone else in the contacts?",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Angry 4"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Sam",
+                "position": "Position 5"
+            },
+            {
+                "character": "Lily",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Mia",
+                "Sam",
+                "Lily"
+            ],
+            "where": "Work room",
+            "what": "In a last-ditch effort, all four characters gather to discuss how to move forward. The atmosphere is thick with unresolved emotions. Alex tries to apologize and clarify his intentions, but Mia remains deeply hurt and skeptical. Sam supports Mia, while Lily tries to defend Alex, further complicating matters. The discussion becomes a mess of accusations, hurt feelings, and irreconcilable differences. Ultimately, Mia makes a decision about the future of her relationship with Alex."
+        },
+        "scene": [
+            {
+                "speaker": "Alex",
+                "content": "Mia, I'm sorry. I never meant for any of this to happen. I just didn't want to hurt you.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Track Shot 2",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Mia",
+                "content": "Your intentions don't matter now, Alex. It's the deceit that cuts the deepest.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Crying"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "Mia's right. Alex, you needed to be honest from the beginning.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lily",
+                "content": "Alex was trying to protect her. He's not the villain here.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Arguing 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Mia",
+                "content": "Lily, this isn't about you defending him. It's about what I need to do now.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Please, Mia. Give me a chance to make this right.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Mia",
+                "content": "I can't, Alex. Trust has been broken, and I don't think I can mend it. This is over.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 3"
+            },
+            {
+                "character": "Mia",
+                "position": "Position 5"
+            },
+            {
+                "character": "Sam",
+                "position": "Position 1"
+            },
+            {
+                "character": "Lily",
+                "position": "Position 2"
+            }
+        ]
+    }
+]

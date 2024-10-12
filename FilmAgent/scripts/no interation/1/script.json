@@ -1,0 +1,847 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Jake",
+                "Maya"
+            ],
+            "where": "Apartment living room",
+            "what": "Jake and Maya are the first to arrive at the reunion. They haven't spoken since their fallout a year ago due to a misunderstanding involving their other friends. The air is thick with awkwardness and unspoken words. They nervously engage in small talk, unable to address the elephant in the room while waiting for the others to arrive."
+        },
+        "scene": [
+            {
+                "speaker": "Jake",
+                "content": "So, uh, it's been a while, huh? How have you been?",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Yeah, it has. I've been... busy. You know, work and stuff.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "Same here. Lots going on.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "I guess it's good to catch up, though. Feels like forever.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "Definitely. Maybe tonight will help clear the air, or at least make things less awkward.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Let's hope so. For everyone's sake.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "Agreed. Let's just see how it goes.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jake",
+                "position": "Position 1"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 3"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Jake",
+                "Maya",
+                "Tyler",
+                "Zoe"
+            ],
+            "where": "Gaming room",
+            "what": "The reunion is in full swing with Tyler and Zoe's arrival. They start reminiscing about old times, playing games they used to enjoy. However, old wounds surface when a competitive game sparks a heated argument between Jake and Tyler about the past. Maya tries to mediate, but Zoe sides with Tyler, making tensions rise."
+        },
+        "scene": [
+            {
+                "speaker": "Tyler",
+                "content": "Oh man, remember the time we played this game all night?",
+                "actions": [
+                    {
+                        "character": "Tyler",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Track Shot 2",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Tyler",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Yes! And you always cheated, Tyler.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Tyler",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "Yeah, some things never change.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Angry 4"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Tyler",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Tyler",
+                "content": "Excuse me? I didn't cheat!",
+                "actions": [
+                    {
+                        "character": "Tyler",
+                        "state": "standing",
+                        "action": "Standing Angry 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Tyler",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "Sure, just like that time you 'didn't' set us up against each other.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Arguing 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Tyler",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Tyler",
+                "content": "You're still on about that? Come on, Jake. Grow up.",
+                "actions": [
+                    {
+                        "character": "Tyler",
+                        "state": "standing",
+                        "action": "Standing Arguing 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Tyler",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Guys, can we not do this?",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Tyler",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Jake, you're overreacting. Tyler didn't mean any harm back then.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Tyler",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "Overreacting? You all just brushed it off like it was nothing.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Angry 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Tyler",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Enough! We need to talk about what really happened.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Tyler",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 1"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jake",
+                "position": "Position 4"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 2"
+            },
+            {
+                "character": "Tyler",
+                "position": "Position 3"
+            },
+            {
+                "character": "Zoe",
+                "position": "Position 1"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Jake",
+                "Maya",
+                "Tyler",
+                "Zoe"
+            ],
+            "where": "Dining Room",
+            "what": "After the heated argument, the friends sit down for dinner in a tense atmosphere. Maya takes the initiative to address the misunderstandings directly. Each friend reveals their side of the story, unveiling hidden feelings and misconceptions. Tears and apologies are exchanged, leading to a heartfelt and emotional reconciliation."
+        },
+        "scene": [
+            {
+                "speaker": "Maya",
+                "content": "Alright, everyone. We need to lay everything out. No more dancing around it.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tyler",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "I didn't know how excluded you all felt. I thought I was the one left out.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Bored"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tyler",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Tyler",
+                "content": "Dude, we thought you didn't want to be part of the group anymore.",
+                "actions": [
+                    {
+                        "character": "Tyler",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tyler",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zoe",
+                "content": "I kept my distance because I didn't want any more drama.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tyler",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "We all made mistakes. I've held onto too much anger.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tyler",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "I'm sorry for pushing you away, Tyler, Zoe.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Crying"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tyler",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Tyler",
+                "content": "And I'm sorry for being insensitive, Jake.",
+                "actions": [
+                    {
+                        "character": "Tyler",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tyler",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Let's not let this happen again. I miss us.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tyler",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Agreed. Let's rebuild this. To new beginnings?",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Joyful Jump"
+                    }
+                ],
+                "shot": "Follow Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tyler",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jake",
+                "position": "Position 3"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 1"
+            },
+            {
+                "character": "Tyler",
+                "position": "Position 2"
+            },
+            {
+                "character": "Zoe",
+                "position": "Position 4"
+            }
+        ]
+    }
+]

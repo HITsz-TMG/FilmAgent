@@ -1,0 +1,904 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Brooke"
+            ],
+            "where": "Meeting room",
+            "what": "Alex and Brooke are in the office meeting room discussing a new investment opportunity. Alex, who's staunchly conservative in investment choices, proposes allocating funds towards blue-chip stocks. Brooke, a risk-taker by nature, suggests investing in a cutting-edge tech startup instead. They clash over the potential risks and benefits of each option, with Alex worrying about stability and Brooke emphasizing future growth potential."
+        },
+        "scene": [
+            {
+                "speaker": "Alex",
+                "content": "Brooke, we need to play it safe. Blue-chip stocks are our best bet for stable returns.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Brooke",
+                "content": "Alex, that's so predictable. This tech startup could skyrocket our returns.",
+                "actions": [
+                    {
+                        "character": "Brooke",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "And it could plummet just as easily. We can't gamble with the company's finances.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Arguing 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Brooke",
+                "content": "It's not gambling; it's calculated risk. Every big player started out as a startup. Think about the future potential.",
+                "actions": [
+                    {
+                        "character": "Brooke",
+                        "state": "standing",
+                        "action": "Standing Arguing 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "But we can't ignore current stability. Our clients trust us to make sound decisions.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Brooke",
+                "content": "They also expect us to be innovative. Sticking to old methods won't lead to growth.",
+                "actions": [
+                    {
+                        "character": "Brooke",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Let's agree to present both options to the team next meeting. They'll help us decide.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Brooke",
+                "content": "Deal. We'll let the team weigh in on this.",
+                "actions": [
+                    {
+                        "character": "Brooke",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 5"
+            },
+            {
+                "character": "Brooke",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Brooke",
+                "Chris",
+                "Dana"
+            ],
+            "where": "Sofa Corner",
+            "what": "At the Sofa Corner, the entire team gathers for a more informal discussion. Alex and Brooke present their proposals to Chris and Dana. Chris, a newcomer to the company and a financial wizard, immediately sees merits in both proposals but leans towards Brooke's daring choice. Dana, the team leader, urges everyone to consider the potential risks and rewards carefully. The debate heats up as each member passionately argues their standpoint, with data sheets and financial projections flying around."
+        },
+        "scene": [
+            {
+                "speaker": "Dana",
+                "content": "Alright, let's hear both proposals. Alex, you go first.",
+                "actions": [
+                    {
+                        "character": "Dana",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Track Shot 3",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Thanks, Dana. Blue-chip stocks offer the stability we need. They have a proven track record...",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Brooke",
+                "content": "If I may, Alex, that's exactly why we should look at this tech startup. It's poised for massive growth.",
+                "actions": [
+                    {
+                        "character": "Brooke",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Chris",
+                "content": "Interesting. Brooke's idea holds potential, but it's a high-risk gamble. There's a lot to consider.",
+                "actions": [
+                    {
+                        "character": "Chris",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    },
+                    {
+                        "character": "Dana",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Dana",
+                "content": "Precisely. We need to evaluate both the short-term risks and the long-term rewards.",
+                "actions": [
+                    {
+                        "character": "Dana",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Playing it safe isn't about missing out, it's about ensuring sustainable success.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Arguing 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Brooke",
+                "content": "And innovation is about seizing opportunities before they slip away.",
+                "actions": [
+                    {
+                        "character": "Brooke",
+                        "state": "standing",
+                        "action": "Standing Arguing 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Chris",
+                "content": "Both arguments are valid. Maybe this decision calls for more than immediate numbers. It's about our vision.",
+                "actions": [
+                    {
+                        "character": "Chris",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Dana",
+                "content": "Which is why we'll put it to a vote in the final meeting. Everyone should have a say in this.",
+                "actions": [
+                    {
+                        "character": "Dana",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 5"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 4"
+            },
+            {
+                "character": "Brooke",
+                "position": "Position 1"
+            },
+            {
+                "character": "Chris",
+                "position": "Position 2"
+            },
+            {
+                "character": "Dana",
+                "position": "Position 5"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Brooke",
+                "Chris",
+                "Dana"
+            ],
+            "where": "Meeting room",
+            "what": "Back in the formal setting of the meeting room, tensions are high. Each team member casts their vote after a final round of arguments. Alex and Brooke present their final cases, this time incorporating feedback from Chris and Dana. Chris, having had more time to crunch numbers, finds a potential middle-ground solution. Dana, as the tie-breaker, listens intently, knowing that the future of the company's finances hinges on this decision. They deliberate on the pros and cons one last time."
+        },
+        "scene": [
+            {
+                "speaker": "Dana",
+                "content": "Alright, final arguments. Alex, Brooke, make your case.",
+                "actions": [
+                    {
+                        "character": "Dana",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Track Shot 2",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "We've built our reputation on stability. Blue-chip stocks are the best way to maintain that trust.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Brooke",
+                "content": "Our reputation also depends on growth and innovation. This startup could define our future.",
+                "actions": [
+                    {
+                        "character": "Brooke",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Chris",
+                "content": "I've run the numbers again. Combining part of our funds into both options might mitigate risks while capturing growth.",
+                "actions": [
+                    {
+                        "character": "Chris",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Dana",
+                "content": "An interesting compromise. It addresses our need for security and potential for expansion.",
+                "actions": [
+                    {
+                        "character": "Dana",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "I suppose balancing both could work, as long as we're cautious.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Brooke",
+                "content": "It's a smart move. We'd be hedging our bets while staying progressive.",
+                "actions": [
+                    {
+                        "character": "Brooke",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Dana",
+                "content": "Alright, let's take a vote. Do we go all-in on one, or balance both?",
+                "actions": [
+                    {
+                        "character": "Dana",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Chris",
+                "content": "I vote for balancing both options.",
+                "actions": [
+                    {
+                        "character": "Chris",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Agreed, with oversight to ensure stability.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Brooke",
+                "content": "Balancing both gets my vote too.",
+                "actions": [
+                    {
+                        "character": "Brooke",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Dana",
+                "content": "Then it's settled. Chris, you'll oversee the execution. Let's ensure we navigate this path wisely.",
+                "actions": [
+                    {
+                        "character": "Dana",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Brooke",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Dana",
+                        "position": "Position 1"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 5"
+            },
+            {
+                "character": "Brooke",
+                "position": "Position 2"
+            },
+            {
+                "character": "Chris",
+                "position": "Position 4"
+            },
+            {
+                "character": "Dana",
+                "position": "Position 1"
+            }
+        ]
+    }
+]

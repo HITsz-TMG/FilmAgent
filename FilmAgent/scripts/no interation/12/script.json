@@ -1,0 +1,592 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Jax",
+                "Maya"
+            ],
+            "where": "Apartment living room",
+            "what": "Jax and Maya are spending their evening in their monotonous apartment, overwhelmed by their unchanging daily routines. The TV is blaring in the background, and Jax absentmindedly flips through channels while Maya listlessly scrolls through social media on her phone. They share a sense of longing but seem unable to break the cycle. Jax, frustrated, throws the remote on the couch and wistfully speaks about wanting something more from life, something exciting to break the monotony. This sparks a deeper conversation about their dreams and the realization that they both crave an escape from their current rut."
+        },
+        "scene": [
+            {
+                "speaker": "Jax",
+                "content": "I'm so tired of this, Maya. Every day feels the same.",
+                "actions": [
+                    {
+                        "character": "Jax",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Jax",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "I know, Jax. It feels like we're stuck in a loop.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jax",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jax",
+                "content": "We need something... anything... to bring back some excitement.",
+                "actions": [
+                    {
+                        "character": "Jax",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jax",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Like what? What could shake us out of this?",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jax",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jax",
+                "content": "I don't know. Maybe we need to escape. Do something crazy.",
+                "actions": [
+                    {
+                        "character": "Jax",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jax",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "An escape... That actually sounds perfect. But how?",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jax",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jax",
+                "content": "We plan it. Secretly. Just the two of us at first. Then figure out the details.",
+                "actions": [
+                    {
+                        "character": "Jax",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jax",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "You're right. Let's do it. Let's plan our escape and break free of this rut.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jax",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jax",
+                "position": "Position 1"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 3"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Maya",
+                "Zara",
+                "Alyx"
+            ],
+            "where": "Meeting room",
+            "what": "Maya, excited by the idea of an escape, ropes in her adventurous friend Zara and strategizes with her tech-savvy brother Alyx in a meeting room. As they sit around a large table with maps, notebooks, and laptops, the energy is electric. Zara throws out wild ideas about potential destinations and thrilling activities, while Alyx meticulously types up feasibility checks and logistical plans. The discussion intensifies as they debate the perfect plan to ensure their escape remains a secret. Each character's strengths shine through, highlighting their dedication to making this dream a reality."
+        },
+        "scene": [
+            {
+                "speaker": "Maya",
+                "content": "Alright, we're here to make this big escape a reality. Zara, what wild destinations do you have in mind?",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Maya",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Alyx",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zara",
+                "content": "How about a road trip across the country? We could hit up mountains, beaches, and everything in between.",
+                "actions": [
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Maya",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Alyx",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alyx",
+                "content": "I love the idea, but we need to think about logistics. How do we avoid raising suspicions?",
+                "actions": [
+                    {
+                        "character": "Alyx",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Maya",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Alyx",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "We'll need to be discreet. Maybe we start small, then take bigger leaps once we're on the road.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Maya",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Alyx",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zara",
+                "content": "We could camp out in remote areas. No hotels or crowded spots.",
+                "actions": [
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Maya",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Alyx",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alyx",
+                "content": "I'll handle the supplies and tech. We'll be ghosts-untrackable.",
+                "actions": [
+                    {
+                        "character": "Alyx",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Maya",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Alyx",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Perfect. We plan, we prep, and we go. We've got the perfect plan; now we just need to make it happen.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Maya",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Alyx",
+                        "position": "Position 5"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Maya",
+                "position": "Position 1"
+            },
+            {
+                "character": "Zara",
+                "position": "Position 2"
+            },
+            {
+                "character": "Alyx",
+                "position": "Position 5"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Jax",
+                "Maya",
+                "Zara"
+            ],
+            "where": "Storehouse",
+            "what": "Under the cover of night, Jax, Maya, and Zara gather in a dimly lit storehouse, the safe meeting spot for their covert departure. The air is thick with anticipation and nerves. Zara pulls up in a van filled with supplies, and they silently load it up, speaking only in hushed tones to avoid drawing attention. Jax and Maya share a moment of apprehension but reinforce their determination to break free from their limitations. The palpable tension peaks as they finalize their preparations, finally feeling the excitement of their secret escape. With one last glance at the storehouse, they embark on their journey to reclaim their sense of adventure and freedom."
+        },
+        "scene": [
+            {
+                "speaker": "Zara",
+                "content": "Everything's set. Supplies are in the van.",
+                "actions": [
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Track Shot 2",
+                "current position": [
+                    {
+                        "character": "Jax",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jax",
+                "content": "We're really doing this. Leaving it all behind.",
+                "actions": [
+                    {
+                        "character": "Jax",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jax",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "It feels surreal. But we have to. We need to.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jax",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zara",
+                "content": "Ready to load up, then? Let's not waste any more time.",
+                "actions": [
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jax",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jax",
+                "content": "Right. Let's do it quietly. No need for any attention.",
+                "actions": [
+                    {
+                        "character": "Jax",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jax",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "This is it - no turning back now. Let's go!",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jax",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 1"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jax",
+                "position": "Position 2"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 3"
+            },
+            {
+                "character": "Zara",
+                "position": "Position 1"
+            }
+        ]
+    }
+]

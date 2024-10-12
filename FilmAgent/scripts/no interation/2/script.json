@@ -1,0 +1,712 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Emma"
+            ],
+            "where": "Apartment living room",
+            "what": "Alex and Emma have been dating for years, but lately, they've been drifting apart due to their busy schedules and different priorities. Alex recently forgot their anniversary, causing an underlying tension that hasn't been addressed. Emma comes home after a long day at work to find Alex playing video games, seemingly unconcerned with the disharmony in their relationship. The argument starts with an innocent question from Emma about dinner plans and quickly spirals into a fight."
+        },
+        "scene": [
+            {
+                "speaker": "Emma",
+                "content": "Hey, any thoughts on dinner?",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Long Shot 3",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Uh, maybe order something? I'm in the middle of a game.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "move": {
+                    "character": "Emma",
+                    "destination": "Position 3"
+                },
+                "shot": "Follow Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "Of course you are. It's always the game, isn't it?",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Angry 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "What's that supposed to mean?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "It means you're more invested in a screen than in us! You forgot our anniversary, Alex.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Angry 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Look, I'm sorry about that. I've been stressed too, okay?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "Oh, so now I'm just nagging again, right?",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Angry 4"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Well, sometimes you are. It's like you're always on my case about something!",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Arguing 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 3"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Emma",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Nick",
+                "Lily"
+            ],
+            "where": "Gaming room",
+            "what": "Nick and Lily, friends of Alex and Emma, are at the gaming room unwinding after a stressful week. Despite the light-hearted environment, Lily starts discussing the ongoing problems in her own relationship, sensing the issues brewing between Alex and Emma as well. Unbeknownst to them, Alex storms into the room after a heated argument with Emma and joins the conversation, which triggers another argument. Lily attempts to mediate, but Nick's blunt comments only escalate the situation."
+        },
+        "scene": [
+            {
+                "speaker": "Lily",
+                "content": "Honestly, I just don't know if we're meant to be together anymore.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Nick",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Nick",
+                "content": "Maybe you guys need to take a break or something.",
+                "actions": [
+                    {
+                        "character": "Nick",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Nick",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "(Storms in) Guys, you won't believe the argument I just had with Emma.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Angry 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Nick",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lily",
+                "content": "What happened?",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Nick",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "She thinks I'm disconnected. I think she just won't back off!",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Angry 4"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Nick",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Nick",
+                "content": "Sounds like she's got a point, man.",
+                "actions": [
+                    {
+                        "character": "Nick",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Nick",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lily",
+                "content": "Nick! Not helping.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Angry 4"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Nick",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "No, no, let him talk. What's her point, Nick?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Nick",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Nick",
+                "content": "Maybe you're not putting in the effort, Alex. Relationships take work, both sides.",
+                "actions": [
+                    {
+                        "character": "Nick",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Nick",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Well, thanks for the insight. Great to know I'm the only problem here.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Angry 4"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Nick",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lily",
+                "content": "Alex, maybe you two just need to talk things out calmly.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Nick",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Nick",
+                "position": "Position 1"
+            },
+            {
+                "character": "Lily",
+                "position": "Position 2"
+            },
+            {
+                "character": "Alex",
+                "position": "Position 3"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Emma",
+                "Lily"
+            ],
+            "where": "Roadside",
+            "what": "Alex and Emma have left the apartment, continuing their argument outside by the roadside. Lily follows them, concerned about her friends and hoping to help them see eye-to-eye again. The tension reaches its peak when Emma admits she's been considering breaking up. Alex, feeling cornered and emotional, angrily agrees that maybe it's for the best. Lily tries to calm them down, but the emotional damage is done, and both Alex and Emma realize they need time apart to think."
+        },
+        "scene": [
+            {
+                "speaker": "Emma",
+                "content": "I can't keep doing this, Alex. I've been thinking about... ending things.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "You know what? Maybe you're right. Maybe this isn't working anymore.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Angry 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lily",
+                "content": "Guys, don't say things you can't take back. Let's talk this through.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "No, Lily. We've been talking and it's always the same. We're stuck.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Yeah, maybe some time apart will help us figure things out.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lily",
+                "content": "If that's what you both need, just know I'm here for you.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 1"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Emma",
+                "position": "Position 2"
+            },
+            {
+                "character": "Lily",
+                "position": "Position 1"
+            }
+        ]
+    }
+]

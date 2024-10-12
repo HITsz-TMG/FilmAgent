@@ -1,0 +1,849 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Max",
+                "Lana"
+            ],
+            "where": "Apartment living room",
+            "what": "Max and Lana are sitting in their apartment living room, surrounded by the mundane trappings of their daily life. Both are visibly drained from their monotonous routines. Max flicks through TV channels with a glazed expression while Lana sips coffee, lost in thought. Suddenly, Lana mentions her childhood dream of traveling across the country in a vintage van. This idea sparks something in Max, who has also been craving an escape. They begin to discuss the possibility of breaking away from their boring routines and planning an escape."
+        },
+        "scene": [
+            {
+                "speaker": "Lana",
+                "content": "You know, I had this crazy dream as a kid-to travel the country in a vintage van. Can you imagine?",
+                "actions": [
+                    {
+                        "character": "Lana",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Track Shot 3",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "That sounds amazing. Why did it never happen?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Long Shot 3",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lana",
+                "content": "Life happened. But I still think about it sometimes.",
+                "actions": [
+                    {
+                        "character": "Lana",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Zoom Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "I've been wanting to escape this routine too. Maybe we could actually do it.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lana",
+                "content": "Really? Do you think we could?",
+                "actions": [
+                    {
+                        "character": "Lana",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "Why not? Let's start planning and see where it takes us.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lana",
+                "content": "Alright, let's do it! We'll need a map, a reliable van, and figure out our route.",
+                "actions": [
+                    {
+                        "character": "Lana",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "We'll figure it out together. Let's make this happen.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lana",
+                "content": "To new beginnings, Max.",
+                "actions": [
+                    {
+                        "character": "Lana",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Max",
+                "position": "Position 1"
+            },
+            {
+                "character": "Lana",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Max",
+                "Lana",
+                "Nico",
+                "Ivy"
+            ],
+            "where": "Meeting room",
+            "what": "Max and Lana realize they can't do this alone and decide to involve their closest friends, Nico and Ivy. They invite them to the meeting room under the guise of a game night. As they gather around the table, Max and Lana share their plan to break free from their mundane lives. Initially, Nico and Ivy think it's a joke but soon sense the seriousness in their friends' voices. Intrigued and equally disillusioned with their own routines, Nico and Ivy start to warm up to the idea. They discuss the logistics, potential challenges, and the thrilling freedom that awaits."
+        },
+        "scene": [
+            {
+                "speaker": "Max",
+                "content": "We know we said game night, but trust us, this is much more exciting.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Long Shot 2",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Nico",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ivy",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Nico",
+                "content": "If this isn't the best thing I've heard all week, I'm out.",
+                "actions": [
+                    {
+                        "character": "Nico",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Nico",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ivy",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lana",
+                "content": "We want to break free from our routines and travel the country in a vintage van.",
+                "actions": [
+                    {
+                        "character": "Lana",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Nico",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ivy",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Ivy",
+                "content": "You're joking, right?",
+                "actions": [
+                    {
+                        "character": "Ivy",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Nico",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ivy",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "We're serious. We need you both to join us.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Nico",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ivy",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Nico",
+                "content": "Wait, you mean an actual escape from all of this?",
+                "actions": [
+                    {
+                        "character": "Nico",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Nico",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ivy",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lana",
+                "content": "Exactly. Isn't that what we've all wanted?",
+                "actions": [
+                    {
+                        "character": "Lana",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Nico",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ivy",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Ivy",
+                "content": "Honestly, yes. I'm so tired of the same old grind.",
+                "actions": [
+                    {
+                        "character": "Ivy",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Nico",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ivy",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Nico",
+                "content": "Alright, I'm intrigued. What do we need to do?",
+                "actions": [
+                    {
+                        "character": "Nico",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Nico",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ivy",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "We'll need all hands on deck. Planning, supplies, everything. Are you in?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Nico",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ivy",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Ivy",
+                "content": "Count me in.",
+                "actions": [
+                    {
+                        "character": "Ivy",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Nico",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ivy",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Nico",
+                "content": "Me too. Let's make this happen.",
+                "actions": [
+                    {
+                        "character": "Nico",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lana",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Nico",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ivy",
+                        "position": "Position 6"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Max",
+                "position": "Position 1"
+            },
+            {
+                "character": "Lana",
+                "position": "Position 5"
+            },
+            {
+                "character": "Nico",
+                "position": "Position 2"
+            },
+            {
+                "character": "Ivy",
+                "position": "Position 6"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Max",
+                "Nico",
+                "Ivy"
+            ],
+            "where": "Storehouse",
+            "what": "In the final stage of their planning, Max, Nico, and Ivy meet in a secluded storehouse to gather supplies and finalize their plan. The storehouse is filled with camping gear, maps, and other essentials they've been secretly collecting. Ivy is poring over a map, detailing their route, while Nico checks the supplies against a list. Max, visibly excited, shares his final thoughts and pep talk, ensuring everyone is committed and aware of their roles. They understand the risks but are determined to make their escape a reality. The air is filled with anticipation and nervous energy."
+        },
+        "scene": [
+            {
+                "speaker": "Ivy",
+                "content": "Okay, the route is set. We'll start here and head west.",
+                "actions": [
+                    {
+                        "character": "Ivy",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Nico",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ivy",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Nico",
+                "content": "I've checked the supplies. We're all set.",
+                "actions": [
+                    {
+                        "character": "Nico",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Nico",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ivy",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "This is really happening. Everyone ready?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Nico",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ivy",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Ivy",
+                "content": "I've been dreaming about this for weeks. Totally ready.",
+                "actions": [
+                    {
+                        "character": "Ivy",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Nico",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ivy",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Nico",
+                "content": "Yes, exactly. It's time to make our dream a reality.",
+                "actions": [
+                    {
+                        "character": "Nico",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Nico",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ivy",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "Remember, we meet at the departure point at dawn. Stay sharp and stay excited.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Nico",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ivy",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Ivy",
+                "content": "Understood. I can't wait for us to embark on this journey together.",
+                "actions": [
+                    {
+                        "character": "Ivy",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Nico",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ivy",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Nico",
+                "content": "We're in this together. No backing out now.",
+                "actions": [
+                    {
+                        "character": "Nico",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Nico",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Ivy",
+                        "position": "Position 1"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Max",
+                "position": "Position 3"
+            },
+            {
+                "character": "Nico",
+                "position": "Position 2"
+            },
+            {
+                "character": "Ivy",
+                "position": "Position 1"
+            }
+        ]
+    }
+]

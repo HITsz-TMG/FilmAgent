@@ -1,0 +1,677 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Evan"
+            ],
+            "where": "Roadside",
+            "what": "Alex is walking home from work, lost in his thoughts, when he suddenly hears someone call his name. He turns to see Evan, his old high school best friend, whom he hasn't seen in years. The two immediately recognize each other and share an enthusiastic hug. Alex learns that Evan has just moved back to the city for a new job, and they quickly fall into an easy conversation, reminiscing about old times and catching up on what's new."
+        },
+        "scene": [
+            {
+                "speaker": "Evan",
+                "content": "Alex! Is that you?",
+                "actions": [
+                    {
+                        "character": "Evan",
+                        "state": "standing",
+                        "action": "Standing Greeting"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Evan? No way! It's been ages!",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Evan",
+                "content": "Man, you haven't changed one bit!",
+                "actions": [
+                    {
+                        "character": "Evan",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Neither have you, my friend. What brings you back to the city?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Evan",
+                "content": "Just got a new job here. Thought it was time for a change, you know?",
+                "actions": [
+                    {
+                        "character": "Evan",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "That's awesome! We definitely need to catch up more. How about we get the old gang together?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Evan",
+                "content": "Absolutely! Let's plan something soon.",
+                "actions": [
+                    {
+                        "character": "Evan",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Evan",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Evan",
+                "Mia",
+                "Zoe"
+            ],
+            "where": "Apartment living room",
+            "what": "The following weekend, Alex and Evan have arranged a small gathering at Alex's apartment. Alex's girlfriend, Mia, and Zoe, another mutual friend from high school, join them. There's a mix of nostalgia and excitement in the air as they share funny stories and update each other on their lives. However, there's an underlying tension as Mia senses a spark between Alex and Zoe, reminiscent of their high school days, which threatens to stir old emotions."
+        },
+        "scene": [
+            {
+                "speaker": "Alex",
+                "content": "I'm so glad we could all get together. It's like a trip down memory lane.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Remember that time we got caught sneaking into the gym after hours?",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Evan",
+                "content": "Oh man, Coach Patterson was so mad! I thought he was going to make us run laps for the rest of our lives.",
+                "actions": [
+                    {
+                        "character": "Evan",
+                        "state": "standing",
+                        "action": "Standing Arguing 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Mia",
+                "content": "You guys were quite the rebels, huh?",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Those were the days. Hey, why don't we play a game we used to all play together back in the day?",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    },
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Evan",
+                "content": "That sounds like a great idea! Shall we?",
+                "actions": [
+                    {
+                        "character": "Evan",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    },
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Follow Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Evan",
+                "position": "Position 2"
+            },
+            {
+                "character": "Mia",
+                "position": "Position 3"
+            },
+            {
+                "character": "Zoe",
+                "position": "Position 4"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Evan",
+                "Mia",
+                "Zoe"
+            ],
+            "where": "Gaming room",
+            "what": "The group moves to the gaming room to play their old favorite board game. As the game progresses, old dynamics and rivalries resurface, and the atmosphere becomes competitive. Mia, feeling increasingly left out as Alex and Zoe recount detailed memories, eventually snaps and brings up the lingering feelings she suspects between Alex and Zoe. This revelation sends ripples through the group, causing an awkward silence and forcing each member to confront unresolved issues from their past."
+        },
+        "scene": [
+            {
+                "speaker": "Alex",
+                "content": "Alright, just like old times. Who's ready to lose?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Bring it on! I haven't lost my touch.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Evan",
+                "content": "This is gonna be fun. Just wait, Alex. I'm coming for you.",
+                "actions": [
+                    {
+                        "character": "Evan",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Mia",
+                "content": "You guys seem to remember every little detail. It's almost like no time has passed.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zoe",
+                "content": "It's weird, isn't it? Sometimes it feels like high school was just yesterday.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Mia",
+                "content": "Speaking of high school, are we really not going to address the elephant in the room? The sparks flying between Alex and Zoe?",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Angry 3"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Mia, it's not like that-",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Evan",
+                "content": "Maybe it's time we laid everything out, for old times' sake. No more secrets.",
+                "actions": [
+                    {
+                        "character": "Evan",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Evan",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Mia",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Zoe",
+                        "position": "Position 4"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Evan",
+                "position": "Position 2"
+            },
+            {
+                "character": "Mia",
+                "position": "Position 3"
+            },
+            {
+                "character": "Zoe",
+                "position": "Position 4"
+            }
+        ]
+    }
+]

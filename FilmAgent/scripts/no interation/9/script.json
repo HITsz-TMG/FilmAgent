@@ -1,0 +1,742 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Jake",
+                "Lena"
+            ],
+            "where": "Dining Room",
+            "what": "Jake and Lena are in the dining room discussing their monthly expenses. Tensions rise as Jake accuses Lena of overspending on non-essential items while Lena feels that Jake's rigid budgeting leaves them with no room for enjoyment. The conversation escalates into a heated argument where both sides feel unheard and misunderstood."
+        },
+        "scene": [
+            {
+                "speaker": "Jake",
+                "content": "We need to talk about our spending. This month exceeded our budget again.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lena",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lena",
+                "content": "I know, Jake, but living like this with no room for anything fun is suffocating.",
+                "actions": [
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lena",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "Suffocating? Or necessary? We can't afford indulgent purchases right now.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Arguing 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lena",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lena",
+                "content": "They're not indulgent. Sometimes a little bit of joy is necessary too.",
+                "actions": [
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Arguing 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lena",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "Joy doesn't pay the bills, Lena. We need to be more disciplined.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lena",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lena",
+                "content": "And what about us, Jake? We're just grinding and saving, with no life!",
+                "actions": [
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Angry 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lena",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "I just want us to be secure, that's all.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lena",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lena",
+                "content": "You mean control everything. I've had enough of this!",
+                "actions": [
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Crying"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lena",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jake",
+                "position": "Position 1"
+            },
+            {
+                "character": "Lena",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Jake",
+                "Eric",
+                "Sara"
+            ],
+            "where": "Work room",
+            "what": "Jake, feeling guilty about the argument, seeks advice from his brother Eric and sister-in-law Sara. Eric and Sara share their own experiences of financial disagreements and help Jake understand Lena's perspective. They emphasize the importance of compromise and empathy in a relationship."
+        },
+        "scene": [
+            {
+                "speaker": "Jake",
+                "content": "I need your advice. Lena and I had a huge fight over money again.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Track Shot 3",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Eric",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sara",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eric",
+                "content": "Sounds rough. What happened exactly?",
+                "actions": [
+                    {
+                        "character": "Eric",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Eric",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sara",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "I told her we were overspending, and she accused me of being controlling.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Eric",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sara",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sara",
+                "content": "It's easy to get wrapped up in the numbers and forget about the emotional side.",
+                "actions": [
+                    {
+                        "character": "Sara",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Eric",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sara",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eric",
+                "content": "We've had our share of financial arguments too, Jake. It's about finding balance.",
+                "actions": [
+                    {
+                        "character": "Eric",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Eric",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sara",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "But how do you balance when it feels like we're so far apart?",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Eric",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sara",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sara",
+                "content": "Start by listening. Acknowledge her feelings. It's as important as the budget.",
+                "actions": [
+                    {
+                        "character": "Sara",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Eric",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sara",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eric",
+                "content": "You need to show her you're willing to compromise. Apologize sincerely, Jake.",
+                "actions": [
+                    {
+                        "character": "Eric",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Eric",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sara",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jake",
+                "position": "Position 5"
+            },
+            {
+                "character": "Eric",
+                "position": "Position 1"
+            },
+            {
+                "character": "Sara",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Jake",
+                "Lena",
+                "Eric",
+                "Sara"
+            ],
+            "where": "Apartment living room",
+            "what": "Jake returns to the apartment and finds Lena in the living room, still visibly upset. He takes a deep breath and sincerely apologizes for his harsh words. He explains that he realizes he has been too rigid and acknowledges the validity of Lena's feelings. Lena, initially resistant, softens as she sees Jake's genuine remorse. With Eric and Sara there for support, they all discuss finding a middle ground that respects both Jake's need for financial security and Lena's desire for flexibility."
+        },
+        "scene": [
+            {
+                "speaker": "Jake",
+                "content": "Lena, I'm really sorry for what I said earlier. I didn't mean to hurt you.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    },
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lena",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Eric",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sara",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lena",
+                "content": "It's just so frustrating, Jake. I feel like there's no room for us to breathe.",
+                "actions": [
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Angry 1"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lena",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Eric",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sara",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "I get it now. I've been too rigid. I was just so focused on security that I forgot about our happiness.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    },
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lena",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Eric",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sara",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lena",
+                "content": "I've been trying to tell you that... it means a lot to hear you say it.",
+                "actions": [
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lena",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Eric",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sara",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sara",
+                "content": "Maybe you both can work together to find a budget that includes some fun and savings.",
+                "actions": [
+                    {
+                        "character": "Sara",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    },
+                    {
+                        "character": "Eric",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lena",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Eric",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sara",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eric",
+                "content": "Small adjustments can make a big difference in how you both feel about your finances.",
+                "actions": [
+                    {
+                        "character": "Eric",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lena",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Eric",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sara",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "Let's create a budget together, one that involves both our needs and some room for enjoyment.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    },
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lena",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Eric",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sara",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lena",
+                "content": "I'd like that, Jake. Let's do this together.",
+                "actions": [
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lena",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Eric",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sara",
+                        "position": "Position 5"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jake",
+                "position": "Position 1"
+            },
+            {
+                "character": "Lena",
+                "position": "Position 2"
+            },
+            {
+                "character": "Eric",
+                "position": "Position 3"
+            },
+            {
+                "character": "Sara",
+                "position": "Position 5"
+            }
+        ]
+    }
+]

@@ -1,0 +1,710 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Evan",
+                "Lara"
+            ],
+            "where": "Apartment living room",
+            "what": "Evan has just come home from a long day at work, looking forward to some relaxation. He finds Lara in the living room, visibly upset. Lara immediately starts questioning Evan why he canceled their weekend plans without any discussion. Evan is confused, as he has no idea what she's talking about. Lara explains that she received a text from him saying their plans were off. After a heated exchange, Evan checks his phone to discover that it was a mistake made by a mutual friend who borrowed his phone earlier in the day."
+        },
+        "scene": [
+            {
+                "speaker": "Evan",
+                "content": "Lara, you look upset. Can you tell me what's wrong?",
+                "actions": [
+                    {
+                        "character": "Evan",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    },
+                    {
+                        "character": "Lara",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Track Shot 4",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lara",
+                "content": "Evan, I got a text saying our weekend plans are off. Did something happen?",
+                "actions": [
+                    {
+                        "character": "Lara",
+                        "state": "standing",
+                        "action": "Standing Angry 4"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Evan",
+                "content": "What are you talking about? I didn't cancel anything.",
+                "actions": [
+                    {
+                        "character": "Evan",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lara",
+                "content": "I got a text from you saying it's off. Were you planning to tell me at all?",
+                "actions": [
+                    {
+                        "character": "Lara",
+                        "state": "standing",
+                        "action": "Standing Arguing 1"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Evan",
+                "content": "Let me check my phone. It appears someone else used it today. Could it have been Zoey?",
+                "actions": [
+                    {
+                        "character": "Evan",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lara",
+                "content": "Zoey? Why was she using your phone?",
+                "actions": [
+                    {
+                        "character": "Lara",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Evan",
+                "content": "She needed to make a quick call. Let's talk to Zoey and figure out what happened.",
+                "actions": [
+                    {
+                        "character": "Evan",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Long Shot 4",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 3"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Evan",
+                "position": "Position 1"
+            },
+            {
+                "character": "Lara",
+                "position": "Position 3"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Evan",
+                "Lara",
+                "Zoey"
+            ],
+            "where": "Gaming room",
+            "what": "Evan and Lara decide to talk to Zoey. They find her in the gaming room, playing a video game. Evan confronts Zoey about the confusing text message. Zoey initially defends herself, but then remembers she had Evan's phone briefly and admits she might have accidentally sent a message. She explains she was trying to text her own partner and must have mixed up the phones. Lara is still upset, feeling that Zoey has overstepped boundaries by using Evan's phone without his knowledge."
+        },
+        "scene": [
+            {
+                "speaker": "Evan",
+                "content": "Zoey, can we talk for a second?",
+                "actions": [
+                    {
+                        "character": "Evan",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Zoey",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zoey",
+                "content": "Sure, what's up?",
+                "actions": [
+                    {
+                        "character": "Zoey",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Zoey",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lara",
+                "content": "Did you use Evan's phone to send any messages today?",
+                "actions": [
+                    {
+                        "character": "Lara",
+                        "state": "standing",
+                        "action": "Standing Angry 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Zoey",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zoey",
+                "content": "Yeah, I sent a quick text. What's the big deal?",
+                "actions": [
+                    {
+                        "character": "Zoey",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Zoey",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Evan",
+                "content": "You accidentally sent a text to Lara saying our weekend plans are off.",
+                "actions": [
+                    {
+                        "character": "Evan",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Zoey",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zoey",
+                "content": "Oh no, I must have mixed up the phones! I'm so sorry.",
+                "actions": [
+                    {
+                        "character": "Zoey",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Zoey",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lara",
+                "content": "Using his phone without asking was already overstepping. This text just made things worse.",
+                "actions": [
+                    {
+                        "character": "Lara",
+                        "state": "standing",
+                        "action": "Standing Angry 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Zoey",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zoey",
+                "content": "I understand, Lara. I should have been more careful. It won't happen again.",
+                "actions": [
+                    {
+                        "character": "Zoey",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Zoey",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Evan",
+                "content": "Let's focus on fixing this. Thanks for owning up, Zoey.",
+                "actions": [
+                    {
+                        "character": "Evan",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Zoey",
+                        "position": "Position 4"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Evan",
+                "position": "Position 1"
+            },
+            {
+                "character": "Lara",
+                "position": "Position 2"
+            },
+            {
+                "character": "Zoey",
+                "position": "Position 4"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Evan",
+                "Lara",
+                "Jude"
+            ],
+            "where": "Dining Room",
+            "what": "Later that evening, Evan and Lara are sitting at the dining table, exhausted from the day's misunderstanding. Lara's brother Jude joins them, sensing the tension. Jude listens as Evan explains the entire situation again, from his perspective. Jude encourages Lara to forgive both Evan and Zoey, pointing out that accidents happen and it's clear they didn't intend to hurt her. Lara reflects on the day's events and finally sees that her anger was misplaced. She apologizes to Evan for jumping to conclusions."
+        },
+        "scene": [
+            {
+                "speaker": "Jude",
+                "content": "You two look drained. What's going on?",
+                "actions": [
+                    {
+                        "character": "Jude",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Track Shot 2",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jude",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lara",
+                "content": "It's a long story, Jude. We had a big misunderstanding over a text message.",
+                "actions": [
+                    {
+                        "character": "Lara",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jude",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Evan",
+                "content": "Zoey accidentally sent Lara a message from my phone, canceling our plans. It caused a lot of confusion.",
+                "actions": [
+                    {
+                        "character": "Evan",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jude",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jude",
+                "content": "Sounds like a mess, but it happens. She didn't mean to cause trouble, right?",
+                "actions": [
+                    {
+                        "character": "Jude",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jude",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lara",
+                "content": "No, she didn't. But it still hurts when things like this happen.",
+                "actions": [
+                    {
+                        "character": "Lara",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jude",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jude",
+                "content": "I get that. But it's clear none of this was intentional. Maybe it's time to let it go and move forward?",
+                "actions": [
+                    {
+                        "character": "Jude",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jude",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lara",
+                "content": "You're right. I'm sorry, Evan. I should have trusted you more. Let's have a better weekend together.",
+                "actions": [
+                    {
+                        "character": "Lara",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    },
+                    {
+                        "character": "Evan",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jude",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Evan",
+                "content": "Apology accepted, Lara. Let's make the most of it.",
+                "actions": [
+                    {
+                        "character": "Evan",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jude",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jude",
+                "content": "That's the spirit. Now, how about we grab some dinner and relax?",
+                "actions": [
+                    {
+                        "character": "Jude",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Evan",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jude",
+                        "position": "Position 3"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Evan",
+                "position": "Position 1"
+            },
+            {
+                "character": "Lara",
+                "position": "Position 2"
+            },
+            {
+                "character": "Jude",
+                "position": "Position 3"
+            }
+        ]
+    }
+]

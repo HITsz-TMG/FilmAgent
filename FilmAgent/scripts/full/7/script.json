@@ -1,0 +1,907 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Eva",
+                "Liam",
+                "Jake"
+            ],
+            "where": "Apartment living room",
+            "what": "Eva gathers Liam and Jake in the living room to share some important news. They have been close friends for years, sharing numerous memories together. Eva hesitates but finally tells them that she has received a dream job offer in another city and has decided to take it. The news comes as a shock to Liam and Jake, who were unaware of her plans to leave."
+        },
+        "scene": [
+            {
+                "speaker": "Eva",
+                "content": "Hey guys, can we sit down for a moment? I have something important to share with you.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "Why do you look so serious, Eva? Is something wrong?",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "Yeah, everything's fine. It's just... I got a job offer. It's the opportunity I've always dreamt of, but it's in another city.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liam",
+                "content": "You're leaving?",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "I didn't want to say anything until it was certain. I love you guys, and this hasn't been an easy decision for me.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "We've been through so much together. It's hard to imagine you not being here.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "I know. Trust me, I'm going to miss you both so much. But this is something I have to do for myself.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liam",
+                "content": "When do you leave?",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "Next week.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liam",
+                "content": "That soon, huh?... Let's make these days count.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "Absolutely. I'm not going anywhere without some unforgettable last memories.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Zoom Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Eva",
+                "position": "Position 1"
+            },
+            {
+                "character": "Liam",
+                "position": "Position 2"
+            },
+            {
+                "character": "Jake",
+                "position": "Position 3"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Eva",
+                "Liam"
+            ],
+            "where": "Roadside",
+            "what": "On the day of Eva's departure, Liam, her closest friend, accompanies her to the roadside where her taxi is waiting. The atmosphere is somber as the two stand by the curb, struggling to find the right words. They reminisce about their shared experiences, laugh a little, and then reality sinks in. None of them can hold back their emotions as they realize the moment has arrived to part ways."
+        },
+        "scene": [
+            {
+                "speaker": "Eva",
+                "content": "I can't believe this is really happening.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liam",
+                "content": "Neither can I. It feels surreal.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "Remember that time we stayed up all night talking about our dreams?",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liam",
+                "content": "Yeah, those late-night conversations were the best. You always pushed me to dream bigger.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "And you showed me how to believe in myself.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liam",
+                "content": "You've been my rock, Eva. I don't know what I'll do without you around.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "You'll do great, Liam. You always do. Just remember, no matter where I am, I'm always just a call away.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liam",
+                "content": "Promise me you'll stay in touch.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "I promise.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Eva",
+                "position": "Position 1"
+            },
+            {
+                "character": "Liam",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Eva",
+                "Liam",
+                "Jake",
+                "Rosa"
+            ],
+            "where": "Dining Room",
+            "what": "Before Eva leaves, she and her friends gather for one last meal together. Rosa, who couldn't make it earlier, joins them. The group shares laughter, inside jokes, and heartwarming toasts in a mix of light-hearted banter and emotional goodbyes. They reflect on how their friendship has shaped each other's lives and promise to stay in touch despite the distance."
+        },
+        "scene": [
+            {
+                "speaker": "Rosa",
+                "content": "I'm sorry I couldn't be here earlier. I wouldn't miss this for the world.",
+                "actions": [
+                    {
+                        "character": "Rosa",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Track Shot 2",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Rosa",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "I'm so glad you made it. It wouldn't feel right without you.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Rosa",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liam",
+                "content": "To Eva! For all the memories we've shared and the adventures ahead.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Rosa",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "Remember that camping trip where you taught us how to make the perfect s'mores?",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Rosa",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "You mean the one where you ended up setting your marshmallow on fire?",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Rosa",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "Hey, that was an accident! But thanks for the rescue.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Rosa",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Rosa",
+                "content": "Eva, you've been the glue that's held us all together. Your kindness and spirit have inspired me more than you know.",
+                "actions": [
+                    {
+                        "character": "Rosa",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    },
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Crying"
+                    }
+                ],
+                "shot": "Zoom Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Rosa",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "You guys mean the world to me. I'm a better person because of each one of you.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Rosa",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liam",
+                "content": "It's not goodbye, it's see you later. No matter where life takes us, this bond is unbreakable.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Rosa",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "Absolutely. Here's to staying in touch and never letting distance come between us.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Rosa",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jake",
+                "content": "To Eva! To friendship!",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Rosa",
+                        "position": "Position 4"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Eva",
+                "position": "Position 1"
+            },
+            {
+                "character": "Liam",
+                "position": "Position 2"
+            },
+            {
+                "character": "Jake",
+                "position": "Position 3"
+            },
+            {
+                "character": "Rosa",
+                "position": "Position 4"
+            }
+        ]
+    }
+]

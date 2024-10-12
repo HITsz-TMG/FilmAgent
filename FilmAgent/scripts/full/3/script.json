@@ -1,0 +1,950 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Emma"
+            ],
+            "where": "Roadside",
+            "what": "Alex is walking home from work and passes by a local bookstore. As he's about to cross the street, he bumps into Emma, an old friend from college. They haven't seen each other in years. Alex is surprised and happy to see Emma, who is standing with a bicycle, looking a bit stressed."
+        },
+        "scene": [
+            {
+                "speaker": "Alex",
+                "content": "Emma? Is that really you?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    },
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "Alex! Wow, it's been ages!",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "I can't believe we ran into each other like this! How have you been?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "I've been... busy but it's great to be here! Just moved in and there's so much to figure out.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Sounds like you've got a lot on your plate. How about we catch up over coffee?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "I'd love that. Where should we meet?",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "How about your place? Want to head there now?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "Perfect, let's go.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Emma",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Emma",
+                "Chris"
+            ],
+            "where": "Apartment living room",
+            "what": "Emma invites Alex to her apartment for a casual meet-up. They arrive at Emma's apartment, which is warmly decorated. Chris, Emma's partner, is already there preparing some snacks in the kitchen. Alex and Emma sit in the living room, reminiscing about old times at college, their adventures, and funny memories. Chris joins them with snacks and is introduced to Alex. The three of them share their recent life stories, revealing that Emma and Chris recently moved to the city."
+        },
+        "scene": [
+            {
+                "speaker": "Emma",
+                "content": "Welcome to our humble abode, Alex! Make yourself comfortable.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Sit Down"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Thanks, Emma. This place is really cozy.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "Let me introduce you to Chris. Chris, this is Alex, my old friend from college.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Chris",
+                        "state": "standing",
+                        "action": "Standing Greeting"
+                    }
+                ],
+                "shot": "Long Shot 3",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Chris",
+                "content": "Hey, Alex! Nice to finally meet you. Emma talks about you all the time.",
+                "actions": [
+                    {
+                        "character": "Chris",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Zoom Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Good to meet you, Chris. So, you guys just moved here?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking 1"
+                    }
+                ],
+                "shot": "Long Shot 4",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "Yeah, we're still getting settled. It's been a bit of a whirlwind.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Sounds like a lot to handle.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "You can say that again. So, what's new with you, Alex?",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Just the usual grind, but I've picked up some new hobbies lately.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Chris",
+                "content": "Like what?",
+                "actions": [
+                    {
+                        "character": "Chris",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "I'm really into retro gaming. There's this local gaming room I go to all the time.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "That sounds fun! We should join you sometime.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "How about this weekend? It'll be a blast, I promise.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Chris",
+                "content": "We're in! This sounds like a fun way to spend time.",
+                "actions": [
+                    {
+                        "character": "Chris",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 3"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Emma",
+                "position": "Position 2"
+            },
+            {
+                "character": "Chris",
+                "position": "Position 3"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Emma",
+                "Chris"
+            ],
+            "where": "Gaming room",
+            "what": "A few days later, Alex, Emma, and Chris meet up in a local gaming room that Alex loves visiting. This place has gaming consoles and nostalgic arcade machines. Alex teaches Emma and Chris how to play his favorite arcade game from college days, and they compete and joke around. The atmosphere is relaxed and filled with laughter, highlighting how their bond is rekindling despite the years apart."
+        },
+        "scene": [
+            {
+                "speaker": "Alex",
+                "content": "Welcome to my second home! Ready to dive into some retro gaming?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Chris",
+                "content": "Wow, look at all these machines. Takes me back.",
+                "actions": [
+                    {
+                        "character": "Chris",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Let me show you my favorite game. It's called Pixel Brawl.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "Alright, teach us your ways, oh master of Pixel Brawl.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "First, you need to get a grip on the controls...",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Chris",
+                "content": "So we just keep hitting these buttons and hope for the best?",
+                "actions": [
+                    {
+                        "character": "Chris",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "More or less, yeah! It's all about timing and reflexes.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "This is so much fun! I haven't laughed this much in a while.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "How about we make it a regular thing? We could even invite more folks from our college group.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "That would be awesome! Reconnecting with everyone... sounds perfect.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Chris",
+                "content": "Count me in. This is the start of something great.",
+                "actions": [
+                    {
+                        "character": "Chris",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Agreed. To more fun times together!",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Zoom Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Chris",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 3"
+            },
+            {
+                "character": "Emma",
+                "position": "Position 1"
+            },
+            {
+                "character": "Chris",
+                "position": "Position 2"
+            }
+        ]
+    }
+]

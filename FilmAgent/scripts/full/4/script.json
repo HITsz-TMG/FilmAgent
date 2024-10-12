@@ -1,0 +1,644 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Blake",
+                "Riley"
+            ],
+            "where": "Office",
+            "what": "Blake, a top cybersecurity analyst, and Riley, the head of IT, are working late in the office when they notice unusual activity on the network. Riley reviews the logs while Blake quickly patches the potential vulnerability. They discuss the implications and immediate actions needed to secure the system."
+        },
+        "scene": [
+            {
+                "speaker": "Blake",
+                "content": "Riley, I have detected anomalous network traffic. Investigate immediately.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Track Shot 2",
+                "current position": [
+                    {
+                        "character": "Blake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Riley",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Riley",
+                "content": "Initiating a comprehensive log analysis right away.",
+                "actions": [
+                    {
+                        "character": "Riley",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Blake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Riley",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Riley",
+                "content": "This is concerning. Unauthorized access has occurred.",
+                "actions": [
+                    {
+                        "character": "Riley",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Blake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Riley",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Blake",
+                "content": "I'm implementing a patch now, but we'll need a more robust response.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Blake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Riley",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Riley",
+                "content": "Absolutely. This appears to be more than a random breach.",
+                "actions": [
+                    {
+                        "character": "Riley",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Blake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Riley",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Blake",
+                "content": "We must call an urgent meeting. The team must be informed at once.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Blake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Riley",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Riley",
+                "content": "I'll gather everyone. Let's move.",
+                "actions": [
+                    {
+                        "character": "Riley",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Blake",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Riley",
+                        "position": "Position 1"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Blake",
+                "position": "Position 3"
+            },
+            {
+                "character": "Riley",
+                "position": "Position 1"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Blake",
+                "Riley",
+                "Jordan",
+                "Casey"
+            ],
+            "where": "Meeting room",
+            "what": "Blake and Riley convene an emergency meeting with Jordan, the company's CTO, and Casey, the head of security. In the meeting room, they present the findings of the breach, outlining the extent of the damage and potential risks. The atmosphere is tense as everyone realizes the severity of the situation. Jordan emphasizes the urgency and Casey suggests immediate measures to contain the breach."
+        },
+        "scene": [
+            {
+                "speaker": "Jordan",
+                "content": "Everyone's here. Let's address the situation right away - what's the status?",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Track Shot 3",
+                "current position": [
+                    {
+                        "character": "Blake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Riley",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Blake",
+                "content": "We have identified unusual network activity. An intrusion has occurred.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Blake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Riley",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Riley",
+                "content": "Log analysis confirms a significant breach.",
+                "actions": [
+                    {
+                        "character": "Riley",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Blake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Riley",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Casey",
+                "content": "How extensive? Do we know what was accessed?",
+                "actions": [
+                    {
+                        "character": "Casey",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Blake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Riley",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Blake",
+                "content": "Indications show access to sensitive data. Investigation ongoing.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Blake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Riley",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jordan",
+                "content": "This is critical. We need to act immediately.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    },
+                    {
+                        "character": "Casey",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Blake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Riley",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Casey",
+                "content": "I'll spearhead containment. Securing network and infrastructure is priority.",
+                "actions": [
+                    {
+                        "character": "Casey",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Blake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Riley",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Blake",
+                "content": "Riley and I will continue tracing the breach.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    },
+                    {
+                        "character": "Riley",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Blake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Riley",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 7"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jordan",
+                "content": "Informing upper management now. Time is of the essence. Let's proceed.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Blake",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Riley",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Casey",
+                        "position": "Position 7"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Blake",
+                "position": "Position 1"
+            },
+            {
+                "character": "Riley",
+                "position": "Position 2"
+            },
+            {
+                "character": "Jordan",
+                "position": "Position 5"
+            },
+            {
+                "character": "Casey",
+                "position": "Position 7"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Casey",
+                "Jordan"
+            ],
+            "where": "Storehouse",
+            "what": "Casey and Jordan move to the storehouse, which houses critical network infrastructure and backup systems. Casey directs the on-site security team to secure the physical premises while Jordan coordinates with the off-site IT team to disconnect compromised segments of the network. They work against the clock, knowing that any delay could result in more data being compromised. The stress is palpable as they await updates from the rest of the team."
+        },
+        "scene": [
+            {
+                "speaker": "Casey",
+                "content": "Secure the storehouse. No entry or exit without clearance.",
+                "actions": [
+                    {
+                        "character": "Casey",
+                        "state": "standing",
+                        "action": "Standing Angry 4"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Casey",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jordan",
+                "content": "Coordinating with off-site IT now. Disconnecting compromised segments.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Casey",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Casey",
+                "content": "Time is critical. No room for errors.",
+                "actions": [
+                    {
+                        "character": "Casey",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Casey",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jordan",
+                "content": "Agreed. Monitor those servers closely. Comprehensive data needed.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Casey",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Casey",
+                "content": "Copy that. We're secure here. Awaiting updates from Riley and Blake.",
+                "actions": [
+                    {
+                        "character": "Casey",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Casey",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jordan",
+                "content": "Just received word. Breach origin identified. We can begin recovery.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Casey",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jordan",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Casey",
+                "position": "Position 1"
+            },
+            {
+                "character": "Jordan",
+                "position": "Position 2"
+            }
+        ]
+    }
+]

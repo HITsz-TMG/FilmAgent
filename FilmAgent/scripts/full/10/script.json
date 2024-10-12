@@ -1,0 +1,819 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Sam",
+                "Lia"
+            ],
+            "where": "Relaxing Room",
+            "what": "Sam overhears a private conversation between two other colleagues while he's in the Relaxing Room. They speculate that Tom and Eva are secretly dating. Intrigued, Sam excitedly shares this juicy gossip with Lia when she enters the room. Lia, although skeptical, decides to pass it on during a lunch break, unknowingly starting a chain reaction."
+        },
+        "scene": [
+            {
+                "speaker": "Sam",
+                "content": "Lia, get ready for some explosive insider scoop!",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Lia",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Track Shot 2",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lia",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lia",
+                "content": "What is it this time, Sam?",
+                "actions": [
+                    {
+                        "character": "Lia",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lia",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "I heard that Tom and Eva are secretly dating!",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lia",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lia",
+                "content": "Really? That seems unlikely.",
+                "actions": [
+                    {
+                        "character": "Lia",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lia",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "I heard it straight from Martin and Jenny.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Lia",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lia",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lia",
+                "content": "Hmm, interesting. This will definitely spice up our lunch conversation.",
+                "actions": [
+                    {
+                        "character": "Lia",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lia",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "Go for it. Let's see what others think.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Lia",
+                        "position": "Position 5"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Sam",
+                "position": "Position 3"
+            },
+            {
+                "character": "Lia",
+                "position": "Position 5"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Tom",
+                "Eva",
+                "Lia"
+            ],
+            "where": "Meeting room",
+            "what": "The rumor about Tom and Eva's supposed relationship has escalated, with various exaggerated versions circulating among the office staff. In a tense meeting about a project, Lia catches Tom and Eva exchanging anxious glances. She confronts them during a break, hinting that everyone knows about their 'relationship,' causing them to panic and deny any involvement. Their reactions fuel the gossip mill even more."
+        },
+        "scene": [
+            {
+                "speaker": "Lia",
+                "content": "Hey, Tom, Eva. Can we talk for a moment?",
+                "actions": [
+                    {
+                        "character": "Lia",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Long Shot 3",
+                "current position": [
+                    {
+                        "character": "Tom",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lia",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Tom",
+                "content": "Sure, what's up?",
+                "actions": [
+                    {
+                        "character": "Tom",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Tom",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lia",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "Lia, is... is something bothering you?",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Tom",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lia",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lia",
+                "content": "People are saying you two are dating. Is it true?",
+                "actions": [
+                    {
+                        "character": "Lia",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Tom",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lia",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Tom",
+                "content": "What? No, that's not true at all!",
+                "actions": [
+                    {
+                        "character": "Tom",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Tom",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lia",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "Who started this? We're not dating!",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Tom",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lia",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lia",
+                "content": "I just thought you should know. It's all over the office.",
+                "actions": [
+                    {
+                        "character": "Lia",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Tom",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lia",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Tom",
+                "content": "This is ridiculous.",
+                "actions": [
+                    {
+                        "character": "Tom",
+                        "state": "standing",
+                        "action": "Standing Angry 3"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Tom",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lia",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "We need to figure out who started this.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Tom",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lia",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lia",
+                "content": "I feel like this has gotten way out of hand.",
+                "actions": [
+                    {
+                        "character": "Lia",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Tom",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Lia",
+                        "position": "Position 6"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Tom",
+                "position": "Position 5"
+            },
+            {
+                "character": "Eva",
+                "position": "Position 1"
+            },
+            {
+                "character": "Lia",
+                "position": "Position 6"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Sam",
+                "Tom",
+                "Eva"
+            ],
+            "where": "Apartment living room",
+            "what": "Tom, fed up with the relentless gossip and its impact on his professional and personal life, decides to confront Sam, the originator of the rumor. He and Eva visit Sam at his apartment and explain that they have been working secretly on a major business proposal and were sworn to confidentiality by the higher management. Sam, feeling guilty, realizes the unintended consequences of his actions and apologizes. They agree on handling it together and quelling the rumor."
+        },
+        "scene": [
+            {
+                "speaker": "Tom",
+                "content": "Sam, we need to talk.",
+                "actions": [
+                    {
+                        "character": "Tom",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tom",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "What's going on?",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tom",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "We've been hearing some absurd rumors.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tom",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Tom",
+                "content": "About us dating. You started this, right?",
+                "actions": [
+                    {
+                        "character": "Tom",
+                        "state": "standing",
+                        "action": "Standing Angry 4"
+                    },
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tom",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "I just overheard something and passed it on. I didn't mean to start anything big.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tom",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "Well, it's affecting our work and personal lives.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tom",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Tom",
+                "content": "We're not dating, it's something else entirely. We just can't talk about it.",
+                "actions": [
+                    {
+                        "character": "Tom",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tom",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "It's a professional matter we're dealing with.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tom",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "Oh, I had no idea. I'm really sorry.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tom",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "We need your help to clear this up.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tom",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "Absolutely. Let's set the record straight.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tom",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Tom",
+                "content": "Alright, let's do this together.",
+                "actions": [
+                    {
+                        "character": "Tom",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Zoom Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Tom",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Sam",
+                "position": "Position 1"
+            },
+            {
+                "character": "Tom",
+                "position": "Position 2"
+            },
+            {
+                "character": "Eva",
+                "position": "Position 3"
+            }
+        ]
+    }
+]

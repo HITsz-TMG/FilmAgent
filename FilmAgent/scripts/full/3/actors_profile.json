@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Alex",
+        "age": "30",
+        "gender": "male",
+        "occupation": "Software Engineer",
+        "personality traits": "analytical, introverted, loyal",
+        "speaking style": "concise, technical, soft-spoken"
+    },
+    {
+        "name": "Emma",
+        "age": "29",
+        "gender": "female",
+        "occupation": "Marketing Specialist",
+        "personality traits": "outgoing, creative, empathetic",
+        "speaking style": "engaging, expressive, friendly"
+    },
+    {
+        "name": "Sam",
+        "age": "31",
+        "gender": "non-binary",
+        "occupation": "Freelance Photographer",
+        "personality traits": "adventurous, spontaneous, laid-back",
+        "speaking style": "casual, descriptive, relaxed"
+    },
+    {
+        "name": "Chris",
+        "age": "30",
+        "gender": "female",
+        "occupation": "Teacher",
+        "personality traits": "organized, patient, caring",
+        "speaking style": "clear, patient, supportive"
+    }
+]

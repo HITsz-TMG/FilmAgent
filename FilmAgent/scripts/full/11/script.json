@@ -1,0 +1,813 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Max",
+                "Zara",
+                "Leo",
+                "Maya"
+            ],
+            "where": "Meeting room",
+            "what": "The team gathers in the meeting room, reflecting on the successful completion of their six-month-long project. Max, the project manager, initiates the conversation by expressing his pride in the team's hard work. Zara, the team's designer, shares anecdotes about the late nights they spent troubleshooting issues. Leo, the software engineer, mentions the technical challenges they overcame, and Maya, the marketing lead, talks about how the project will impact the company's growth. The scene focuses on a sense of accomplishment and camaraderie."
+        },
+        "scene": [
+            {
+                "speaker": "Max",
+                "content": "Alright everyone, gather around. Six months of blood, sweat, and probably a few tears. And we did it.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Long Shot 2",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zara",
+                "content": "Remember those crazy all-nighters debugging that memory leak in module three?",
+                "actions": [
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Leo",
+                "content": "Of course. But seeing how our design finally syncs up with the code is immensely satisfying.",
+                "actions": [
+                    {
+                        "character": "Leo",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "And beyond the tech achievements, this project's set to open new avenues for the company.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "How about we take this energy and celebrate properly? Drinks, anyone?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zara",
+                "content": "Count me in! After all these nights, I could use a good drink.",
+                "actions": [
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 6"
+                    }
+                ]
+            },
+            {
+                "speaker": "Leo",
+                "content": "I'm game. Let's do it!",
+                "actions": [
+                    {
+                        "character": "Leo",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Zoom Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 6"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Max",
+                "position": "Position 1"
+            },
+            {
+                "character": "Zara",
+                "position": "Position 2"
+            },
+            {
+                "character": "Leo",
+                "position": "Position 5"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 6"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Max",
+                "Zara",
+                "Leo",
+                "Maya"
+            ],
+            "where": "Billiard room",
+            "what": "The team relocates to the billiard room, where they continue their celebration more informally. Max and Zara engage in a friendly pool game while Leo and Maya cheer them on, laughing and reminiscing about funny moments from the project. Each character shares a personal takeaway from the project-Max talks about leadership skills, Zara about creative breakthroughs, Leo about technical innovations, and Maya about strategic marketing. The atmosphere is relaxed and joyful."
+        },
+        "scene": [
+            {
+                "speaker": "Max",
+                "content": "Alright, Zara, prepare to be schooled in pool.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Long Shot 2",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zara",
+                "content": "Bring it on, Max! I've been practicing.",
+                "actions": [
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Leo",
+                "content": "This is going to be epic. Next round's on whoever loses!",
+                "actions": [
+                    {
+                        "character": "Leo",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Haha, Leo, already raising the stakes? Love it.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "Seriously though, leading this project was a massive learning curve. I truly appreciate how everyone stepped up.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    },
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Leo",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zara",
+                "content": "Creatively, I feel like I've grown miles. Working through those design crunches was worth it.",
+                "actions": [
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    },
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Leo",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Leo",
+                "content": "And the technical feats we pulled off! Can't wait to see how users react.",
+                "actions": [
+                    {
+                        "character": "Leo",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Strategically, we've set a new benchmark for ourselves. The market's gonna take notice.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Long Shot 2",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "Absolutely. It's evident our success stems from our collaboration. Here's to many more.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zara",
+                "content": "Agreed. Cheers to us, the dream team!",
+                "actions": [
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Max",
+                "position": "Position 1"
+            },
+            {
+                "character": "Zara",
+                "position": "Position 2"
+            },
+            {
+                "character": "Leo",
+                "position": "Position 3"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 4"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Max",
+                "Zara",
+                "Leo",
+                "Maya"
+            ],
+            "where": "Apartment living room",
+            "what": "The team moves to Zara's apartment living room for a final round of cheers. They are seated comfortably with drinks in their hands. Max proposes a toast, highlighting each person's unique contribution to the project. Zara brings out a surprise cake she baked, adding to the celebration. Leo and Maya then talk about their excitement for the next project and brainstorm some initial ideas. The scene captures the team's strong bond and forward-looking enthusiasm."
+        },
+        "scene": [
+            {
+                "speaker": "Max",
+                "content": "Each of you brought something invaluable to the table.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Zara",
+                "content": "Wait, before we continue, I have a little surprise... brings out a cake",
+                "actions": [
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Leo",
+                "content": "Whoa, Zara, you baked that? Talk about a multitasking wizard.",
+                "actions": [
+                    {
+                        "character": "Leo",
+                        "state": "standing",
+                        "action": "Joyful Jump"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "It looks amazing! Just like our project.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Long Shot 2",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 5"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "Alright, let's toast.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Leo",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Long Shot 3",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Zara",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Leo",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 5"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Max",
+                "position": "Position 1"
+            },
+            {
+                "character": "Zara",
+                "position": "Position 2"
+            },
+            {
+                "character": "Leo",
+                "position": "Position 3"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 5"
+            }
+        ]
+    }
+]

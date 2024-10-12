@@ -1,0 +1,777 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Sam",
+                "Max",
+                "Eva"
+            ],
+            "where": "Meeting room",
+            "what": "Sam is called into a meeting room by his boss, Max. Eva, a HR representative, is also present. They start with small talk, trying to ease the tension. Max explains that due to budget cuts, they have to let Sam go. Sam is taken aback, feeling blindsided. Eva explains the next steps and offers her support for transitioning out of the company. Sam expresses his frustration and disbelief, mentioning his recent successful projects and dedication."
+        },
+        "scene": [
+            {
+                "speaker": "Max",
+                "content": "Hey, Sam! Hope you had a fantastic weekend!",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Greeting"
+                    },
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Sit Down"
+                    }
+                ],
+                "shot": "Long Shot 2",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "Uh, it was great, thanks. What... what is this meeting about?",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Zoom Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "Well, let's ease into it. Eva, want to grab a coffee?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "Sure thing. Sam, can I get you one?",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "sitting",
+                        "action": "Sitting Talking 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "No, thanks. What's going on?",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "Sam, I hate to say this, but due to budget cuts, we have to let you go.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "What? I didn't see this coming. I've been delivering big projects.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Angry 3"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "I know this is shocking, Sam. We're here to support you through this transition, including your severance package.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "sitting",
+                        "action": "Stand Up"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "This feels unfair. I've put in so much effort.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Angry 2"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "We value your work, Sam. This decision wasn't easy.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "We'll outline next steps and support you through this.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Eva",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Max",
+                "position": "Position 1"
+            },
+            {
+                "character": "Eva",
+                "position": "Position 3"
+            },
+            {
+                "character": "Sam",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Sam",
+                "Jade"
+            ],
+            "where": "Apartment living room",
+            "what": "Sam returns home, visibly shaken. Jade, his roommate and close friend, notices immediately and asks what's wrong. Sam, holding back tears, explains that he's been terminated. Jade listens, providing comfort and assuring him that things will work out. Sam's emotions overflow as he vents about feeling unappreciated and scared about his future. Jade suggests taking a break and reassures Sam of his capabilities and worth."
+        },
+        "scene": [
+            {
+                "speaker": "Jade",
+                "content": "Hey, Sam. You look upset. What's wrong, buddy?",
+                "actions": [
+                    {
+                        "character": "Jade",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Track Shot 2",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "I got fired today.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "move": {
+                    "character": "Jade",
+                    "destination": "Position 2"
+                },
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jade",
+                "content": "Oh my god, I'm so sorry.",
+                "actions": [
+                    {
+                        "character": "Jade",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "I just can't believe it. After all I've done for them.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Angry 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jade",
+                "content": "You deserve better, Sam. You're amazing at what you do.",
+                "actions": [
+                    {
+                        "character": "Jade",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "I'm scared, Jade. What am I supposed to do now?",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "I feel so unappreciated and lost.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jade",
+                "content": "It's okay to feel that way. But remember, this doesn't define you.",
+                "actions": [
+                    {
+                        "character": "Jade",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "Thanks. I really needed that.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Long Shot 3",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jade",
+                "content": "Take it one step at a time. You've got this.",
+                "actions": [
+                    {
+                        "character": "Jade",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sam",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Sam",
+                "position": "Position 1"
+            },
+            {
+                "character": "Jade",
+                "position": "Position 3"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Sam",
+                "Eva"
+            ],
+            "where": "Beverage Room",
+            "what": "A few days later, Sam meets Eva in a small beverage room at the office to discuss his transition out of the company. Eva has called him in to go over the remaining paperwork and provide additional resources for job hunting. Sam is still somewhat tense, but calmer than before. Eva offers some practical advice and also reaches out on a personal level, acknowledging how tough this situation must be for him. She shares a similar experience from her own life, aiming to build rapport and provide hope."
+        },
+        "scene": [
+            {
+                "speaker": "Sam",
+                "content": "Hi, Eva. Thanks for meeting me.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Greeting"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "Of course, Sam. How are you holding up?",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "I'm better, I guess. Still processing everything.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "That's normal. Let's go over the paperwork first.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "Alright.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "Once that's done, we can talk about job hunting resources.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Eva",
+                "content": "I know this is tough. You're talented, Sam. You will find another better job.",
+                "actions": [
+                    {
+                        "character": "Eva",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sam",
+                "content": "Thanks for your support, Eva.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Zoom Shot",
+                "current position": [
+                    {
+                        "character": "Eva",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sam",
+                        "position": "Position 3"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Eva",
+                "position": "Position 1"
+            },
+            {
+                "character": "Sam",
+                "position": "Position 3"
+            }
+        ]
+    }
+]

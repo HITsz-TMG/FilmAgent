@@ -1,0 +1,880 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Sophia",
+                "Liam"
+            ],
+            "where": "Apartment living room",
+            "what": "Alex, Sophia, and Liam are gathered around the dining table in Alex's cozy apartment living room. It's late at night, and the room is dimly lit by a single floor lamp. They are surrounded by empty coffee mugs, notebooks, and scattered papers filled with scribbled ideas. The trio is excited but fatigued as they brainstorm potential concepts for their startup, discussing emerging tech trends, market needs, and initial business models. Alex leans in, animatedly sketching ideas on a large notepad, while Sophia types fast on her laptop, cross-referencing market data. Liam is pacing, hands on his head, lost in thought. The energy is high as they bounce ideas off each other, each idea getting more refined."
+        },
+        "scene": [
+            {
+                "speaker": "Alex",
+                "content": "What if we build a platform using machine learning to connect freelance trainers with clients, tailored to each client's specific needs?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    },
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sophia",
+                "content": "That's brilliant! Freelance trainers are soaring in popularity. I'll dive into market trends immediately!",
+                "actions": [
+                    {
+                        "character": "Sophia",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Zoom Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liam",
+                "content": "The future is undeniably virtual. We must focus on features for online sessions to stay ahead. COVID has fast-tracked this shift.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sophia",
+                "content": "Agreed. Plus, real-time feedback and progress tracking could be key differentiators.",
+                "actions": [
+                    {
+                        "character": "Sophia",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Exactly. Imagine a platform that reminds clients of their appointments and tracks their fitness journey.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liam",
+                "content": "And offers personalized workout plans based on user data.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sophia",
+                "content": "There's definitely a market for this. Trends show a high growth rate in fitness tech.",
+                "actions": [
+                    {
+                        "character": "Sophia",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Alright, let's sleep on it. We'll refine this idea in the morning.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liam",
+                "content": "Perfect. Fresh minds for a fresh perspective.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Long Shot 4",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Sophia",
+                "position": "Position 2"
+            },
+            {
+                "character": "Liam",
+                "position": "Position 3"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Maya",
+                "Sophia"
+            ],
+            "where": "Work room",
+            "what": "The next evening, Maya joins Sophia in the work room, a tidy and focused space with whiteboards on the walls filled with flowcharts and sticky notes. They have just come back from their day jobs, both filled with determination to turn the previous night's raw ideas into a strong business plan. They sit across from each other at a large table, laptops open. Maya brings a fresh perspective as she goes through Sophia's detailed notes, pointing out potential pitfalls and areas of improvement. They engage in intense yet constructive discussions, occasionally getting up to add notes to the whiteboard."
+        },
+        "scene": [
+            {
+                "speaker": "Maya",
+                "content": "Market data shows a twenty growth in virtual fitness platforms over the past year, and hybrid models are becoming the norm.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Sophia",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sophia",
+                "content": "Thanks. We need to address scalability and user retention.",
+                "actions": [
+                    {
+                        "character": "Sophia",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sophia",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "User engagement features are vital. Think community-building elements like challenges or forums.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sophia",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sophia",
+                "content": "Good point. Also, incentives for consistency-maybe reward points?",
+                "actions": [
+                    {
+                        "character": "Sophia",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sophia",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Yes, and we should integrate with wearables for seamless tracking.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sophia",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sophia",
+                "content": "Perfect. There's a strong fitness influencer market we should tap into for marketing.",
+                "actions": [
+                    {
+                        "character": "Sophia",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Sophia",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Influencers can drive user acquisition at lower costs initially.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sophia",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sophia",
+                "content": "Alright, we've got a solid framework. Let's outline this for the meeting with Alex and Liam.",
+                "actions": [
+                    {
+                        "character": "Sophia",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sophia",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Yes! This is coming together well. We're ready for tomorrow.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Sophia",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Sophia",
+                "position": "Position 1"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Alex",
+                "Liam",
+                "Sophia",
+                "Maya"
+            ],
+            "where": "Meeting room",
+            "what": "On a weekend morning, the four founders gather in a spacious meeting room to finalize their business plan. The room is professionally set up, with a round table in the center, a projector, and charts on the wall summarizing their research and progress. Each founder presents their part of the plan: Alex on technical feasibility, Sophia on market analysis, Liam on financial projections, and Maya on marketing and outreach. There are moments of tension as they debate the finer points of their strategy, but their shared vision keeps them focused. After hours of deep discussion, the group crystallizes their plan with united enthusiasm."
+        },
+        "scene": [
+            {
+                "speaker": "Alex",
+                "content": "Our app can handle real-time data processing for live sessions. Technical feasibility checks out.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Long Shot 2",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sophia",
+                "content": "Market analysis shows strong demand and growth potential in the fitness sector.",
+                "actions": [
+                    {
+                        "character": "Sophia",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liam",
+                "content": "Financial projections look promising. Initial seed funding will cover development and marketing.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "We'll leverage influencers and social media for our initial marketing push.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Any concerns before we finalize?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sophia",
+                "content": "We need a clear launch strategy and milestones.",
+                "actions": [
+                    {
+                        "character": "Sophia",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liam",
+                "content": "We've covered most bases, but we need contingencies for technical issues.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "I'll draft a detailed marketing timeline to align with those targets.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Talking 3"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Alex",
+                "content": "Excellent. Let's commit to this and prepare for investor pitches next week.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sophia",
+                "content": "We got this. Ready for the next big step.",
+                "actions": [
+                    {
+                        "character": "Sophia",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Liam",
+                "content": "Nervous, but excited. Let's make this happen.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Maya",
+                "content": "Agreed. Moving forward as a united team.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Long Shot 2",
+                "current position": [
+                    {
+                        "character": "Alex",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Sophia",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Liam",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Maya",
+                        "position": "Position 4"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Sophia",
+                "position": "Position 2"
+            },
+            {
+                "character": "Liam",
+                "position": "Position 3"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 4"
+            }
+        ]
+    }
+]

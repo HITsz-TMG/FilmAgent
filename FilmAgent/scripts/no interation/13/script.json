@@ -1,0 +1,730 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Max",
+                "Jade"
+            ],
+            "where": "Apartment kitchen",
+            "what": "Max and Jade are in the kitchen, setting up snacks and drinks for the small house party they're hosting. They are excited about catching up with friends but also worried about keeping the party small and controlled. Jade is particularly concerned about Blaze's tendency to invite too many people."
+        },
+        "scene": [
+            {
+                "speaker": "Max",
+                "content": "Do you think we have enough chips?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Long Shot 3",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jade",
+                "content": "Yeah, but I'm more worried about the guest list.",
+                "actions": [
+                    {
+                        "character": "Jade",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "What do you mean?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jade",
+                "content": "Blaze has a thing for bringing extra people.",
+                "actions": [
+                    {
+                        "character": "Jade",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "Right, we can't let it get out of hand.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jade",
+                "content": "Agreed. We need to talk to him, make sure he sticks to the plan.",
+                "actions": [
+                    {
+                        "character": "Jade",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "Let's do it now, before things get crazy.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 4"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Max",
+                "position": "Position 2"
+            },
+            {
+                "character": "Jade",
+                "position": "Position 4"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Max",
+                "Blaze",
+                "Sky"
+            ],
+            "where": "Apartment living room",
+            "what": "The living room is buzzing with activity as Max, Blaze, and Sky chat and enjoy the music. Blaze reassures Max that he didn't invite anyone else, but just as he says this, the doorbell rings. They open the door to find an old friend, Tyler, who Blaze forgot he'd invited earlier. The situation becomes tense as the apartment reaches its capacity limit."
+        },
+        "scene": [
+            {
+                "speaker": "Max",
+                "content": "This is a great turnout, Blaze.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Blaze",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Sky",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Blaze",
+                "content": "Told you, small and cozy.",
+                "actions": [
+                    {
+                        "character": "Blaze",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Blaze",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Sky",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sky",
+                "content": "The music setup is perfect, Max.",
+                "actions": [
+                    {
+                        "character": "Sky",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Blaze",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Sky",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "Thanks, Sky. And Blaze, you didn't invite anyone else, right?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    },
+                    {
+                        "character": "Blaze",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Blaze",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Sky",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Blaze",
+                "content": "Nope, all good.",
+                "actions": [
+                    {
+                        "character": "Blaze",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Blaze",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Sky",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jade",
+                "content": "Ding dong.",
+                "actions": [],
+                "shot": "Long Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Blaze",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Sky",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "Who's that?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Blaze",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Sky",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Blaze",
+                "content": "Uh... I might've invited Tyler earlier.",
+                "actions": [
+                    {
+                        "character": "Blaze",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Blaze",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Sky",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sky",
+                "content": "We're at full capacity. What now?",
+                "actions": [
+                    {
+                        "character": "Sky",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Blaze",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Sky",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "Let's figure it out. Can't leave him outside.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Blaze",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Sky",
+                        "position": "Position 3"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Max",
+                "position": "Position 1"
+            },
+            {
+                "character": "Blaze",
+                "position": "Position 2"
+            },
+            {
+                "character": "Sky",
+                "position": "Position 3"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Max",
+                "Jade",
+                "Sky"
+            ],
+            "where": "Relaxing Room",
+            "what": "Max, Jade, and Sky have moved to the Relaxing Room to discuss the unexpected guest's arrival. Jade is frustrated and fears the party will spiral out of control, while Sky tries to mediate and find a diplomatic solution. Max suggests making space for Tyler by moving the party to a larger area. Tension between the friends rises as they try to find a compromise."
+        },
+        "scene": [
+            {
+                "speaker": "Jade",
+                "content": "This is exactly what I was worried about.",
+                "actions": [
+                    {
+                        "character": "Jade",
+                        "state": "standing",
+                        "action": "Standing Angry 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Sky",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "I know, but Tyler's here now.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    },
+                    {
+                        "character": "Sky",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Pan Shot 1",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Sky",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sky",
+                "content": "Let's not panic. There must be a solution.",
+                "actions": [
+                    {
+                        "character": "Sky",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Sky",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "What if we move some of the party to the rooftop?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Sky",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jade",
+                "content": "That could work, but it's chilly outside.",
+                "actions": [
+                    {
+                        "character": "Jade",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Sky",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sky",
+                "content": "We can set up some heaters. It could actually be nice.",
+                "actions": [
+                    {
+                        "character": "Sky",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Sky",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Max",
+                "content": "Perfect. Let's split up and make it happen.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Sky",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jade",
+                "content": "Alright, I'll handle the heaters.",
+                "actions": [
+                    {
+                        "character": "Jade",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Sky",
+                        "position": "Position 1"
+                    }
+                ]
+            },
+            {
+                "speaker": "Sky",
+                "content": "I'll help with moving the drinks.",
+                "actions": [
+                    {
+                        "character": "Sky",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Max",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Jade",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Sky",
+                        "position": "Position 1"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Max",
+                "position": "Position 4"
+            },
+            {
+                "character": "Jade",
+                "position": "Position 5"
+            },
+            {
+                "character": "Sky",
+                "position": "Position 1"
+            }
+        ]
+    }
+]

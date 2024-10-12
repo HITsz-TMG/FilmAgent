@@ -1,0 +1,826 @@
+[
+    {
+        "scene information": {
+            "who": [
+                "Jack",
+                "Emma"
+            ],
+            "where": "Apartment living room",
+            "what": "Jack and Emma are preparing dinner in strained silence. Jack, a hardworking father, has been feeling the pressure from his job and Emma, the supportive yet increasingly frustrated mother, has been dealing with the household burdens. They exchange sharp words about Jack's long working hours and Emma's feeling of being undervalued."
+        },
+        "scene": [
+            {
+                "speaker": "Emma",
+                "content": "Can you pass me the salt?",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jack",
+                "content": "Here. Anything else you need while I'm at it?",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Angry 4"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "Maybe less time at work and more time here?",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Angry 4"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jack",
+                "content": "Oh, so it's that kind of night.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "Every night feels like 'that kind of night' lately, Jack.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Arguing 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jack",
+                "content": "I'm doing everything I can, Emma. We need my paycheck to keep the roof over our heads.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "And what about my roof? I'm juggling everything, and it feels like no one sees it.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Crying"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jack",
+                "content": "Emma, I... It's not that simple.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 3"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "Simple or not, we need to talk to the kids tonight about their future. They need us, Jack.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Agree 1"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 3"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jack",
+                "position": "Position 1"
+            },
+            {
+                "character": "Emma",
+                "position": "Position 3"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Jack",
+                "Emma",
+                "Lily",
+                "Cody"
+            ],
+            "where": "Dining Room",
+            "what": "The whole family gathers for dinner. Lily, the teenage daughter, has been rebellious and often clashes with her younger brother Cody, who looks up to his father. As the family starts eating, tension quickly escalates. Jack criticizes Lily's friends, leading her to snap back. Cody, trying to defend his sister, inadvertently reveals he's been hiding poor grades from their parents. Emotions run high as everyone argues."
+        },
+        "scene": [
+            {
+                "speaker": "Jack",
+                "content": "Lily, I don't like those kids you're hanging out with.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Talking 1"
+                    }
+                ],
+                "shot": "Track Shot 2",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Cody",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lily",
+                "content": "And I don't like how you're never around to even know my friends.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Arguing 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Cody",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jack",
+                "content": "Watch your tone, young lady.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Angry 3"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Cody",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Cody",
+                "content": "Dad, she's just... Look, she's not wrong, okay?",
+                "actions": [
+                    {
+                        "character": "Cody",
+                        "state": "standing",
+                        "action": "Standing Talking 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Cody",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jack",
+                "content": "Cody, you stay out of this.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Angry 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Cody",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Cody",
+                "content": "Maybe I can't. I've been hiding my grades because I didn't want to disappoint you and Mom!",
+                "actions": [
+                    {
+                        "character": "Cody",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Cody",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "What? Cody...",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Cody",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lily",
+                "content": "See, we're all messed up because we don't talk to each other!",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Arguing 1"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Cody",
+                        "position": "Position 4"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jack",
+                "content": "Enough! This stops now. We need to figure out how to communicate, or this family is going to fall apart.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Talking 6"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 2"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 3"
+                    },
+                    {
+                        "character": "Cody",
+                        "position": "Position 4"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jack",
+                "position": "Position 1"
+            },
+            {
+                "character": "Emma",
+                "position": "Position 2"
+            },
+            {
+                "character": "Lily",
+                "position": "Position 3"
+            },
+            {
+                "character": "Cody",
+                "position": "Position 4"
+            }
+        ]
+    },
+    {
+        "scene information": {
+            "who": [
+                "Jack",
+                "Emma",
+                "Lily",
+                "Cody"
+            ],
+            "where": "Relaxing Room",
+            "what": "After a tense silence post-dinner, the family moves to the relaxing room to cool off. Jack, realizing the gravity of the situation, suggests they each voice their feelings and issues. Emma talks about her struggles to balance work and home duties. Lily admits feeling misunderstood and pressured about her future. Cody opens up about his fear of disappointing his parents. Jack apologizes for not being more present, and they start discussing ways to support each other better."
+        },
+        "scene": [
+            {
+                "speaker": "Jack",
+                "content": "We can't keep going like this. Let's all talk. Really talk.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Track Shot 1",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Cody",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "I've been drowning, Jack. Balancing work and home? It's exhausting.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Cody",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lily",
+                "content": "I feel like no one gets me. There's so much pressure... on everything.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Cody",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Cody",
+                "content": "And I've been scared. Scared that I'll never be good enough. That I'll always disappoint you.",
+                "actions": [
+                    {
+                        "character": "Cody",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Cody",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jack",
+                "content": "I'm sorry. I thought working harder would solve everything. But I've been absent, and that's on me. We need to support each other.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Talking 4"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Cody",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Emma",
+                "content": "Maybe we can all agree to set aside some time each week, just to talk. About anything and everything.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Talking 5"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Cody",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Lily",
+                "content": "I'd like that. To not feel like I'm screaming into a void.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Cody",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Cody",
+                "content": "Me too.",
+                "actions": [
+                    {
+                        "character": "Cody",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Close Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Cody",
+                        "position": "Position 2"
+                    }
+                ]
+            },
+            {
+                "speaker": "Jack",
+                "content": "Alright. Then it's settled. Let's make sure we do this. Together.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Agree 2"
+                    }
+                ],
+                "shot": "Mid Shot",
+                "current position": [
+                    {
+                        "character": "Jack",
+                        "position": "Position 4"
+                    },
+                    {
+                        "character": "Emma",
+                        "position": "Position 5"
+                    },
+                    {
+                        "character": "Lily",
+                        "position": "Position 1"
+                    },
+                    {
+                        "character": "Cody",
+                        "position": "Position 2"
+                    }
+                ]
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jack",
+                "position": "Position 4"
+            },
+            {
+                "character": "Emma",
+                "position": "Position 5"
+            },
+            {
+                "character": "Lily",
+                "position": "Position 1"
+            },
+            {
+                "character": "Cody",
+                "position": "Position 2"
+            }
+        ]
+    }
+]
