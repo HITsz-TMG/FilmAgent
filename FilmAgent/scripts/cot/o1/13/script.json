@@ -1,0 +1,364 @@
+[
+    {
+        "scene_information": {
+            "who": [
+                "Mia",
+                "Zoe",
+                "Liam"
+            ],
+            "where": "Apartment living room",
+            "what": "Mia is hosting a small house party with her friends Zoe and Liam. They are in the apartment living room, chatting and enjoying the evening."
+        },
+        "initial position": [
+            {
+                "character": "Mia",
+                "position": "Position 1"
+            },
+            {
+                "character": "Liam",
+                "position": "Position 2"
+            },
+            {
+                "character": "Zoe",
+                "position": "Position 5"
+            }
+        ],
+        "dialogues": [
+            {
+                "speaker": "Mia",
+                "content": "Thanks for coming over, guys. I hope you like the snacks I prepared.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Liam",
+                "content": "You always outdo yourself, Mia. The guacamole is tech-tier!",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Seriously, this playlist is lit! Mind if I add a few tracks?",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "Sure, go ahead! The more the merrier.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "sitting",
+                        "action": "Sitting Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Liam",
+                "content": "Hey, did you guys hear about the new VR game release?",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Oh yeah! I've been dying to try it out.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "Actually, I have it installed. Want to give it a go later?",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Mia",
+                "Zoe",
+                "Liam",
+                "Max"
+            ],
+            "where": "Apartment kitchen",
+            "what": "While Mia is in the kitchen preparing snacks, there's a knock at the door. Max, a mysterious private investigator, enters uninvited, claiming to be looking for someone."
+        },
+        "initial position": [
+            {
+                "character": "Mia",
+                "position": "Position 1"
+            },
+            {
+                "character": "Liam",
+                "position": "Position 2"
+            },
+            {
+                "character": "Zoe",
+                "position": "Position 3"
+            },
+            {
+                "character": "Max",
+                "position": "Position 4"
+            }
+        ],
+        "dialogues": [
+            {
+                "speaker": "Mia",
+                "content": "Could you pass me the chips, Liam?",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Liam",
+                "content": "Sure thing. Here you go.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Expecting anyone else?",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "No, that's strange.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Max",
+                "content": "Good evening. I'm looking for someone. Mind if I come in?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "360 Degrees Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "Um, who are you?",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Max",
+                "content": "Just a private investigator. I'm tracking down someone important.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Liam",
+                "content": "I think you have the wrong address, buddy.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Yeah, we didn't invite any PIs to our little shindig.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Max",
+                "content": "Apologies for the intrusion. Enjoy your evening.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Follow Shot"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Mia",
+                "Zoe",
+                "Liam"
+            ],
+            "where": "Apartment living room",
+            "what": "The group discusses the strange encounter, tension is resolved, and they decide to continue the party."
+        },
+        "initial position": [
+            {
+                "character": "Mia",
+                "position": "Position 1"
+            },
+            {
+                "character": "Liam",
+                "position": "Position 2"
+            },
+            {
+                "character": "Zoe",
+                "position": "Position 5"
+            }
+        ],
+        "dialogues": [
+            {
+                "speaker": "Mia",
+                "content": "Well, that was...odd.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Liam",
+                "content": "Talk about a party crasher, huh?",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Maybe we're more popular than we thought!",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "*nervous laughter* I hope he doesn't come back.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Liam",
+                "content": "Don't worry, we're here. Let's get back to that VR game!",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "sitting",
+                        "action": "Sitting Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Yeah, let's turn this night around!",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ]
+    }
+]

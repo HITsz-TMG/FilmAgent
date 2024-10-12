@@ -1,0 +1,447 @@
+[
+    {
+        "scene_information": {
+            "who": [
+                "Alex",
+                "Maya",
+                "Leo",
+                "Zoe"
+            ],
+            "where": "Apartment living room",
+            "what": "The four friends gather in Alex's apartment for a movie night."
+        },
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 2"
+            },
+            {
+                "character": "Leo",
+                "position": "Position 3"
+            },
+            {
+                "character": "Zoe",
+                "position": "Position 5"
+            }
+        ],
+        "dialogues": [
+            {
+                "speaker": "Alex",
+                "content": "Alright, the movie is ready. Everyone settled?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Can't wait! I've heard great things about this one.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Leo",
+                "content": "I hope it's better than the last thriller we watched.",
+                "actions": [
+                    {
+                        "character": "Leo",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "I'm sure it'll be interesting.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Trust me, you'll all love it.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Leo",
+                "content": "Alright then, let's get started.",
+                "actions": [
+                    {
+                        "character": "Leo",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Actually, could we hold on a second?",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Thinking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Everything okay, Maya?",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Yes, just... need a moment.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Depressed"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Take your time.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Agree"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Alex",
+                "Maya",
+                "Leo",
+                "Zoe"
+            ],
+            "where": "Dining Room",
+            "what": "During dinner, subtle tensions arise as Maya appears anxious."
+        },
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 2"
+            },
+            {
+                "character": "Leo",
+                "position": "Position 3"
+            },
+            {
+                "character": "Zoe",
+                "position": "Position 4"
+            }
+        ],
+        "dialogues": [
+            {
+                "speaker": "Leo",
+                "content": "This lasagna is fantastic, Alex.",
+                "actions": [
+                    {
+                        "character": "Leo",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Glad you like it. Secret family recipe.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Happy"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Maya, you're awfully quiet tonight.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Oh, sorry. Just thinking.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Thinking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Everything okay?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Yes, just a lot on my mind lately.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Thinking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Leo",
+                "content": "You know we're here for you.",
+                "actions": [
+                    {
+                        "character": "Leo",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "I appreciate that.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Maya",
+                "Alex",
+                "Leo",
+                "Zoe"
+            ],
+            "where": "Apartment kitchen",
+            "what": "Maya finally confesses her secret to her friends in the kitchen."
+        },
+        "initial position": [
+            {
+                "character": "Maya",
+                "position": "Position 2"
+            },
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Leo",
+                "position": "Position 3"
+            },
+            {
+                "character": "Zoe",
+                "position": "Position 4"
+            }
+        ],
+        "dialogues": [
+            {
+                "speaker": "Maya",
+                "content": "Guys, I need to tell you something important.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "We're listening.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "I've been offered a position abroad, and I think I'm going to take it.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Oh my god, Maya! That's huge!",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Leo",
+                "content": "When did this happen?",
+                "actions": [
+                    {
+                        "character": "Leo",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "A few weeks ago. I've been debating whether to tell you.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Why didn't you share this earlier?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "I didn't want to upset anyone.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Leo",
+                "content": "We're your friends. We support you no matter what.",
+                "actions": [
+                    {
+                        "character": "Leo",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Exactly! We're happy for you, even if we'll miss you.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Thank you all. It means so much.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            }
+        ]
+    }
+]
+

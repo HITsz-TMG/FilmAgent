@@ -1,0 +1,184 @@
+[
+    {
+        "sceneinformation": {
+            "who": [
+                "David",
+                "Mary",
+                "Lisa",
+                "Sam"
+            ],
+            "where": "Dining Room",
+            "what": "The family gathers for dinner, but tensions quickly escalate due to Lisa's rebellious remarks and David's authoritative personality."
+        },
+        "dialogues": [
+            {
+                "speaker": "David",
+                "content": "Lisa, you missed your curfew again. We need to discuss this.",
+                "actions": [
+                    {
+                        "character": "David",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Lisa",
+                "content": "I'm 18, Dad! It's not like I'm a kid anymore!",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Mary",
+                "content": "Let's all calm down. We can talk this through without raising our voices.",
+                "actions": [
+                    {
+                        "character": "Mary",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "(mumbling) This is always how it goes...",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "David",
+                "content": "We need to set rules, Mary. Lisa, you live under our roof; you follow our rules.",
+                "actions": [
+                    {
+                        "character": "David",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Lisa",
+                "content": "Your rules are so outdated! I can't wait to move out!",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Lisa",
+                "Sam"
+            ],
+            "where": "Gaming room",
+            "what": "Lisa and Sam retreat to the gaming room to escape the tension from the dining room."
+        },
+        "dialogues": [
+            {
+                "speaker": "Sam",
+                "content": "Why do you always have to push Dad's buttons?",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Lisa",
+                "content": "Because someone has to, Sam. He's too strict.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "I just want one dinner without shouting.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lisa",
+                "content": "Me too, Sam. Maybe one day.",
+                "actions": [
+                    {
+                        "character": "Lisa",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "David",
+                "Mary"
+            ],
+            "where": "Apartment living room",
+            "what": "David and Mary have a private conversation in the living room about their kids and the argument."
+        },
+        "dialogues": [
+            {
+                "speaker": "David",
+                "content": "Am I being too hard on Lisa?",
+                "actions": [
+                    {
+                        "character": "David",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Mary",
+                "content": "You're just trying to protect her, but maybe we need to give her some space.",
+                "actions": [
+                    {
+                        "character": "Mary",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "360 Degrees Shot"
+            }
+        ]
+    }
+]

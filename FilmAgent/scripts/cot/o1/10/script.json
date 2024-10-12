@@ -1,0 +1,390 @@
+[
+    {
+        "scene_information": {
+            "who": [
+                "Maya",
+                "Sam"
+            ],
+            "where": "Beverage Room",
+            "what": "Maya mentions she's planning a secret event, which Sam overhears and misunderstands as Maya planning to leave the company."
+        },
+        "initial position": [
+            {
+                "character": "Maya",
+                "position": "Position 1"
+            },
+            {
+                "character": "Sam",
+                "position": "Position 2"
+            }
+        ],
+        "dialogues": [
+            {
+                "speaker": "Maya",
+                "content": "I can't believe it's finally happening. I have to prepare for the big day.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "Hey Maya, you seem excited about something.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Oh, it's just something special I've been planning. Can't share the details yet.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "Sounds mysterious! Is everything okay?",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Absolutely! You'll find out soon enough.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Laughing"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "Well, if you need anything, let me know.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Thanks, Sam. I appreciate it.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Sam",
+                "Alex"
+            ],
+            "where": "Work room",
+            "what": "Sam tells Alex about Maya's supposed plan to leave the company, and Alex reacts with surprise."
+        },
+        "initial position": [
+            {
+                "character": "Sam",
+                "position": "Position 5"
+            },
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            }
+        ],
+        "dialogues": [
+            {
+                "speaker": "Sam",
+                "content": "Alex, have you heard about Maya?",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "No, what about her?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "I think she might be planning to leave the company.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "What? That's impossible. We have a big project coming up.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Stand Up"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "I overheard her talking about a big day and secret plans.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "This can't be happening. We need to find out what's going on.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Angry"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "Maybe we should talk to her directly.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Yes, let's do that.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Maya",
+                "Sam",
+                "Alex",
+                "Leo"
+            ],
+            "where": "Meeting room",
+            "what": "They all gather for a meeting. The misunderstanding is clarified when Maya reveals she was planning a surprise birthday party for Leo."
+        },
+        "initial position": [
+            {
+                "character": "Maya",
+                "position": "Position 1"
+            },
+            {
+                "character": "Alex",
+                "position": "Position 2"
+            },
+            {
+                "character": "Sam",
+                "position": "Position 5"
+            },
+            {
+                "character": "Leo",
+                "position": "Position 3"
+            }
+        ],
+        "dialogues": [
+            {
+                "speaker": "Maya",
+                "content": "Thank you all for coming.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Maya, is there something you want to tell us?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Yes, I've been planning a surprise for Leo's birthday.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Claping"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "Wait, so you're not leaving the company?",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Leaving? Of course not! Where did you get that idea?",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "We misunderstood. Sorry about that.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Stand Up"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Leo",
+                "content": "Well, this is a pleasant surprise. Thanks, Maya.",
+                "actions": [
+                    {
+                        "character": "Leo",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Happy Birthday, Leo!",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Claping"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "We're glad you're staying with us.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "sitting",
+                        "action": "Sitting Claping"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Sorry for the misunderstanding, Maya.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "No worries. Let's celebrate!",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Laughing"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            }
+        ]
+    }
+]

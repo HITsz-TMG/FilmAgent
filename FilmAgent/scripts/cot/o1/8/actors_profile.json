@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Alex",
+        "age": "45",
+        "gender": "female",
+        "occupation": "Chief Financial Officer",
+        "personality traits": "Analytical, cautious, detail-oriented",
+        "speaking style": "Formal, precise, measured"
+    },
+    {
+        "name": "Mark",
+        "age": "50",
+        "gender": "male",
+        "occupation": "Chief Executive Officer",
+        "personality traits": "Ambitious, charismatic, risk-taker",
+        "speaking style": "Persuasive, energetic, confident"
+    },
+    {
+        "name": "Sara",
+        "age": "30",
+        "gender": "female",
+        "occupation": "Marketing Manager",
+        "personality traits": "Innovative, optimistic, enthusiastic",
+        "speaking style": "Upbeat, creative, informal"
+    },
+    {
+        "name": "Tom",
+        "age": "55",
+        "gender": "male",
+        "occupation": "Senior Analyst",
+        "personality traits": "Experienced, skeptical, pragmatic",
+        "speaking style": "Direct, blunt, no-nonsense"
+    }
+]

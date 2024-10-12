@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Emma",
+        "age": "32",
+        "gender": "female",
+        "occupation": "Graphic Designer",
+        "personality traits": "Creative, nostalgic, warm-hearted",
+        "speaking style": "Speaks softly, often reminisces, uses artistic metaphors"
+    },
+    {
+        "name": "Jake",
+        "age": "33",
+        "gender": "male",
+        "occupation": "Financial Analyst",
+        "personality traits": "Analytical, reserved, practical",
+        "speaking style": "Speaks concisely, uses technical jargon, sometimes sarcastic"
+    },
+    {
+        "name": "Lily",
+        "age": "31",
+        "gender": "female",
+        "occupation": "Cafe Owner",
+        "personality traits": "Friendly, observant, cheerful",
+        "speaking style": "Speaks warmly, asks thoughtful questions, laughs easily"
+    },
+    {
+        "name": "Ryan",
+        "age": "34",
+        "gender": "male",
+        "occupation": "Musician",
+        "personality traits": "Passionate, free-spirited, charming",
+        "speaking style": "Speaks expressively, uses musical analogies, often hums tunes"
+    }
+]

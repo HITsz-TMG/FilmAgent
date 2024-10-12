@@ -1,0 +1,282 @@
+[
+    {
+        "sceneinformation": {
+            "who": [
+                "Jack",
+                "Lena",
+                "Maya",
+                "Sam"
+            ],
+            "where": "Apartment living room",
+            "what": "Friends Jack, Lena, Maya, and Sam gather for a long-overdue reunion but underlying tensions from past conflicts create an uneasy atmosphere."
+        },
+        "dialogues": [
+            {
+                "speaker": "Jack",
+                "content": "It's been a while, hasn't it?",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Lena",
+                "content": "Hard to believe it's been five years since we all sat down together.",
+                "actions": [
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "We really need to do this more often. Life's too short.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "Absolutely, Maya. We need to reconcile and move past the tension.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Jack",
+                "content": "There are still things we need to address... and forgive.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Lena",
+                "content": "I agree, Jack. It's not been easy, but we have to try.",
+                "actions": [
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Okay, let's lay it all out on the table.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Strong-Willed"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jack",
+                "position": "Position 1"
+            },
+            {
+                "character": "Lena",
+                "position": "Position 2"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 3"
+            },
+            {
+                "character": "Sam",
+                "position": "Position 4"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Jack",
+                "Sam"
+            ],
+            "where": "Roadside",
+            "what": "Jack and Sam take a walk to clear the air regarding a past argument."
+        },
+        "dialogues": [
+            {
+                "speaker": "Jack",
+                "content": "Sam, I've wanted to apologize about our last conversation.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "I appreciate that, Jack. It wasn't easy for either of us.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Jack",
+                "content": "It bothered me too. I regret not handling it better.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "Water under the bridge, my friend. Let's move forward.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jack",
+                "position": "Position 1"
+            },
+            {
+                "character": "Sam",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Lena",
+                "Maya"
+            ],
+            "where": "Sofa Corner",
+            "what": "Lena and Maya have an emotional conversation about an event that strained their friendship."
+        },
+        "dialogues": [
+            {
+                "speaker": "Lena",
+                "content": "Maya, there's something I've been holding back for too long.",
+                "actions": [
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "I know, Lena. It's time we talked about it openly.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lena",
+                "content": "I felt betrayed when you went behind my back with that project.",
+                "actions": [
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "I didn't mean to hurt you. I was just so driven, I lost sight of our friendship.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Lena",
+                "content": "It's not too late, Maya. I still value our friendship so much.",
+                "actions": [
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Me too, Lena. Let's make things right.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Lena",
+                "position": "Position 1"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 2"
+            }
+        ]
+    }
+]

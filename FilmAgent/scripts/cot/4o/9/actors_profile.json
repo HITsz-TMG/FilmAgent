@@ -1,0 +1,34 @@
+[
+    {
+        "name": "John",
+        "age": "45",
+        "gender": "male",
+        "occupation": "Engineer",
+        "personality traits": "logical, stubborn, caring",
+        "speaking style": "direct, methodical, sometimes harsh"
+    },
+    {
+        "name": "Sara",
+        "age": "43",
+        "gender": "female",
+        "occupation": "Teacher",
+        "personality traits": "empathetic, patient, strong-willed",
+        "speaking style": "calm, nurturing, persuasive"
+    },
+    {
+        "name": "Mia",
+        "age": "19",
+        "gender": "female",
+        "occupation": "College Student",
+        "personality traits": "passionate, rebellious, sensitive",
+        "speaking style": "emotional, rapid, sometimes defiant"
+    },
+    {
+        "name": "Tom",
+        "age": "16",
+        "gender": "male",
+        "occupation": "High School Student",
+        "personality traits": "quiet, observant, thoughtful",
+        "speaking style": "soft-spoken, reflective, analytical"
+    }
+]

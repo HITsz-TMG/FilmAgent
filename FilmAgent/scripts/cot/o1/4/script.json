@@ -1,0 +1,455 @@
+[
+    {
+        "scene_information": {
+            "who": [
+                "Zoe",
+                "Alex"
+            ],
+            "where": "Work room",
+            "what": "Zoe discovers a security breach and informs Alex. They discuss the initial findings."
+        },
+        "dialogues": [
+            {
+                "speaker": "Zoe",
+                "content": "This can't be right... The firewall logs are off the charts.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "sitting",
+                        "action": "Sitting Puzzled"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Alex, we have a problem. A big one.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "What's the situation, Zoe?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Unusual traffic patterns, unauthorized access attempts. I think we've been breached.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "I'll be there in five minutes.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Show me what you've found.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Look here—the intrusion seems to have originated from an internal IP. But I can't trace it.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Any indications of data exfiltration?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Not yet, but if we don't act fast, they might get to sensitive data.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Understood. We need to inform Maya.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Zoe",
+                "position": "Position 1"
+            },
+            {
+                "character": "Alex",
+                "position": "Position 5"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Alex",
+                "Zoe",
+                "Maya"
+            ],
+            "where": "Office",
+            "what": "Alex and Zoe brief Maya about the breach."
+        },
+        "dialogues": [
+            {
+                "speaker": "Alex",
+                "content": "Maya, we have a potential security breach.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Details?",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Anomalous activities detected in the network. Possible internal source.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Could it be a false positive?",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Thinking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Unlikely. The patterns match known intrusion methods.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Alright. What are our immediate steps?",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "We need to isolate affected systems and begin forensic analysis.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Agreed. Zoe, start the isolation protocols.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "On it.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "sitting",
+                        "action": "Sitting Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 3"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 1"
+            },
+            {
+                "character": "Zoe",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Blake",
+                "Alex",
+                "Maya",
+                "Zoe"
+            ],
+            "where": "Meeting room",
+            "what": "An emergency meeting is held to discuss the breach and decide on immediate actions."
+        },
+        "dialogues": [
+            {
+                "speaker": "Blake",
+                "content": "I was told there's an emergency. Explain.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "We've detected a security breach, possibly internal.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Blake",
+                "content": "How severe?",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Still assessing, but initial signs indicate a significant threat.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Blake",
+                "content": "I need specifics, people.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "sitting",
+                        "action": "Stand Up"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Sir, unauthorized access attempts have been made to our core servers.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Blake",
+                "content": "How did this happen?",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Angry"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "We're investigating the vector. Immediate action is required.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Blake",
+                "content": "What's the plan?",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "We're isolating systems and initiating a full security sweep.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Blake",
+                "content": "Make it fast. Our reputation is on the line.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Angry"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Understood. We'll keep you updated.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Blake",
+                "position": "Position 1"
+            },
+            {
+                "character": "Alex",
+                "position": "Position 2"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 5"
+            },
+            {
+                "character": "Zoe",
+                "position": "Position 6"
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Alex",
+        "age": "30",
+        "gender": "male",
+        "occupation": "photographer",
+        "personality traits": "sensitive, artistic, introspective",
+        "speaking style": "soft-spoken, reflective, thoughtful"
+    },
+    {
+        "name": "Maya",
+        "age": "28",
+        "gender": "female",
+        "occupation": "nurse",
+        "personality traits": "empathetic, nurturing, strong-willed",
+        "speaking style": "calm, reassuring, compassionate"
+    },
+    {
+        "name": "Jude",
+        "age": "35",
+        "gender": "male",
+        "occupation": "mechanic",
+        "personality traits": "stoic, dependable, practical",
+        "speaking style": "gruff, straightforward, sincere"
+    },
+    {
+        "name": "Zoe",
+        "age": "24",
+        "gender": "female",
+        "occupation": "student",
+        "personality traits": "optimistic, curious, impulsive",
+        "speaking style": "energetic, enthusiastic, candid"
+    }
+]

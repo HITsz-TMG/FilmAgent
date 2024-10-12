@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Alex",
+        "age": "30",
+        "gender": "male",
+        "occupation": "Project Manager",
+        "personality traits": "organized, motivational, pragmatic, empathetic",
+        "speaking style": "confident and articulate with a calming demeanor"
+    },
+    {
+        "name": "Maya",
+        "age": "27",
+        "gender": "female",
+        "occupation": "Lead Developer",
+        "personality traits": "analytical, resourceful, introverted, diligent",
+        "speaking style": "concise and to the point, with occasional technical jargon"
+    },
+    {
+        "name": "Leo",
+        "age": "35",
+        "gender": "male",
+        "occupation": "Design Lead",
+        "personality traits": "creative, passionate, outgoing, perfectionist",
+        "speaking style": "expressive and animated with a touch of humor"
+    },
+    {
+        "name": "Zara",
+        "age": "29",
+        "gender": "female",
+        "occupation": "QA Engineer",
+        "personality traits": "detail-oriented, patient, logical, cooperative",
+        "speaking style": "measured and thoughtful with a reassuring tone"
+    }
+]

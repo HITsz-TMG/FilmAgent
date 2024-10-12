@@ -1,0 +1,277 @@
+[
+    {
+        "sceneinformation": {
+            "who": [
+                "Alex",
+                "Blake"
+            ],
+            "where": "Meeting room",
+            "what": "Blake overhears a rumor at work and discusses it with Alex, leading to an initial misunderstanding."
+        },
+        "dialogues": [
+            {
+                "speaker": "Blake",
+                "content": "Alex, I overheard something about you getting a promotion. Is it true?",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Hmm, that's news to me. Who did you hear that from?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Blake",
+                "content": "Jordan mentioned it in the break room. He seemed pretty confident, too.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Surprised"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Well, I haven't heard anything from Casey or the higher-ups. This might just be a rumor.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Blake",
+                "position": "Position 4"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Casey",
+                "Jordan"
+            ],
+            "where": "Relaxing Room",
+            "what": "Casey clarifies the office gossip with Jordan and underscores the importance of verified information."
+        },
+        "dialogues": [
+            {
+                "speaker": "Casey",
+                "content": "Jordan, I heard from Blake that you spread a rumor about Alex's promotion. What's going on?",
+                "actions": [
+                    {
+                        "character": "Casey",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Jordan",
+                "content": "Oh, Casey! I didn't mean to spread a rumor. I just heard it from a friend in a casual conversation.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Defending"
+                    },
+                    {
+                        "character": "Casey",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Casey",
+                "content": "It's vital to verify information before sharing it, especially in a workplace. Misunderstandings can cause unnecessary tension.",
+                "actions": [
+                    {
+                        "character": "Casey",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Jordan",
+                "content": "I understand, Casey. I'll be more careful next time.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    },
+                    {
+                        "character": "Casey",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Casey",
+                "position": "Position 5"
+            },
+            {
+                "character": "Jordan",
+                "position": "Position 3"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Alex",
+                "Blake",
+                "Jordan"
+            ],
+            "where": "Billiard room",
+            "what": "Alex, Blake, and Jordan come to an understanding, turning the initial misunderstanding into a learning experience for all."
+        },
+        "dialogues": [
+            {
+                "speaker": "Alex",
+                "content": "Jordan, I heard Casey spoke to you. Thanks for clearing things up.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Jordan",
+                "content": "No problem, Alex. I should have been more cautious. Sorry for the confusion.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Apologetic"
+                    },
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Blake",
+                "content": "Hey, all's well that ends well. Let's use this as a lesson to be more mindful moving forward.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Agreed. Thanks, everyone. Let's move forward with a clear mind.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Blake",
+                "position": "Position 2"
+            },
+            {
+                "character": "Jordan",
+                "position": "Position 3"
+            }
+        ]
+    }
+]

@@ -1,0 +1,387 @@
+[
+    {
+        "scene_information": {
+            "who": [
+                "Alex",
+                "Max",
+                "Sam",
+                "Lee"
+            ],
+            "where": "Meeting room",
+            "what": "The team has just successfully completed their project presentation and gather in the meeting room to celebrate their accomplishment."
+        },
+        "dialogues": [
+            {
+                "speaker": "Alex",
+                "content": "Fantastic job, team! The client was really impressed.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "Sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "Absolutely! I could see their eyes light up during the demo.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "Sitting",
+                        "action": "Sitting Laughing"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Max",
+                "content": "I'm relieved that everything went smoothly. The last-minute bug fix paid off.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "Sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lee",
+                "content": "Your quick thinking made all the difference, Max.",
+                "actions": [
+                    {
+                        "character": "Lee",
+                        "state": "Sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Everyone contributed significantly. I couldn't have asked for a better team.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "Sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "Agreed! This calls for a celebration.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "Sitting",
+                        "action": "Sitting Clapping"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lee",
+                "content": "How about we take a moment to appreciate our hard work?",
+                "actions": [
+                    {
+                        "character": "Lee",
+                        "state": "Sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Max",
+                "position": "Position 2"
+            },
+            {
+                "character": "Sam",
+                "position": "Position 5"
+            },
+            {
+                "character": "Lee",
+                "position": "Position 3"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Alex",
+                "Max",
+                "Sam",
+                "Lee"
+            ],
+            "where": "Relaxing Room",
+            "what": "The team moves to the relaxing room to unwind and share personal reflections on the project."
+        },
+        "dialogues": [
+            {
+                "speaker": "Sam",
+                "content": "This is the perfect spot to unwind.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "Sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Max",
+                "content": "I still can't believe we pulled it off.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "Standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Confidence, Max! You did an excellent job.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "Sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lee",
+                "content": "It's moments like these that remind me why I love teamwork.",
+                "actions": [
+                    {
+                        "character": "Lee",
+                        "state": "Standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "Speaking of which, Lee, your guidance was invaluable.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "Sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lee",
+                "content": "I'm glad I could help. Watching you all grow has been rewarding.",
+                "actions": [
+                    {
+                        "character": "Lee",
+                        "state": "Standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "I propose we share what we learned from this project.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "Sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Max",
+                "content": "I learned that collaboration truly enhances the final product.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "Standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "And that creativity flourishes when everyone feels heard.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "Sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 4"
+            },
+            {
+                "character": "Sam",
+                "position": "Position 5"
+            },
+            {
+                "character": "Max",
+                "position": "Position 1"
+            },
+            {
+                "character": "Lee",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Alex",
+                "Max",
+                "Sam",
+                "Lee"
+            ],
+            "where": "Apartment living room",
+            "what": "The team gathers at Alex's apartment to toast to their success and look forward to future projects together."
+        },
+        "dialogues": [
+            {
+                "speaker": "Alex",
+                "content": "Welcome to my humble abode, everyone!",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "Sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Lee",
+                "content": "Thank you for hosting us, Alex.",
+                "actions": [
+                    {
+                        "character": "Lee",
+                        "state": "Standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "Your place is lovely!",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "Sitting",
+                        "action": "Sitting Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Max",
+                "content": "The ambiance here is great.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "Standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Shall we make a toast?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "Sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lee",
+                "content": "To a successful project and many more to come.",
+                "actions": [
+                    {
+                        "character": "Lee",
+                        "state": "Standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "Cheers to that!",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "Sitting",
+                        "action": "Sitting Clapping"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Max",
+                "content": "Cheers!",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "Standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Sam",
+                "position": "Position 2"
+            },
+            {
+                "character": "Lee",
+                "position": "Position 3"
+            },
+            {
+                "character": "Max",
+                "position": "Position 5"
+            }
+        ]
+    }
+]
+

@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Alex",
+        "age": "28",
+        "gender": "male",
+        "occupation": "Software Engineer",
+        "personality traits": "Analytical, introverted, detail-oriented",
+        "speaking style": "Speaks thoughtfully and uses technical jargon"
+    },
+    {
+        "name": "Mia",
+        "age": "26",
+        "gender": "female",
+        "occupation": "Marketing Specialist",
+        "personality traits": "Creative, outgoing, persuasive",
+        "speaking style": "Speaks enthusiastically and uses expressive language"
+    },
+    {
+        "name": "Leo",
+        "age": "30",
+        "gender": "male",
+        "occupation": "Entrepreneur",
+        "personality traits": "Visionary, ambitious, charismatic",
+        "speaking style": "Speaks confidently and inspires others"
+    },
+    {
+        "name": "Zoe",
+        "age": "27",
+        "gender": "female",
+        "occupation": "Designer",
+        "personality traits": "Artistic, intuitive, open-minded",
+        "speaking style": "Speaks softly and uses metaphors"
+    }
+]

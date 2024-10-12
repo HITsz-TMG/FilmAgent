@@ -1,0 +1,34 @@
+[
+    {
+        "name": "David",
+        "age": "45",
+        "gender": "male",
+        "occupation": "Engineer",
+        "personality traits": "practical, authoritative, stubborn",
+        "speaking style": "direct, logical, occasionally condescending"
+    },
+    {
+        "name": "Mary",
+        "age": "42",
+        "gender": "female",
+        "occupation": "Teacher",
+        "personality traits": "empathetic, patient, overprotective",
+        "speaking style": "caring, sometimes passive-aggressive"
+    },
+    {
+        "name": "Lisa",
+        "age": "18",
+        "gender": "female",
+        "occupation": "College Student",
+        "personality traits": "rebellious, idealistic, outspoken",
+        "speaking style": "passionate, sometimes sarcastic"
+    },
+    {
+        "name": "Sam",
+        "age": "14",
+        "gender": "male",
+        "occupation": "High School Student",
+        "personality traits": "introverted, intelligent, moody",
+        "speaking style": "reserved, often mumbles, occasionally bursts out"
+    }
+]

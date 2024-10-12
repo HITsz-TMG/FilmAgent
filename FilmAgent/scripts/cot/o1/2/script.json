@@ -1,0 +1,253 @@
+[
+    {
+        "scene_information": {
+            "who": [
+                "Liam",
+                "Mia"
+            ],
+            "where": "Apartment living room",
+            "what": "Liam forgets their anniversary, leading to an argument with Mia."
+        },
+        "dialogues": [
+            {
+                "speaker": "Mia",
+                "content": "I can't believe you forgot what today is.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Angry"
+                    },
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Liam",
+                "content": "Is it your art exhibition?",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "No, Liam! It's our anniversary.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Liam",
+                "content": "I'm sorry, it slipped my mind.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Apologetic"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "That's the problem—you never pay attention!",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Arguing"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Liam",
+                "position": "Position 1"
+            },
+            {
+                "character": "Mia",
+                "position": "Position 5"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Mia",
+                "Noah"
+            ],
+            "where": "Roadside",
+            "what": "Mia confides in Noah about her issues with Liam."
+        },
+        "dialogues": [
+            {
+                "speaker": "Noah",
+                "content": "You seem troubled. What's going on?",
+                "actions": [
+                    {
+                        "character": "Noah",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "Liam forgot our anniversary. Again.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "sitting",
+                        "action": "Sitting Depressed"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Noah",
+                "content": "That's rough. Have you talked to him about it?",
+                "actions": [
+                    {
+                        "character": "Noah",
+                        "state": "sitting",
+                        "action": "Sitting Thinking"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "I have, but he doesn't seem to care.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "sitting",
+                        "action": "Sitting Crying"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Noah",
+                "content": "Maybe it's time to make a tough decision.",
+                "actions": [
+                    {
+                        "character": "Noah",
+                        "state": "sitting",
+                        "action": "Sitting Serious"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Mia",
+                "position": "Position 1"
+            },
+            {
+                "character": "Noah",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Liam",
+                "Mia"
+            ],
+            "where": "Apartment kitchen",
+            "what": "Liam and Mia have a final confrontation leading to their breakup."
+        },
+        "dialogues": [
+            {
+                "speaker": "Liam",
+                "content": "We need to talk.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Serious"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "There's nothing left to say.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Liam",
+                "content": "I can change. Just give me another chance.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Pleading"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "It's too late. I'm done.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Liam",
+                "content": "If that's how you feel, then I won't stop you.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Resigned"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Liam",
+                "position": "Position 2"
+            },
+            {
+                "character": "Mia",
+                "position": "Position 4"
+            }
+        ]
+    }
+]

@@ -1,0 +1,676 @@
+[
+    {
+        "scene_information": {
+            "who": [
+                "Mark",
+                "Emma",
+                "Lily",
+                "Alex"
+            ],
+            "where": "Apartment kitchen",
+            "what": "The family is in the kitchen preparing dinner. Tensions are rising as they interact."
+        },
+        "dialogues": [
+            {
+                "speaker": "Emma",
+                "content": "Mark, could you pass me the salt, please?",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Mark",
+                "content": "Sure, here you go.",
+                "actions": [
+                    {
+                        "character": "Mark",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Mom, do we really need to have broccoli again? It's so boring.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Bored"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "Vegetables are important, Lily. You can't live on pizza alone.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "I wish I could. At least pizza is exciting.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Mark",
+                "content": "Well, if you helped cook, maybe you'd appreciate the effort.",
+                "actions": [
+                    {
+                        "character": "Mark",
+                        "state": "standing",
+                        "action": "Standing Angry"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Oh, sorry, I didn't realize expressing an opinion was a crime.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Come on, guys, let's not start before dinner even begins.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "Lily, your sarcasm isn't helping.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Neither is being forced to eat food I don't like.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Angry"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Mark",
+                "content": "Enough, Lily. Just set the table, please.",
+                "actions": [
+                    {
+                        "character": "Mark",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Fine.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "I'll help you, sis.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Mark",
+                "position": "Position 2"
+            },
+            {
+                "character": "Emma",
+                "position": "Position 1"
+            },
+            {
+                "character": "Lily",
+                "position": "Position 4"
+            },
+            {
+                "character": "Alex",
+                "position": "Position 3"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Mark",
+                "Emma",
+                "Lily",
+                "Alex"
+            ],
+            "where": "Meeting room",
+            "what": "During dinner, an argument escalates when Lily brings up wanting to go on a trip with friends, leading to disagreement."
+        },
+        "dialogues": [
+            {
+                "speaker": "Emma",
+                "content": "So, how was everyone's day?",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Classes were good. I got an A on my economics paper.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "That's wonderful, Alex!",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "sitting",
+                        "action": "Sitting Claping"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Mark",
+                "content": "Proud of you, son.",
+                "actions": [
+                    {
+                        "character": "Mark",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Must be nice to have everything figured out.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "Lily, how about you? Anything new at school?",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Actually, yes. My friends are planning a road trip this weekend. I'd like to go.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Mark",
+                "content": "A road trip? With whom?",
+                "actions": [
+                    {
+                        "character": "Mark",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Just some friends from school.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "I don't think that's a good idea. You're too young for unsupervised trips.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "I'm seventeen! I can handle myself.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Mark",
+                "content": "We barely know these friends of yours.",
+                "actions": [
+                    {
+                        "character": "Mark",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Because you never bother to meet them!",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "Lower your voice, young lady.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Why? So you can control everything I do? I'm not a child!",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Maybe we can discuss this calmly.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Mark",
+                "content": "Stay out of this, Alex.",
+                "actions": [
+                    {
+                        "character": "Mark",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Of course, perfect Alex can do no wrong!",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "That's enough, Lily. You're not going, and that's final.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "You know what? I can't stand this anymore!",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Stand Up"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Mark",
+                "position": "Position 1"
+            },
+            {
+                "character": "Emma",
+                "position": "Position 2"
+            },
+            {
+                "character": "Lily",
+                "position": "Position 5"
+            },
+            {
+                "character": "Alex",
+                "position": "Position 3"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Emma",
+                "Lily"
+            ],
+            "where": "Apartment living room",
+            "what": "After dinner, Emma and Lily discuss the argument and try to understand each other's perspectives."
+        },
+        "dialogues": [
+            {
+                "speaker": "Emma",
+                "content": "Can we talk?",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "What's there to talk about? You never listen anyway.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "I'm sorry if it feels that way. We just worry about you.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Worry or control?",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "It's not about control. We want you to be safe.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "I just want a little freedom. You let Alex do whatever he wants.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "That's not true.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Feels like it.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "Maybe we haven't been fair. But you need to understand our perspective.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Maybe you should try understanding mine.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "Perhaps we can find a compromise.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Sit Down"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Like what?",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "Maybe we can meet your friends first, and if we feel comfortable, we can discuss the trip.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Really?",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Laughing"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "Yes, but you have to be willing to work with us.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Fine. I can do that.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Emma",
+                "position": "Position 1"
+            },
+            {
+                "character": "Lily",
+                "position": "Position 2"
+            }
+        ]
+    }
+]

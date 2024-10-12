@@ -1,0 +1,347 @@
+[
+    {
+        "scene_information": {
+            "who": [
+                "Alex",
+                "Mia"
+            ],
+            "where": "Apartment living room",
+            "what": "Alex and Mia brainstorm late at night in the apartment living room about innovative ideas for their startup."
+        },
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Mia",
+                "position": "Position 2"
+            }
+        ],
+        "dialogues": [
+            {
+                "speaker": "Alex",
+                "content": "Mia, I've been mulling over integrating AI into our app to enhance user experience.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "That's an exciting idea! AI could personalize the app for each user.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "sitting",
+                        "action": "Sitting Claping"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Exactly. But we need to think about how to implement it efficiently.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Thinking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "I can brainstorm some marketing angles for this feature.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Great. Let's list out potential benefits and challenges.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "Do you think users will be concerned about data privacy?",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "sitting",
+                        "action": "Sitting Thinking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "We need to be transparent and ensure data security.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "I'll draft a plan on how to communicate this to users.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Alex",
+                "Mia",
+                "Leo"
+            ],
+            "where": "Apartment kitchen",
+            "what": "Alex and Mia move to the kitchen for coffee; Leo joins them, bringing new energy and ideas."
+        },
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 2"
+            },
+            {
+                "character": "Mia",
+                "position": "Position 3"
+            },
+            {
+                "character": "Leo",
+                "position": "Position 4"
+            }
+        ],
+        "dialogues": [
+            {
+                "speaker": "Leo",
+                "content": "Hey guys, burning the midnight oil?",
+                "actions": [
+                    {
+                        "character": "Leo",
+                        "state": "standing",
+                        "action": "Standing Greeting"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "You bet! We're discussing integrating AI into the app.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Leo",
+                "content": "That's ambitious. But I love it. How do you see it working?",
+                "actions": [
+                    {
+                        "character": "Leo",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "We're thinking about personalization, but we need to tackle some technical challenges.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Leo",
+                "content": "Well, obstacles are just opportunities in disguise.",
+                "actions": [
+                    {
+                        "character": "Leo",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "Spoken like a true entrepreneur!",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Leo",
+                "content": "Let me know how I can help. Perhaps we can pitch this to investors.",
+                "actions": [
+                    {
+                        "character": "Leo",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Alex",
+                "Mia",
+                "Leo",
+                "Zoe"
+            ],
+            "where": "Work room",
+            "what": "They gather in the work room to start designing the prototype; Zoe contributes her design expertise."
+        },
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Mia",
+                "position": "Position 2"
+            },
+            {
+                "character": "Leo",
+                "position": "Position 4"
+            },
+            {
+                "character": "Zoe",
+                "position": "Position 5"
+            }
+        ],
+        "dialogues": [
+            {
+                "speaker": "Zoe",
+                "content": "I heard we're adding AI? That's huge!",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Yes, and we need your design expertise to make it user-friendly.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Absolutely. I can start sketching some interface ideas.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Leo",
+                "content": "We'll need to make sure it's intuitive for users.",
+                "actions": [
+                    {
+                        "character": "Leo",
+                        "state": "sitting",
+                        "action": "Sitting Thinking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "And appealing from a marketing standpoint.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "I'll incorporate feedback as we go.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Teamwork makes the dream work!",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Happy"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            }
+        ]
+    }
+]

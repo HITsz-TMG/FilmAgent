@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Avery",
+        "age": "32",
+        "gender": "female",
+        "occupation": "Marketing Executive",
+        "personality traits": "Innovative, restless, charismatic, anxious",
+        "speaking style": "Fast-paced, persuasive, often using marketing jargon, sometimes trails off in thought"
+    },
+    {
+        "name": "Finn",
+        "age": "28",
+        "gender": "male",
+        "occupation": "Barista",
+        "personality traits": "Creative, laid-back, insightful, nonchalant",
+        "speaking style": "Casual, often uses humor, pauses to think, mellow tone"
+    },
+    {
+        "name": "Quinn",
+        "age": "45",
+        "gender": "female",
+        "occupation": "Accountant",
+        "personality traits": "Meticulous, pragmatic, cautious, loyal",
+        "speaking style": "Precise, analytical, speaks in complete sentences, rarely uses contractions"
+    },
+    {
+        "name": "Max",
+        "age": "26",
+        "gender": "male",
+        "occupation": "Freelance Photographer",
+        "personality traits": "Adventurous, spontaneous, optimistic, light-hearted",
+        "speaking style": "Enthusiastic, informal, frequently uses slang, expressive gestures"
+    }
+]

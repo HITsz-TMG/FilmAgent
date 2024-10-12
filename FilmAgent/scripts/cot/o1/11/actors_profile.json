@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Alex",
+        "age": "30",
+        "gender": "female",
+        "occupation": "Project Manager",
+        "personality traits": "Organized, motivational, approachable",
+        "speaking style": "Clear, encouraging, professional"
+    },
+    {
+        "name": "Max",
+        "age": "28",
+        "gender": "male",
+        "occupation": "Software Developer",
+        "personality traits": "Creative, analytical, introverted",
+        "speaking style": "Concise, technical, thoughtful"
+    },
+    {
+        "name": "Sam",
+        "age": "26",
+        "gender": "female",
+        "occupation": "UX Designer",
+        "personality traits": "Empathetic, innovative, outgoing",
+        "speaking style": "Enthusiastic, expressive, collaborative"
+    },
+    {
+        "name": "Lee",
+        "age": "35",
+        "gender": "male",
+        "occupation": "Senior Engineer",
+        "personality traits": "Experienced, patient, mentor-like",
+        "speaking style": "Calm, insightful, supportive"
+    }
+]

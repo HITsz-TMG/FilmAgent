@@ -1,0 +1,305 @@
+[
+    {
+        "scene_information": {
+            "who": [
+                "Alex",
+                "Liam",
+                "Mia",
+                "Eve"
+            ],
+            "where": "Apartment living room",
+            "what": "Liam announces his decision to drop out of college to pursue music, leading to a heated argument with his father Alex. Mia tries to mediate, and Eve observes quietly."
+        },
+        "dialogues": [
+            {
+                "speaker": "Liam",
+                "content": "Dad, I've decided to leave college and focus on my music full-time.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Liam, that's not a sensible decision. You need a degree for a stable future.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Angry"
+                    },
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Concerned"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Liam",
+                "content": "I knew you wouldn't understand! Music is my passion.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Arguing"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "Alex, maybe we should hear him out.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Calm"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "There's nothing to discuss. This is a mistake.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Eve",
+                "content": "Maybe we can find a compromise?",
+                "actions": [
+                    {
+                        "character": "Eve",
+                        "state": "standing",
+                        "action": "Standing Hesitant"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Liam",
+                "content": "I'm tired of living up to your expectations!",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "My expectations are for your own good.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Angry"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "Both of you, please stop.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Assertive"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Liam",
+                "content": "Forget it, I'm out of here!",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "standing",
+                        "action": "Standing Angry"
+                    }
+                ],
+                "selected shot": "Follow Shot"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Mia",
+                "Eve"
+            ],
+            "where": "Apartment kitchen",
+            "what": "Mia and Eve discuss the argument. Mia expresses her worries, and Eve shares her thoughts on how to help the family reconcile."
+        },
+        "dialogues": [
+            {
+                "speaker": "Mia",
+                "content": "I hate seeing them fight like this.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Eve",
+                "content": "Maybe we can help them understand each other.",
+                "actions": [
+                    {
+                        "character": "Eve",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "I hope so. Your brother needs support.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Concerned"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Eve",
+                "content": "And Dad needs to listen.",
+                "actions": [
+                    {
+                        "character": "Eve",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "Let's think of a way to bring them together.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Encouraging"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Alex",
+                "Liam",
+                "Mia",
+                "Eve"
+            ],
+            "where": "Dining Room",
+            "what": "Alex reflects on the argument and decides to apologize to Liam during dinner. The family reconciles and discusses how to support Liam's dreams."
+        },
+        "dialogues": [
+            {
+                "speaker": "Alex",
+                "content": "Liam, I owe you an apology.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Liam",
+                "content": "It's okay, Dad. I know you just want the best for me.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "sitting",
+                        "action": "Sitting Understanding"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "We're here for you, Liam.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "sitting",
+                        "action": "Sitting Smiling"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Eve",
+                "content": "Maybe we can attend your next gig?",
+                "actions": [
+                    {
+                        "character": "Eve",
+                        "state": "sitting",
+                        "action": "Sitting Happy"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Liam",
+                "content": "I'd love that. Thanks, everyone.",
+                "actions": [
+                    {
+                        "character": "Liam",
+                        "state": "sitting",
+                        "action": "Sitting Happy"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Let's work together on this.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ]
+    }
+]
+

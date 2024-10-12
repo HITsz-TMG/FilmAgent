@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Alex",
+        "age": "45",
+        "gender": "male",
+        "occupation": "CTO",
+        "personality traits": "analytical, decisive, reserved",
+        "speaking style": "concise, technical, authoritative"
+    },
+    {
+        "name": "Maya",
+        "age": "35",
+        "gender": "female",
+        "occupation": "Head of Security",
+        "personality traits": "assertive, strategic, composed",
+        "speaking style": "direct, no-nonsense, confident"
+    },
+    {
+        "name": "Sam",
+        "age": "30",
+        "gender": "female",
+        "occupation": "Cybersecurity Analyst",
+        "personality traits": "meticulous, curious, diligent",
+        "speaking style": "detail-oriented, methodical, precise"
+    },
+    {
+        "name": "Blake",
+        "age": "50",
+        "gender": "male",
+        "occupation": "CEO",
+        "personality traits": "charismatic, pragmatic, authoritative",
+        "speaking style": "charismatic, persuasive, strategic"
+    }
+]

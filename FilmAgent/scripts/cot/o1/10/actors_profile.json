@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Alex",
+        "age": "30",
+        "gender": "male",
+        "occupation": "Marketing Manager",
+        "personality traits": "Ambitious, outgoing, sometimes insensitive",
+        "speaking style": "Confident and persuasive"
+    },
+    {
+        "name": "Maya",
+        "age": "28",
+        "gender": "female",
+        "occupation": "Graphic Designer",
+        "personality traits": "Creative, introverted, observant",
+        "speaking style": "Soft-spoken and thoughtful"
+    },
+    {
+        "name": "Sam",
+        "age": "35",
+        "gender": "female",
+        "occupation": "HR Manager",
+        "personality traits": "Empathetic, diplomatic, good listener",
+        "speaking style": "Warm and encouraging"
+    },
+    {
+        "name": "Leo",
+        "age": "40",
+        "gender": "male",
+        "occupation": "CEO",
+        "personality traits": "Authoritative, busy, open-minded",
+        "speaking style": "Direct and concise"
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "sceneinformation": {
+            "who": [
+                "Alex",
+                "Maya"
+            ],
+            "where": "Apartment living room",
+            "what": "Alex and Maya discuss their future with heavy hearts as Alex prepares to leave."
+        },
+        "dialogues": [
+            {
+                "speaker": "Alex",
+                "content": "I never thought this day would come so soon.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "I know... It's hard to say goodbye.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "But it's not really goodbye, right? We'll stay in touch.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Of course. But it's not the same...",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Crying"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 3"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 1"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Jude",
+                "Zoe"
+            ],
+            "where": "Work room",
+            "what": "Jude tries to comfort Zoe as she vents her frustrations about Alex's departure."
+        },
+        "dialogues": [
+            {
+                "speaker": "Zoe",
+                "content": "How can he just leave like that?",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Angry"
+                    },
+                    {
+                        "character": "Jude",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Jude",
+                "content": "He's not abandoning you. It's something he has to do.",
+                "actions": [
+                    {
+                        "character": "Jude",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "But why now? Everything was just starting to get better.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Jude",
+                "content": "Life has its own plans, Zoe.",
+                "actions": [
+                    {
+                        "character": "Jude",
+                        "state": "standing",
+                        "action": "Standing Reflective"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jude",
+                "position": "Position 1"
+            },
+            {
+                "character": "Zoe",
+                "position": "Position 5"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Alex",
+                "Maya"
+            ],
+            "where": "Roadside",
+            "what": "The final tearful farewell takes place as Alex stands by the car, ready to leave."
+        },
+        "dialogues": [
+            {
+                "speaker": "Maya",
+                "content": "Please, take care of yourself.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Crying"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "I will. And you too, promise me.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "I promise... just don't forget to call.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "I could never forget.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Crying"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 2"
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Alex",
+        "age": "32",
+        "gender": "male",
+        "occupation": "Software Developer",
+        "personality traits": "Analytical, introverted, reliable, thoughtful",
+        "speaking style": "Measured and precise, with a slight technical jargon"
+    },
+    {
+        "name": "Maya",
+        "age": "30",
+        "gender": "female",
+        "occupation": "Journalist",
+        "personality traits": "Curious, outgoing, spontaneous, empathetic",
+        "speaking style": "Energetic and inquisitive, often asks open-ended questions"
+    },
+    {
+        "name": "Blake",
+        "age": "34",
+        "gender": "male",
+        "occupation": "Marketing Manager",
+        "personality traits": "Charismatic, confident, strategic, humorous",
+        "speaking style": "Persuasive and engaging, loves using anecdotes and jokes"
+    },
+    {
+        "name": "Riley",
+        "age": "31",
+        "gender": "female",
+        "occupation": "Freelance Artist",
+        "personality traits": "Creative, introspective, easygoing, compassionate",
+        "speaking style": "Laid-back and reflective, often uses metaphors and artistic expressions"
+    }
+]

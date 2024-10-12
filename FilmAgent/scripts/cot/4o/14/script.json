@@ -1,0 +1,243 @@
+[
+    {
+        "sceneinformation": {
+            "who": [
+                "Alex",
+                "Morgan"
+            ],
+            "where": "Office",
+            "what": "Alex is called into Morgan's office and is informed of his termination."
+        },
+        "dialogues": [
+            {
+                "speaker": "Morgan",
+                "content": "Alex, please have a seat. We need to talk.",
+                "actions": [
+                    {
+                        "character": "Morgan",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Sure, Morgan. What's this about?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Morgan",
+                "content": "Alex, I'm afraid I have some bad news. The company has decided to terminate your position, effective immediately.",
+                "actions": [
+                    {
+                        "character": "Morgan",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Surprised"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "What? I don't understand. I've dedicated the last five years to this company.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Angry"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Morgan",
+                "content": "I know, Alex. This decision was not easy for us. But it's been made. We can discuss the severance package now.",
+                "actions": [
+                    {
+                        "character": "Morgan",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Alex",
+                "Pat"
+            ],
+            "where": "Roadside",
+            "what": "Alex leaves the office in a daze and runs into Pat."
+        },
+        "dialogues": [
+            {
+                "speaker": "Pat",
+                "content": "Alex! I've been looking for you. Is everything okay?",
+                "actions": [
+                    {
+                        "character": "Pat",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Pat, they fired me. Just like that. It's over.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Crying"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Pat",
+                "content": "Oh no, Alex! I'm so sorry. This is a shock for all of us. What can I do to help?",
+                "actions": [
+                    {
+                        "character": "Pat",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "I don't know... I feel lost. I put everything into this job.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Pat",
+                "content": "Let's get you home. We can talk more on the way.",
+                "actions": [
+                    {
+                        "character": "Pat",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Alex",
+                "Jamie"
+            ],
+            "where": "Apartment living room",
+            "what": "Alex tells Jamie about being fired and has an emotional breakdown."
+        },
+        "dialogues": [
+            {
+                "speaker": "Jamie",
+                "content": "Hey, Alex! You're home early. How was work?",
+                "actions": [
+                    {
+                        "character": "Jamie",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Jamie, they fired me. I don't know what I'm going to do.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Crying"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Jamie",
+                "content": "Oh no, Alex. Come here. Let's sit down and talk about this.",
+                "actions": [
+                    {
+                        "character": "Jamie",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "I've given everything to that job. And now it's all gone.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Jamie",
+                "content": "We'll get through this together. I'm here for you, Alex.",
+                "actions": [
+                    {
+                        "character": "Jamie",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ]
+    }
+]

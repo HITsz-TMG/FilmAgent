@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Alex",
+        "age": "35",
+        "gender": "female",
+        "occupation": "Senior Financial Analyst",
+        "personality traits": "analytical, detail-oriented, cautious",
+        "speaking style": "precise, logical, calm"
+    },
+    {
+        "name": "Blake",
+        "age": "42",
+        "gender": "male",
+        "occupation": "Chief Investment Officer",
+        "personality traits": "assertive, confident, risk-taker",
+        "speaking style": "authoritative, persuasive, direct"
+    },
+    {
+        "name": "Chris",
+        "age": "28",
+        "gender": "male",
+        "occupation": "Junior Analyst",
+        "personality traits": "eager, innovative, inquisitive",
+        "speaking style": "enthusiastic, informal, questioning"
+    },
+    {
+        "name": "Dana",
+        "age": "50",
+        "gender": "female",
+        "occupation": "Office Manager",
+        "personality traits": "organized, diplomatic, pragmatic",
+        "speaking style": "measured, conciliatory, practical"
+    }
+]

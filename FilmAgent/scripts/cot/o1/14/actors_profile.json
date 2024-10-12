@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Alex",
+        "age": "35",
+        "gender": "male",
+        "occupation": "Software Engineer",
+        "personality traits": "Hardworking, dedicated, introverted, perfectionist, sensitive",
+        "speaking style": "Soft-spoken, thoughtful, uses technical jargon, hesitates often"
+    },
+    {
+        "name": "Blake",
+        "age": "45",
+        "gender": "female",
+        "occupation": "Project Manager",
+        "personality traits": "Assertive, pragmatic, results-oriented, sometimes insensitive",
+        "speaking style": "Direct, authoritative, uses business jargon, no-nonsense"
+    },
+    {
+        "name": "Sam",
+        "age": "33",
+        "gender": "female",
+        "occupation": "UX Designer",
+        "personality traits": "Empathetic, creative, supportive, outgoing",
+        "speaking style": "Warm, uses casual language, often makes jokes to lighten the mood"
+    },
+    {
+        "name": "Jordan",
+        "age": "36",
+        "gender": "male",
+        "occupation": "Teacher",
+        "personality traits": "Caring, patient, practical, supportive",
+        "speaking style": "Calm, reassuring, offers advice, good listener"
+    }
+]

@@ -1,0 +1,250 @@
+[
+    {
+        "sceneinformation": {
+            "who": [
+                "Alex",
+                "Maya",
+                "Blake",
+                "Sam"
+            ],
+            "where": "Meeting room",
+            "what": "The team gathers to discuss the details of the security breach and how it happened."
+        },
+        "dialogues": [
+            {
+                "speaker": "Blake",
+                "content": "Alright everyone, thanks for joining on short notice. Let's get down to business.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    },
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Maya, can you brief us on the breach?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "The breach happened at 3 AM. Our preliminary findings suggest an unauthorized access through a compromised VPN.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "Do we know the extent of the damage yet?",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Not entirely. We're still assessing. But initial indicators show potential data exfiltration.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Blake",
+                "position": "Position 1"
+            },
+            {
+                "character": "Alex",
+                "position": "Position 2"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 6"
+            },
+            {
+                "character": "Sam",
+                "position": "Position 7"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Maya",
+                "Sam"
+            ],
+            "where": "Office",
+            "what": "Maya and Sam discuss next steps and the importance of tightening security protocols."
+        },
+        "dialogues": [
+            {
+                "speaker": "Maya",
+                "content": "Sam, we need to ramp up our security measures immediately.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "Absolutely. I'll start with a full audit of all access logs and VPN connections.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Good. We can't afford any oversights at this point.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Maya",
+                "position": "Position 1"
+            },
+            {
+                "character": "Sam",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Blake",
+                "Alex"
+            ],
+            "where": "Beverage Room",
+            "what": "Blake and Alex take a moment to discuss the broader implications for the company."
+        },
+        "dialogues": [
+            {
+                "speaker": "Blake",
+                "content": "Alex, this breach could have serious repercussions. We need to reassure our stakeholders.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "You're right. I'll prepare a report for the board and get in touch with our PR team.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Blake",
+                "content": "We also need to show that we're taking decisive action to prevent this from happening again.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Blake",
+                "position": "Position 1"
+            },
+            {
+                "character": "Alex",
+                "position": "Position 3"
+            }
+        ]
+    }
+]

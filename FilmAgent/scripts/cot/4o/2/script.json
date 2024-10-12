@@ -1,0 +1,284 @@
+[
+    {
+        "sceneinformation": {
+            "who": [
+                "Alex",
+                "Blake"
+            ],
+            "where": "Apartment living room",
+            "what": "Alex and Blake are arguing over Alex's lack of commitment."
+        },
+        "dialogues": [
+            {
+                "speaker": "Blake",
+                "content": "You never take anything seriously, Alex. It's like you don't care about our future at all.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Arguing"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "That's not true, Blake. I do care, but why does everything have to be so planned?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Defending"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Blake",
+                "content": "Planned? It's called being responsible! You never listen!",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Angry"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "And you always have to control everything! I'm tired of being second to your agenda.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Angry"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Blake",
+                "content": "Fine, if that's how you feel, maybe we shouldn't be together.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Dismissive"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Maybe you're right. Maybe it's best if we just end this.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Blake",
+                "position": "Position 4"
+            },
+            {
+                "character": "Alex",
+                "position": "Position 3"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Jordan",
+                "Riley"
+            ],
+            "where": "Apartment kitchen",
+            "what": "Riley expresses her frustration at Jordan's lack of emotional availability."
+        },
+        "dialogues": [
+            {
+                "speaker": "Riley",
+                "content": "Jordan, why is it so hard for you to open up? I feel like I'm talking to a wall.",
+                "actions": [
+                    {
+                        "character": "Riley",
+                        "state": "standing",
+                        "action": "Standing Frustrated"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Jordan",
+                "content": "I don't know, Riley. It's just how I am. I'm not good with emotions.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Riley",
+                "content": "But how are we supposed to make this work if you never share anything with me?",
+                "actions": [
+                    {
+                        "character": "Riley",
+                        "state": "standing",
+                        "action": "Standing Pleading"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Jordan",
+                "content": "I'm trying, Riley. I really am. But it's not easy for me.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Riley",
+                "content": "Trying isn't enough. I need more. I need to know you care.",
+                "actions": [
+                    {
+                        "character": "Riley",
+                        "state": "standing",
+                        "action": "Standing Crying"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Jordan",
+                "content": "Maybe I'm not the right person for you, then.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Resigned"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jordan",
+                "position": "Position 2"
+            },
+            {
+                "character": "Riley",
+                "position": "Position 4"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Blake",
+                "Riley"
+            ],
+            "where": "Roadside",
+            "what": "Blake comforts Riley after her breakup with Jordan."
+        },
+        "dialogues": [
+            {
+                "speaker": "Blake",
+                "content": "Hey, I heard what happened. You okay?",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Concerned"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Riley",
+                "content": "No, not really. I don't understand why it's so hard for him to open up.",
+                "actions": [
+                    {
+                        "character": "Riley",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Blake",
+                "content": "Some people just can't, Riley. It's not your fault.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Reassuring"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Riley",
+                "content": "But it hurts. I really thought we could make it work.",
+                "actions": [
+                    {
+                        "character": "Riley",
+                        "state": "standing",
+                        "action": "Standing Crying"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Blake",
+                "content": "You deserve someone who can give you what you need. Don't settle for less.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Encouraging"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Riley",
+                "content": "Thanks, Blake. I really needed to hear that.",
+                "actions": [
+                    {
+                        "character": "Riley",
+                        "state": "standing",
+                        "action": "Standing Grateful"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Blake",
+                "position": "Position 1"
+            },
+            {
+                "character": "Riley",
+                "position": "Position 2"
+            }
+        ]
+    }
+]

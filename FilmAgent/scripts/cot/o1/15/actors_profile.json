@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Maya",
+        "age": "28",
+        "gender": "female",
+        "occupation": "Journalist",
+        "personality traits": "Curious, empathetic, anxious",
+        "speaking style": "Thoughtful, measured, sometimes hesitant"
+    },
+    {
+        "name": "Alex",
+        "age": "30",
+        "gender": "male",
+        "occupation": "Software Engineer",
+        "personality traits": "Logical, introverted, loyal",
+        "speaking style": "Concise, direct, sometimes sarcastic"
+    },
+    {
+        "name": "Zoe",
+        "age": "29",
+        "gender": "female",
+        "occupation": "Artist",
+        "personality traits": "Free-spirited, expressive, sensitive",
+        "speaking style": "Poetic, passionate, often dramatic"
+    },
+    {
+        "name": "Leo",
+        "age": "31",
+        "gender": "male",
+        "occupation": "Lawyer",
+        "personality traits": "Confident, ambitious, protective",
+        "speaking style": "Persuasive, assertive, occasionally humorous"
+    }
+]

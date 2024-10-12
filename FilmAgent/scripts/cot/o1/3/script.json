@@ -1,0 +1,599 @@
+[
+    {
+        "scene_information": {
+            "who": [
+                "Emma",
+                "Jake"
+            ],
+            "where": "Roadside",
+            "what": "Emma and Jake, old college friends, unexpectedly run into each other on the street after years of no contact. They have a brief conversation catching up and decide to meet for coffee."
+        },
+        "initial position": [
+            {
+                "character": "Emma",
+                "position": "Position 1"
+            },
+            {
+                "character": "Jake",
+                "position": "Position 2"
+            }
+        ],
+        "dialogues": [
+            {
+                "speaker": "Emma",
+                "content": "Jake? Is that you? It's like spotting a familiar brushstroke in a crowded canvas!",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "Emma! Long time no see. Small world, isn't it?",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "Indeed. I haven't seen you since graduation. How have the numbers been treating you?",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "Well, the market's volatile as ever, but I can't complain. How about you? Still painting the town red?",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "Oh, I've been weaving colors into stories at a design firm. It's been quite the journey.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "Sounds... vibrant. Maybe we should catch up properly over coffee?",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "I'd love that. How about Lily's cafe? She's still running it, right?",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "Absolutely. Let's meet there this afternoon?",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "Perfect. See you then!",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Emma",
+                "Jake",
+                "Lily"
+            ],
+            "where": "Beverage Room",
+            "what": "Emma and Jake meet at Lily's cafe to catch up over coffee. They reminisce about old times and share updates about their lives. Lily joins their conversation."
+        },
+        "initial position": [
+            {
+                "character": "Emma",
+                "position": "Position 1"
+            },
+            {
+                "character": "Jake",
+                "position": "Position 2"
+            },
+            {
+                "character": "Lily",
+                "position": "Position 3"
+            }
+        ],
+        "dialogues": [
+            {
+                "speaker": "Emma",
+                "content": "This place hasn't changed a bit. Feels like stepping back into a cherished memory.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "Consistency is key, as they say. Ah, there's Lily!",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Emma! Jake! It's been ages! So glad you both dropped by.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "Lily, your cafe still feels as warm as your smile.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "sitting",
+                        "action": "Sitting Happy"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "You must be doing well to keep this place running smoothly in this economy.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "It's all about passion and good coffee. What brings you two here together?",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "We just bumped into each other today. Decided to catch up.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "Figured we'd reminisce about the good old days.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "That's wonderful! Mind if I join you for a bit?",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "The more, the merrier!",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "sitting",
+                        "action": "Sitting Claping"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "Sure, pull up a chair.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Sit Down",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Sit Down"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "So, tell me, what have you both been up to?",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "I've been immersed in design projects, turning visions into visuals.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "Crunching numbers and trying to predict market fluctuations. Not as artistic, but keeps me busy.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Sounds like you both are doing what you love.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Happy"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "What about Ryan? Have either of you kept in touch?",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "sitting",
+                        "action": "Sitting Thinking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "He actually stops by here occasionally. He's performing nearby tonight.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "Maybe we should all get together. It's been too long.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "That's a splendid idea. It'd be like a reunion.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "sitting",
+                        "action": "Sitting Happy"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "I'll give him a call and see if he's free.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Emma",
+                "Jake",
+                "Lily",
+                "Ryan"
+            ],
+            "where": "Billiard room",
+            "what": "Ryan joins them, and they all decide to play a game of billiards, rekindling their friendship and enjoying each other's company."
+        },
+        "initial position": [
+            {
+                "character": "Emma",
+                "position": "Position 1"
+            },
+            {
+                "character": "Jake",
+                "position": "Position 2"
+            },
+            {
+                "character": "Lily",
+                "position": "Position 3"
+            },
+            {
+                "character": "Ryan",
+                "position": "Position 4"
+            }
+        ],
+        "dialogues": [
+            {
+                "speaker": "Ryan",
+                "content": "Well, if it isn't my favorite trio! Heard you were looking for me.",
+                "actions": [
+                    {
+                        "character": "Ryan",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "Ryan! It's been ages. You're a sight for sore eyes.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "Still strumming those strings, I see.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Ryan",
+                "content": "Music is the rhythm of my soul, can't stop now.",
+                "actions": [
+                    {
+                        "character": "Ryan",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "We were just thinking, why not do something fun together?",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "How about a game of billiards? Just like old times.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Ryan",
+                "content": "Now you're speaking my language. Let's cue up!",
+                "actions": [
+                    {
+                        "character": "Ryan",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "I suppose I can calculate some angles for a win.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "This is going to be so much fun!",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Ryan",
+                "content": "Loser buys the next round of coffee?",
+                "actions": [
+                    {
+                        "character": "Ryan",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Emma",
+                "content": "Deal. Prepare to part with your wallet, gentlemen.",
+                "actions": [
+                    {
+                        "character": "Emma",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "We'll see about that.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Let the games begin!",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ]
+    }
+]

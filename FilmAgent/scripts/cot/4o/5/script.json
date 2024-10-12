@@ -1,0 +1,305 @@
+[
+    {
+        "sceneinformation": {
+            "who": [
+                "Alex",
+                "Sam",
+                "Jordan",
+                "Tess"
+            ],
+            "where": "Apartment living room",
+            "what": "The team gets together to brainstorm late at night. They are sitting around trying to come up with innovative ideas for their startup."
+        },
+        "dialogues": [
+            {
+                "speaker": "Jordan",
+                "content": "Alright, team, let's start brainstorming. We need to think outside the box tonight.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Listening"
+                    },
+                    {
+                        "character": "Sam",
+                        "state": "sitting",
+                        "action": "Sitting Listening"
+                    },
+                    {
+                        "character": "Tess",
+                        "state": "sitting",
+                        "action": "Sitting Listening"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "What if we made an app that matched people with local community events?",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Thinking"
+                    },
+                    {
+                        "character": "Tess",
+                        "state": "sitting",
+                        "action": "Sitting Thinking"
+                    },
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "That's interesting, but we need to think about how it differentiates from existing platforms.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Sam",
+                        "state": "sitting",
+                        "action": "Sitting Listening"
+                    },
+                    {
+                        "character": "Tess",
+                        "state": "sitting",
+                        "action": "Sitting Listening"
+                    },
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Tess",
+                "content": "What if the app included a gamification element to encourage participation?",
+                "actions": [
+                    {
+                        "character": "Tess",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Sam",
+                        "state": "sitting",
+                        "action": "Sitting Listening"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Listening"
+                    },
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Listening"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jordan",
+                "position": "Position 1"
+            },
+            {
+                "character": "Alex",
+                "position": "Position 2"
+            },
+            {
+                "character": "Sam",
+                "position": "Position 3"
+            },
+            {
+                "character": "Tess",
+                "position": "Position 5"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Alex",
+                "Jordan"
+            ],
+            "where": "Roadside",
+            "what": "Alex and Jordan take a break and walk outside to clear their minds, discussing possible approaches to the MVP."
+        },
+        "dialogues": [
+            {
+                "speaker": "Jordan",
+                "content": "Sometimes getting some fresh air helps clear the mind. So, what do you think about Sam's idea?",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Follow Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "It's innovative, but we need to consider scalability. We should focus on a solid MVP first.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Listening"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Jordan",
+                "content": "Right. Let's structure our brainstorming sessions to focus on each element one at a time.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jordan",
+                "position": "Position 1"
+            },
+            {
+                "character": "Alex",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Tess",
+                "Sam"
+            ],
+            "where": "Beverage Room",
+            "what": "Tess and Sam discuss their visions for the startup over a late night coffee."
+        },
+        "dialogues": [
+            {
+                "speaker": "Tess",
+                "content": "I really believe our project could make a huge impact. We just need to get the details right.",
+                "actions": [
+                    {
+                        "character": "Tess",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Listening"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "Absolutely, the key is user engagement. How do we keep them coming back?",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Tess",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Tess",
+                "content": "We should implement a points system and rewards. People love incentives.",
+                "actions": [
+                    {
+                        "character": "Tess",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    },
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "That's a great idea! Let's pitch it to the guys tomorrow.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Tess",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Tess",
+                "position": "Position 2"
+            },
+            {
+                "character": "Sam",
+                "position": "Position 3"
+            }
+        ]
+    }
+]

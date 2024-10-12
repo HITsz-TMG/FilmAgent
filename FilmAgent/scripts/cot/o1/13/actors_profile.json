@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Mia",
+        "age": "28",
+        "gender": "female",
+        "occupation": "Graphic Designer",
+        "personality traits": "Friendly, organized, slightly anxious",
+        "speaking style": "Polite and formal with occasional nervous laughter"
+    },
+    {
+        "name": "Liam",
+        "age": "30",
+        "gender": "male",
+        "occupation": "Software Engineer",
+        "personality traits": "Witty, laid-back, tech-savvy",
+        "speaking style": "Casual with sarcastic humor and tech jargon"
+    },
+    {
+        "name": "Zoe",
+        "age": "27",
+        "gender": "female",
+        "occupation": "Photographer",
+        "personality traits": "Creative, adventurous, outspoken",
+        "speaking style": "Enthusiastic and expressive with occasional slang"
+    },
+    {
+        "name": "Max",
+        "age": "35",
+        "gender": "male",
+        "occupation": "Private Investigator",
+        "personality traits": "Mysterious, charismatic, observant",
+        "speaking style": "Deep voice with short, enigmatic sentences"
+    }
+]

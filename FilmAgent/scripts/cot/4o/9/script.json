@@ -1,0 +1,210 @@
+[
+    {
+        "sceneinformation": {
+            "who": [
+                "John",
+                "Sara",
+                "Mia",
+                "Tom"
+            ],
+            "where": "Apartment living room",
+            "what": "A heated argument breaks out during a family meeting about Mia's college major."
+        },
+        "dialogues": [
+            {
+                "speaker": "John",
+                "content": "Mia, why can't you just stick to engineering? It's a stable career!",
+                "actions": [
+                    {
+                        "character": "John",
+                        "state": "standing",
+                        "action": "Standing Angry"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "I've told you a million times, Dad! I want to study art! It's my passion!",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Arguing"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Sara",
+                "content": "John, calm down. Mia, we just want what's best for you.",
+                "actions": [
+                    {
+                        "character": "Sara",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Tom",
+                "content": "This is going nowhere...",
+                "actions": [
+                    {
+                        "character": "Tom",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Mia",
+                "Sara"
+            ],
+            "where": "Roadside",
+            "what": "Mia storms out of the house and Sara follows to console her."
+        },
+        "dialogues": [
+            {
+                "speaker": "Mia",
+                "content": "I can't believe they don't understand me!",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Crying"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Sara",
+                "content": "We do, sweetie. We just worry. But you have to follow your heart.",
+                "actions": [
+                    {
+                        "character": "Sara",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "Then why can't Dad see that?",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "John",
+                "Mia"
+            ],
+            "where": "Apartment kitchen",
+            "what": "John and Mia have a heartfelt conversation and John apologizes."
+        },
+        "dialogues": [
+            {
+                "speaker": "John",
+                "content": "Mia, I wanted to say I'm sorry. I know I can be stubborn.",
+                "actions": [
+                    {
+                        "character": "John",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "Dad, I get it. You just want the best for me.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "John",
+                "content": "You're right. And if art is what makes you happy, then I support you.",
+                "actions": [
+                    {
+                        "character": "John",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "initial position": [
+                {
+                    "character": "John",
+                    "position": "Position 3"
+                },
+                {
+                    "character": "Sara",
+                    "position": "Position 4"
+                },
+                {
+                    "character": "Mia",
+                    "position": "Position 1"
+                },
+                {
+                    "character": "Tom",
+                    "position": "Position 5"
+                }
+            ]
+        }
+    },
+    {
+        "sceneinformation": {
+            "initial position": [
+                {
+                    "character": "Mia",
+                    "position": "Position 1"
+                },
+                {
+                    "character": "Sara",
+                    "position": "Position 2"
+                }
+            ]
+        }
+    },
+    {
+        "sceneinformation": {
+            "initial position": [
+                {
+                    "character": "John",
+                    "position": "Position 3"
+                },
+                {
+                    "character": "Mia",
+                    "position": "Position 2"
+                }
+            ]
+        }
+    }
+]

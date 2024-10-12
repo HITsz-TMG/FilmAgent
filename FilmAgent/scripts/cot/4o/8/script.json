@@ -1,0 +1,332 @@
+[
+    {
+        "sceneinformation": {
+            "who": [
+                "Blake",
+                "Alex",
+                "Chris",
+                "Dana"
+            ],
+            "where": "Meeting room",
+            "what": "Blake proposes a high-risk investment plan, sparking a heated debate among the team about the future strategy of the office investments."
+        },
+        "dialogues": [
+            {
+                "speaker": "Blake",
+                "content": "I believe it's time we venture into high-risk investments. The potential returns could skyrocket our portfolio.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Chris",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Dana",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Blake, while the returns are enticing, have you considered the risks involved? We need a more solid foundation.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Chris",
+                "content": "I actually think Blake has a point. Disrupting our usual strategy might make us stand out.",
+                "actions": [
+                    {
+                        "character": "Chris",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Puzzled"
+                    },
+                    {
+                        "character": "Dana",
+                        "state": "sitting",
+                        "action": "Sitting Thinking"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Dana",
+                "content": "Let's not rush into anything hasty. We need to balance innovation with stability. Maybe we can find a middle ground.",
+                "actions": [
+                    {
+                        "character": "Dana",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Agree"
+                    },
+                    {
+                        "character": "Chris",
+                        "state": "sitting",
+                        "action": "Sitting Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Blake",
+                "position": "Position 1"
+            },
+            {
+                "character": "Alex",
+                "position": "Position 5"
+            },
+            {
+                "character": "Chris",
+                "position": "Position 3"
+            },
+            {
+                "character": "Dana",
+                "position": "Position 7"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Blake",
+                "Alex"
+            ],
+            "where": "Office",
+            "what": "Alex confronts Blake about the feasibility and potential negative consequences of his high-risk investment plan."
+        },
+        "dialogues": [
+            {
+                "speaker": "Alex",
+                "content": "Blake, we need to talk about your plan. The volatility could backfire on us significantly.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Blake",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Blake",
+                "content": "I understand your concern, Alex, but without risk, there's no reward. We've played it safe for too long.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Disagree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "But if we fail, we could lose everything we've worked for. There has to be a compromise.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    },
+                    {
+                        "character": "Blake",
+                        "state": "sitting",
+                        "action": "Sitting Thinking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Blake",
+                "content": "I'll consider your points. We can rework the plan to mitigate some of the risks.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "sitting",
+                        "action": "Sitting Agree"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Blake",
+                "position": "Position 3"
+            },
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Chris",
+                "Dana",
+                "Alex"
+            ],
+            "where": "Relaxing Room",
+            "what": "Chris shares his enthusiasm about Blake's revised plan with Alex and Dana while they are trying to gauge its potential impact."
+        },
+        "dialogues": [
+            {
+                "speaker": "Chris",
+                "content": "Blake's revised plan looks promising! He's found a way to incorporate Alex's concerns while still pushing for innovation.",
+                "actions": [
+                    {
+                        "character": "Chris",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Dana",
+                        "state": "sitting",
+                        "action": "Sitting Thinking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "I'm glad he was able to address the risks. I still need to see more data before I'm convinced.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Chris",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Dana",
+                "content": "I agree with Alex. We need to be thorough in our evaluation. But it's a step in the right direction.",
+                "actions": [
+                    {
+                        "character": "Dana",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Chris",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Chris",
+                "content": "Absolutely. Let's go through the new data together.",
+                "actions": [
+                    {
+                        "character": "Chris",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Dana",
+                        "state": "sitting",
+                        "action": "Sitting Agree"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Agree"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Chris",
+                "position": "Position 2"
+            },
+            {
+                "character": "Alex",
+                "position": "Position 5"
+            },
+            {
+                "character": "Dana",
+                "position": "Position 4"
+            }
+        ]
+    }
+]

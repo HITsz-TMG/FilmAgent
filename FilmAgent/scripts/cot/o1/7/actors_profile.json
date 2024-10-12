@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Rose",
+        "age": "27",
+        "gender": "female",
+        "occupation": "Teacher",
+        "personality traits": "Compassionate, thoughtful, resilient",
+        "speaking style": "Gentle and encouraging with a reflective tone"
+    },
+    {
+        "name": "Jack",
+        "age": "29",
+        "gender": "male",
+        "occupation": "Engineer",
+        "personality traits": "Pragmatic, reserved, loyal",
+        "speaking style": "Direct and concise with a calm demeanor"
+    },
+    {
+        "name": "Mia",
+        "age": "6",
+        "gender": "female",
+        "occupation": "Student",
+        "personality traits": "Curious, playful, innocent",
+        "speaking style": "Cheerful and inquisitive with a lively tempo"
+    }
+]

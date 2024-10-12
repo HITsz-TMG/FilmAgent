@@ -1,0 +1,468 @@
+[
+    {
+        "sceneinformation": {
+            "who": [
+                "Jake",
+                "Sara",
+                "Tom",
+                "Lena"
+            ],
+            "where": "Apartment living room",
+            "what": "Jake reveals a long-held secret to his close friends."
+        },
+        "dialogues": [
+            {
+                "speaker": "Jake",
+                "content": "Guys, there's something I need to tell you all.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Sara",
+                        "state": "sitting",
+                        "action": "Sitting Thinking"
+                    },
+                    {
+                        "character": "Tom",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Sara",
+                "content": "Okay, Jake. What is it?",
+                "actions": [
+                    {
+                        "character": "Sara",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "I've kept this from you for years because I was afraid of how you'd react. But I can't hold it in any longer.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    },
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    },
+                    {
+                        "character": "Tom",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Tom",
+                "content": "Jake, just tell us. We're your friends.",
+                "actions": [
+                    {
+                        "character": "Tom",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "I've been working undercover with the police.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Sara",
+                        "state": "sitting",
+                        "action": "Sitting Surprise"
+                    },
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    },
+                    {
+                        "character": "Tom",
+                        "state": "sitting",
+                        "action": "Sitting Surprise"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Sara",
+                "content": "What? Jake, you're serious?",
+                "actions": [
+                    {
+                        "character": "Sara",
+                        "state": "sitting",
+                        "action": "Sitting Surprise"
+                    },
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    },
+                    {
+                        "character": "Tom",
+                        "state": "sitting",
+                        "action": "Sitting Surprise"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lena",
+                "content": "Why didn't you tell us sooner?",
+                "actions": [
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    },
+                    {
+                        "character": "Sara",
+                        "state": "sitting",
+                        "action": "Sitting Puzzled"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "I couldn't put you at risk. The less you knew, the safer you were.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    },
+                    {
+                        "character": "Tom",
+                        "state": "sitting",
+                        "action": "Sitting Thinking"
+                    },
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Tom",
+                "content": "We understand, Jake. Just, don't keep us in the dark anymore.",
+                "actions": [
+                    {
+                        "character": "Tom",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    },
+                    {
+                        "character": "Sara",
+                        "state": "sitting",
+                        "action": "Sitting Agree"
+                    },
+                    {
+                        "character": "Lena",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jake",
+                "position": "Position 3"
+            },
+            {
+                "character": "Sara",
+                "position": "Position 1"
+            },
+            {
+                "character": "Tom",
+                "position": "Position 2"
+            },
+            {
+                "character": "Lena",
+                "position": "Position 4"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Sara",
+                "Lena"
+            ],
+            "where": "Roadside",
+            "what": "Sara and Lena discuss Jake's revelation."
+        },
+        "dialogues": [
+            {
+                "speaker": "Sara",
+                "content": "Can you believe it, Lena? Jake, of all people.",
+                "actions": [
+                    {
+                        "character": "Sara",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    },
+                    {
+                        "character": "Lena",
+                        "state": "sitting",
+                        "action": "Sitting Thinking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Lena",
+                "content": "I know. It's a lot to take in. But it makes sense in a way.",
+                "actions": [
+                    {
+                        "character": "Lena",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Sara",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Sara",
+                "content": "What do you mean?",
+                "actions": [
+                    {
+                        "character": "Sara",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    },
+                    {
+                        "character": "Lena",
+                        "state": "sitting",
+                        "action": "Sitting Thinking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Lena",
+                "content": "Think about it. Jake's always been the type to stand up for what's right. This undercover work, it's just him on a bigger scale.",
+                "actions": [
+                    {
+                        "character": "Lena",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Sara",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Sara",
+                "content": "You're right. I guess I was just shocked. I never expected it.",
+                "actions": [
+                    {
+                        "character": "Sara",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    },
+                    {
+                        "character": "Lena",
+                        "state": "sitting",
+                        "action": "Sitting Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Sara",
+                "position": "Position 2"
+            },
+            {
+                "character": "Lena",
+                "position": "Position 1"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Jake",
+                "Tom"
+            ],
+            "where": "Gaming room",
+            "what": "Tom confronts Jake about his decision to keep the secret."
+        },
+        "dialogues": [
+            {
+                "speaker": "Tom",
+                "content": "Jake, I need to know. Why didn't you trust us with this?",
+                "actions": [
+                    {
+                        "character": "Tom",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "sitting",
+                        "action": "Sitting Thinking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "Tom, it wasn't about trust. It was about safety.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "sitting",
+                        "action": "Sitting Depressed"
+                    },
+                    {
+                        "character": "Tom",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Tom",
+                "content": "But we're like family. We could have helped you.",
+                "actions": [
+                    {
+                        "character": "Tom",
+                        "state": "standing",
+                        "action": "Standing Arguing"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "sitting",
+                        "action": "Sitting Thinking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "I know. And that's what made it so hard. Please, try to understand.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "sitting",
+                        "action": "Sitting Depressed"
+                    },
+                    {
+                        "character": "Tom",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Tom",
+                "content": "Alright, Jake. Just promise me no more secrets.",
+                "actions": [
+                    {
+                        "character": "Tom",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "sitting",
+                        "action": "Sitting Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "I promise. No more secrets.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "sitting",
+                        "action": "Sitting Agree"
+                    },
+                    {
+                        "character": "Tom",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jake",
+                "position": "Position 1"
+            },
+            {
+                "character": "Tom",
+                "position": "Position 4"
+            }
+        ]
+    }
+]

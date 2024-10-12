@@ -1,0 +1,194 @@
+[
+    {
+        "sceneinformation": {
+            "who": [
+                "Avery",
+                "Quinn",
+                "Max"
+            ],
+            "where": "Apartment living room",
+            "what": "Avery discusses an idea for a secret escape plan with Quinn and Max."
+        },
+        "dialogues": [
+            {
+                "speaker": "Avery",
+                "content": "Guys, we need to break free from this endless cycle. I have an idea... but it's a bit out there.",
+                "actions": [
+                    {
+                        "character": "Avery",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Quinn",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Max",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Quinn",
+                "content": "Avery, you always have these wild ideas. What makes this any different?",
+                "actions": [
+                    {
+                        "character": "Quinn",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Avery",
+                "content": "Well, this time, we're planning a secret escape from the mundane. Imagine... an adventure, a complete change of scenery.",
+                "actions": [
+                    {
+                        "character": "Avery",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Max",
+                "content": "I'm all in! Let's do something spontaneous!",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "sitting",
+                        "action": "Sitting Laughing"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Quinn",
+                "content": "Alright, let's hear this plan of yours, Avery.",
+                "actions": [
+                    {
+                        "character": "Quinn",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Avery",
+                "content": "First, we need to figure out a destination...",
+                "actions": [
+                    {
+                        "character": "Avery",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Avery",
+                "Finn"
+            ],
+            "where": "Roadside",
+            "what": "Avery and Finn discuss the details of the escape plan."
+        },
+        "dialogues": [
+            {
+                "speaker": "Avery",
+                "content": "Finn, we need you to distract people while we prepare.",
+                "actions": [
+                    {
+                        "character": "Avery",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Finn",
+                "content": "No problem. I can handle that. What's the backup plan if things go wrong?",
+                "actions": [
+                    {
+                        "character": "Finn",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Avery",
+                "content": "We'll meet at the old storehouse... but let's keep our fingers crossed that everything goes smoothly.",
+                "actions": [
+                    {
+                        "character": "Avery",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Avery",
+                "Quinn",
+                "Max"
+            ],
+            "where": "Storehouse",
+            "what": "The group gathers to finalize the details and embark on the secret escape."
+        },
+        "dialogues": [
+            {
+                "speaker": "Avery",
+                "content": "Everyone ready? This is it.",
+                "actions": [
+                    {
+                        "character": "Avery",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Quinn",
+                "content": "I have everything we need. Let's make our escape.",
+                "actions": [
+                    {
+                        "character": "Quinn",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Max",
+                "content": "Adventure here we come!",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Joyful Jump"
+                    }
+                ],
+                "selected shot": "360 Degrees Shot"
+            }
+        ]
+    }
+]

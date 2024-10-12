@@ -1,0 +1,287 @@
+[
+    {
+        "sceneinformation": {
+            "who": [
+                "Alex",
+                "Maya",
+                "Leo",
+                "Zara"
+            ],
+            "where": "Meeting Room",
+            "what": "Wrapping up project briefing and celebrating completion."
+        },
+        "dialogues": [
+            {
+                "speaker": "Alex",
+                "content": "Team, we've done an exceptional job. Let's review our final milestone and then we celebrate!",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Leo",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Zara",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "All the code reviews have been completed and we have no major issues left.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Leo",
+                "content": "The design is flawless. Our clients will be thrilled!",
+                "actions": [
+                    {
+                        "character": "Leo",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Zara",
+                "content": "QA tests went smoothly. We did great, everyone.",
+                "actions": [
+                    {
+                        "character": "Zara",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Let's toast to this success. Cheers!",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Joyful Jump"
+                    },
+                    {
+                        "character": "Leo",
+                        "state": "sitting",
+                        "action": "Sitting Claping"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Claping"
+                    },
+                    {
+                        "character": "Zara",
+                        "state": "sitting",
+                        "action": "Sitting Claping"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 2"
+            },
+            {
+                "character": "Leo",
+                "position": "Position 3"
+            },
+            {
+                "character": "Zara",
+                "position": "Position 4"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Alex",
+                "Maya",
+                "Leo"
+            ],
+            "where": "Apartment Living Room",
+            "what": "Reflecting on the project's challenges and personal growth."
+        },
+        "dialogues": [
+            {
+                "speaker": "Alex",
+                "content": "This project had its ups and downs, but look at how much we've grown.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Leo",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Absolutely. I've learned so much about managing complex codebases under pressure.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Leo",
+                "content": "And the collaboration was top-notch. Each of us brought something unique to the table.",
+                "actions": [
+                    {
+                        "character": "Leo",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Here's to many more successful collaborations in the future!",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Claping"
+                    },
+                    {
+                        "character": "Leo",
+                        "state": "sitting",
+                        "action": "Sitting Claping"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 2"
+            },
+            {
+                "character": "Leo",
+                "position": "Position 3"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Alex",
+                "Zara"
+            ],
+            "where": "Roadside",
+            "what": "Alex and Zara share a quiet moment to appreciate the journey."
+        },
+        "dialogues": [
+            {
+                "speaker": "Alex",
+                "content": "I'm really proud of what we've accomplished.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Zara",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Zara",
+                "content": "Me too, Alex. It's been quite a journey and I've enjoyed every step.",
+                "actions": [
+                    {
+                        "character": "Zara",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Here's to more challenges and more wins!",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Zara",
+                "position": "Position 2"
+            }
+        ]
+    }
+]

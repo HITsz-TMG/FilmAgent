@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Alex",
+        "age": "29",
+        "gender": "male",
+        "occupation": "Tech Lead",
+        "personality traits": "analytical, detail-oriented, calm",
+        "speaking style": "precise, measured, slightly monotone"
+    },
+    {
+        "name": "Sam",
+        "age": "26",
+        "gender": "female",
+        "occupation": "Marketing Specialist",
+        "personality traits": "creative, energetic, outgoing",
+        "speaking style": "enthusiastic, fast-paced, expressive"
+    },
+    {
+        "name": "Jordan",
+        "age": "32",
+        "gender": "male",
+        "occupation": "CEO",
+        "personality traits": "visionary, confident, charismatic",
+        "speaking style": "inspirational, persuasive, authoritative"
+    },
+    {
+        "name": "Tess",
+        "age": "28",
+        "gender": "female",
+        "occupation": "Product Manager",
+        "personality traits": "organized, strategic, pragmatic",
+        "speaking style": "clear, concise, assertive"
+    }
+]

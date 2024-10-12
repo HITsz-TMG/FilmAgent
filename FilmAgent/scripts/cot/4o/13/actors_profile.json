@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Max",
+        "age": "28",
+        "gender": "Male",
+        "occupation": "Graphic Designer",
+        "personality traits": "Creative, laid-back, witty",
+        "speaking style": "Casual with a touch of humor and sarcasm. Often punctuates phrases with sharp, quick observations."
+    },
+    {
+        "name": "Lily",
+        "age": "25",
+        "gender": "Female",
+        "occupation": "Marketing Manager",
+        "personality traits": "Organized, responsible, warm-hearted",
+        "speaking style": "Well-structured and clear. Likes to include everyone in the conversation and often uses inclusive language."
+    },
+    {
+        "name": "Jake",
+        "age": "30",
+        "gender": "Male",
+        "occupation": "Freelance Musician",
+        "personality traits": "Outgoing, spontaneous, charming",
+        "speaking style": "Energetic and engaging. Uses a lot of expressive gestures and tends to exaggerate for effect."
+    },
+    {
+        "name": "Zara",
+        "age": "27",
+        "gender": "Female",
+        "occupation": "Mystery Guest",
+        "personality traits": "Enigmatic, intelligent, aloof",
+        "speaking style": "Calm and deliberate. Often speaks in cryptic or enigmatic sentences, leaving others wanting more information."
+    }
+]

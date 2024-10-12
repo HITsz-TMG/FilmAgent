@@ -1,0 +1,412 @@
+[
+    {
+        "scene_information": {
+            "who": [
+                "Alex",
+                "Ben",
+                "Maya",
+                "Zoe"
+            ],
+            "where": "Apartment living room",
+            "what": "The four friends gather in Alex's apartment for a reunion after years apart. Tension arises between Alex and Ben over a past disagreement.",
+            "initial position": [
+                {
+                    "character": "Alex",
+                    "position": "Position 1"
+                },
+                {
+                    "character": "Ben",
+                    "position": "Position 2"
+                },
+                {
+                    "character": "Maya",
+                    "position": "Position 3"
+                },
+                {
+                    "character": "Zoe",
+                    "position": "Position 5"
+                }
+            ]
+        },
+        "dialogues": [
+            {
+                "speaker": "Alex",
+                "content": "Welcome, everyone. It's been far too long since our last assembly.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Greeting"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Indeed, time flows like a river, carrying us to distant shores.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "How have you all been? It's so wonderful to see familiar faces.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Ben",
+                "content": "Busy, as usual. Projects don't finish themselves.",
+                "actions": [
+                    {
+                        "character": "Ben",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Ben, always the diligent one. Still working on those engineering marvels?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Ben",
+                "content": "Yes. And you, practicing your courtroom theatrics?",
+                "actions": [
+                    {
+                        "character": "Ben",
+                        "state": "standing",
+                        "action": "Standing Bored"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "It's more than theatrics, Ben. The law requires precision.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Angry"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Let's not delve into debates tonight. The stars are shining brightly for us.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "Agreed. Let's focus on enjoying our reunion.",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Ben",
+                "content": "Sure, as long as we avoid certain topics.",
+                "actions": [
+                    {
+                        "character": "Ben",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Perhaps that's best.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Alex",
+                "Ben"
+            ],
+            "where": "Billiard room",
+            "what": "Alex and Ben move to the billiard room to talk privately. They confront each other about the past conflict.",
+            "initial position": [
+                {
+                    "character": "Alex",
+                    "position": "Position 1"
+                },
+                {
+                    "character": "Ben",
+                    "position": "Position 2"
+                }
+            ]
+        },
+        "dialogues": [
+            {
+                "speaker": "Alex",
+                "content": "Ben, we can't keep sidestepping the issue.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Ben",
+                "content": "What's there to discuss? You made your choices.",
+                "actions": [
+                    {
+                        "character": "Ben",
+                        "state": "standing",
+                        "action": "Standing Angry"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "I acted within the parameters necessary at the time.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Ben",
+                "content": "Parameters? You mean you chose your career over our friendship.",
+                "actions": [
+                    {
+                        "character": "Ben",
+                        "state": "standing",
+                        "action": "Standing Angry"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "That's a mischaracterization. The situation was complex.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Deny"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Ben",
+                "content": "Complex or not, you left without a word.",
+                "actions": [
+                    {
+                        "character": "Ben",
+                        "state": "standing",
+                        "action": "Standing Angry"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "I believed it was the optimal decision.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Ben",
+                "content": "For you, maybe. Did you consider anyone else?",
+                "actions": [
+                    {
+                        "character": "Ben",
+                        "state": "standing",
+                        "action": "Standing Angry"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Maya",
+                "Zoe",
+                "Alex",
+                "Ben"
+            ],
+            "where": "Apartment kitchen",
+            "what": "Maya and Zoe encourage Alex and Ben to reconcile. They all come together in the kitchen, and Alex and Ben make amends.",
+            "initial position": [
+                {
+                    "character": "Maya",
+                    "position": "Position 2"
+                },
+                {
+                    "character": "Zoe",
+                    "position": "Position 3"
+                },
+                {
+                    "character": "Alex",
+                    "position": "Position 1"
+                },
+                {
+                    "character": "Ben",
+                    "position": "Position 4"
+                }
+            ]
+        },
+        "dialogues": [
+            {
+                "speaker": "Maya",
+                "content": "Gentlemen, the past is a shadow; it's time to step into the light.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "We all value this friendship. Can't we find common ground?",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Perhaps I've been too rigid.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Ben",
+                "content": "Maybe I should've tried to understand your perspective.",
+                "actions": [
+                    {
+                        "character": "Ben",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "See? The dawn breaks after the darkest night.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Zoe",
+                "content": "How about we start fresh?",
+                "actions": [
+                    {
+                        "character": "Zoe",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Agreed.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Ben",
+                "content": "Yeah, let's move forward.",
+                "actions": [
+                    {
+                        "character": "Ben",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            }
+        ]
+    }
+]

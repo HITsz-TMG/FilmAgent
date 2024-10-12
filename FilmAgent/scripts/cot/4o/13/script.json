@@ -1,0 +1,498 @@
+[
+    {
+        "sceneinformation": {
+            "who": [
+                "Max",
+                "Lily",
+                "Jake"
+            ],
+            "where": "Apartment living room",
+            "what": "Max, Lily, and Jake are enjoying a small house party when an unexpected guest, Zara, crashes the party."
+        },
+        "dialogues": [
+            {
+                "speaker": "Max",
+                "content": "This playlist is fire! Jake, you outdid yourself.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "Thanks, man! Just wait till you hear the next track.",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "You guys are always so animated. Isn't it great just to relax with friends?",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Max",
+                "content": "Exactly, and a good playlist makes-",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Zara",
+                "content": "Hey there. Mind if I join?",
+                "actions": [
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Greeting"
+                    },
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    },
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "360 Degrees Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Uh, hi! We weren't expecting anyone else tonight.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "Yeah, who invited you?",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    },
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    },
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Zara",
+                "content": "Does it matter? I'm here now.",
+                "actions": [
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    },
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Max",
+                "content": "Well, Zara, right? Make yourself at home.",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    },
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Yeah, why not? Grab a drink from the kitchen.",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    },
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Zara",
+                "content": "Don't mind if I do.",
+                "actions": [
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Max",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    },
+                    {
+                        "character": "Lily",
+                        "state": "sitting",
+                        "action": "Sitting Claping"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Lily",
+                "Zara"
+            ],
+            "where": "Apartment kitchen",
+            "what": "Lily talks to Zara in the kitchen, trying to get to know her."
+        },
+        "dialogues": [
+            {
+                "speaker": "Lily",
+                "content": "So, Zara, how did you hear about our little get-together?",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Normal"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Zara",
+                "content": "You can say I have my ways.",
+                "actions": [
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Enigmatic"
+                    },
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "That's... interesting. You're quite the mystery, aren't you?",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Enigmatic"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Zara",
+                "content": "Let's just say I enjoy keeping things intriguing.",
+                "actions": [
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Lily",
+                "content": "Well, welcome anyway. Cheers to new surprises!",
+                "actions": [
+                    {
+                        "character": "Lily",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Max",
+                "Jake",
+                "Zara"
+            ],
+            "where": "Gaming room",
+            "what": "Max and Jake are playing video games when Zara joins them and reveals her unexpected talent."
+        },
+        "dialogues": [
+            {
+                "speaker": "Max",
+                "content": "Come on, Jake, you're going down!",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "Oh, please! You wish!",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "sitting",
+                        "action": "Sitting Laughing"
+                    },
+                    {
+                        "character": "Max",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Zara",
+                "content": "Mind if I take a turn?",
+                "actions": [
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Greeting"
+                    },
+                    {
+                        "character": "Max",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "360 Degrees Shot"
+            },
+            {
+                "speaker": "Max",
+                "content": "Uh, sure, why not? Think you can keep up?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Zara",
+                "content": "Watch and learn, guys.",
+                "actions": [
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "sitting",
+                        "action": "Sitting Laughing"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Jake",
+                "content": "Whoa, she's a natural!",
+                "actions": [
+                    {
+                        "character": "Jake",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Max",
+                        "state": "sitting",
+                        "action": "Sitting Claping"
+                    }
+                ],
+                "selected shot": "Pan Shot"
+            },
+            {
+                "speaker": "Max",
+                "content": "Where did you learn to play like that?",
+                "actions": [
+                    {
+                        "character": "Max",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Zara",
+                "content": "Like I said, I have my ways.",
+                "actions": [
+                    {
+                        "character": "Zara",
+                        "state": "standing",
+                        "action": "Standing Enigmatic"
+                    },
+                    {
+                        "character": "Jake",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            }
+        ]
+    }
+]

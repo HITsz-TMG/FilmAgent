@@ -1,0 +1,361 @@
+[
+    {
+        "scene_information": {
+            "who": [
+                "Jack",
+                "Rose",
+                "Mia"
+            ],
+            "where": "Apartment living room",
+            "what": "Jack announces his departure to Rose and Mia."
+        },
+        "dialogues": [
+            {
+                "speaker": "Jack",
+                "content": "I have something important to tell both of you.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Rose",
+                "content": "Is everything alright, Jack?",
+                "actions": [
+                    {
+                        "character": "Rose",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "Daddy, is it a surprise?",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Jack",
+                "content": "I've been offered a job in another city. I have to leave soon.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Rose",
+                "content": "But when will you be back?",
+                "actions": [
+                    {
+                        "character": "Rose",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "Can we come with you?",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Jack",
+                "content": "I wish you could, but it's not possible right now.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Rose",
+                "content": "We'll miss you dearly.",
+                "actions": [
+                    {
+                        "character": "Rose",
+                        "state": "sitting",
+                        "action": "Sitting Depressed"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "Will you call us every day?",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Jack",
+                "content": "Of course, I will.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jack",
+                "position": "Position 1"
+            },
+            {
+                "character": "Rose",
+                "position": "Position 2"
+            },
+            {
+                "character": "Mia",
+                "position": "Position 5"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Rose",
+                "Mia"
+            ],
+            "where": "Apartment kitchen",
+            "what": "Rose and Mia discuss their feelings about Jack's departure."
+        },
+        "dialogues": [
+            {
+                "speaker": "Mia",
+                "content": "Why can't we go with Daddy?",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Puzzled"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Rose",
+                "content": "Sometimes grown-ups have to do things on their own, sweetie.",
+                "actions": [
+                    {
+                        "character": "Rose",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "But I'll miss him so much.",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Rose",
+                "content": "I know, dear. We'll call him every day.",
+                "actions": [
+                    {
+                        "character": "Rose",
+                        "state": "standing",
+                        "action": "Standing Encouraging"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Mia",
+                "content": "Can we make him a goodbye gift?",
+                "actions": [
+                    {
+                        "character": "Mia",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Rose",
+                "content": "That's a wonderful idea.",
+                "actions": [
+                    {
+                        "character": "Rose",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Rose",
+                "position": "Position 2"
+            },
+            {
+                "character": "Mia",
+                "position": "Position 3"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Jack",
+                "Rose"
+            ],
+            "where": "Roadside",
+            "what": "Jack and Rose say their emotional farewell at the roadside."
+        },
+        "dialogues": [
+            {
+                "speaker": "Jack",
+                "content": "It's time for me to go.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Rose",
+                "content": "Take care of yourself.",
+                "actions": [
+                    {
+                        "character": "Rose",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Jack",
+                "content": "I will. And I'll be back before you know it.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Encouraging"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Rose",
+                "content": "We'll be waiting.",
+                "actions": [
+                    {
+                        "character": "Rose",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Jack",
+                "content": "Tell Mia I'll call tonight.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Rose",
+                "content": "She'll be happy to hear that.",
+                "actions": [
+                    {
+                        "character": "Rose",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Jack",
+                "content": "Goodbye, Rose.",
+                "actions": [
+                    {
+                        "character": "Jack",
+                        "state": "standing"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Rose",
+                "content": "Goodbye, Jack.",
+                "actions": [
+                    {
+                        "character": "Rose",
+                        "state": "standing",
+                        "action": "Standing Crying"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Jack",
+                "position": "Position 1"
+            },
+            {
+                "character": "Rose",
+                "position": "Position 2"
+            }
+        ]
+    }
+]
+

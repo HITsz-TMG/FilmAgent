@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Alex",
+        "age": "32",
+        "gender": "female",
+        "occupation": "Marketing Manager",
+        "personality traits": "ambitious, meticulous, diplomatic",
+        "speaking style": "formal but approachable"
+    },
+    {
+        "name": "Blake",
+        "age": "27",
+        "gender": "male",
+        "occupation": "Graphic Designer",
+        "personality traits": "creative, introverted, observant",
+        "speaking style": "casual, often uses industry jargon"
+    },
+    {
+        "name": "Casey",
+        "age": "45",
+        "gender": "female",
+        "occupation": "Human Resources Director",
+        "personality traits": "empathetic, authoritative, perceptive",
+        "speaking style": "professional and concise"
+    },
+    {
+        "name": "Jordan",
+        "age": "38",
+        "gender": "male",
+        "occupation": "Sales Executive",
+        "personality traits": "charismatic, persuasive, superficial",
+        "speaking style": "enthusiastic, tends to exaggerate"
+    }
+]

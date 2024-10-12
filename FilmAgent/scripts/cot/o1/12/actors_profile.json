@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Sam",
+        "age": "35",
+        "gender": "male",
+        "occupation": "Accountant",
+        "personality traits": "Introverted, meticulous, secretly adventurous",
+        "speaking style": "Soft-spoken, thoughtful pauses, formal language"
+    },
+    {
+        "name": "Lily",
+        "age": "32",
+        "gender": "female",
+        "occupation": "Teacher",
+        "personality traits": "Kind-hearted, imaginative, yearning for change",
+        "speaking style": "Warm, encouraging, often uses metaphors"
+    },
+    {
+        "name": "Max",
+        "age": "28",
+        "gender": "male",
+        "occupation": "Barista",
+        "personality traits": "Creative, restless, spontaneous",
+        "speaking style": "Casual, humorous, quick-witted"
+    },
+    {
+        "name": "Rose",
+        "age": "40",
+        "gender": "female",
+        "occupation": "Lawyer",
+        "personality traits": "Intelligent, decisive, feels trapped in her career",
+        "speaking style": "Assertive, precise, no-nonsense"
+    }
+]

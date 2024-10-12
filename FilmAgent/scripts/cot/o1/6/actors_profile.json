@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Emma",
+        "age": "42",
+        "gender": "female",
+        "occupation": "Lawyer",
+        "personality traits": "Assertive, analytical, perfectionist",
+        "speaking style": "Articulate and persuasive"
+    },
+    {
+        "name": "Mark",
+        "age": "45",
+        "gender": "male",
+        "occupation": "Chef",
+        "personality traits": "Creative, temperamental, passionate",
+        "speaking style": "Expressive and candid"
+    },
+    {
+        "name": "Lily",
+        "age": "17",
+        "gender": "female",
+        "occupation": "Student",
+        "personality traits": "Rebellious, outspoken, independent",
+        "speaking style": "Informal and sarcastic"
+    },
+    {
+        "name": "Alex",
+        "age": "20",
+        "gender": "male",
+        "occupation": "College Student",
+        "personality traits": "Calm, introspective, diplomatic",
+        "speaking style": "Thoughtful and measured"
+    }
+]

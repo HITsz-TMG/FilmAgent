@@ -1,0 +1,542 @@
+[
+    {
+        "scene_information": {
+            "who": [
+                "Alex",
+                "Blake"
+            ],
+            "where": "Office",
+            "what": "Alex is called into Blake's office, where Blake informs him that he is being terminated due to company downsizing."
+        },
+        "initial position": [
+            {
+                "character": "Blake",
+                "position": "Position 3"
+            },
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            }
+        ],
+        "dialogues": [
+            {
+                "speaker": "Blake",
+                "content": "Alex, please take a seat.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Sit Down"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Sure, Blake. Is everything okay?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Blake",
+                "content": "I'll get straight to the point. Due to recent budget cuts, we have to let some people go. Unfortunately, your position has been eliminated.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "I... I don't understand. I've been meeting all my targets.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Blake",
+                "content": "I know this is sudden, but the decision is final. HR will provide you with the severance package details.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Is there anything I can do to change this?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Blake",
+                "content": "I'm afraid not, Alex. We appreciate your contributions, but this is a business decision.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "I see. Thank you for letting me know.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Stand Up"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Blake",
+                "content": "Take care, Alex.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Alex",
+                "Sam"
+            ],
+            "where": "Apartment living room",
+            "what": "Alex returns home and tells his friend Sam about his termination, and he begins to have an emotional breakdown."
+        },
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Sam",
+                "position": "Position 2"
+            }
+        ],
+        "dialogues": [
+            {
+                "speaker": "Sam",
+                "content": "Hey Alex, you're home early. Everything alright?",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Not really, Sam. I... I got fired today.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "What? What happened?",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "They said it's due to budget cuts. My position was eliminated.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "That's unbelievable. You worked so hard!",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "I don't know what to do. I've given everything to that company.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "Hey, it's going to be okay. We'll figure something out.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "I feel like a failure.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Depressed"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "You're not a failure. These things happen. Let's take a moment to breathe.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "I just can't believe this is happening.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Crying"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Sam",
+                "content": "Maybe this is an opportunity in disguise.",
+                "actions": [
+                    {
+                        "character": "Sam",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Maybe...",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "",
+                "content": "[Alex begins to break down emotionally.]",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Sit Down"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            }
+        ]
+    },
+    {
+        "scene_information": {
+            "who": [
+                "Alex",
+                "Jordan"
+            ],
+            "where": "Roadside",
+            "what": "Alex meets Jordan on the roadside, and Jordan offers advice and support to help Alex cope with his emotions."
+        },
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Jordan",
+                "position": "Position 2"
+            }
+        ],
+        "dialogues": [
+            {
+                "speaker": "Jordan",
+                "content": "Alex? Is that you?",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Oh, hey Jordan.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Jordan",
+                "content": "You look troubled. Mind if I join you?",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Standing Thinking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Sure.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "",
+                "content": "[Jordan sits down]",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "standing",
+                        "action": "Sit Down"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Jordan",
+                "content": "What's going on?",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "I lost my job today.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Jordan",
+                "content": "I'm sorry to hear that. Do you want to talk about it?",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "I just don't know what to do anymore.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Jordan",
+                "content": "I know it's tough, but sometimes setbacks lead to better paths.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "I wish I could believe that.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Jordan",
+                "content": "You've always been resilient. Remember when you overcame that challenge in college?",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Yeah, but this feels different.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Jordan",
+                "content": "Every situation is different, but your strength remains the same.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Thanks, Jordan. I guess I needed to hear that.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Jordan",
+                "content": "Anytime. Let's grab a coffee and talk more.",
+                "actions": [
+                    {
+                        "character": "Jordan",
+                        "state": "sitting",
+                        "action": "Stand Up"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "I'd like that.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Stand Up"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ]
+    }
+]
+

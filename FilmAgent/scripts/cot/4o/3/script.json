@@ -1,0 +1,383 @@
+[
+    {
+        "sceneinformation": {
+            "who": [
+                "Alex",
+                "Maya"
+            ],
+            "where": "Roadside",
+            "what": "Alex and Maya, who haven't seen each other in years, meet up unexpectedly while Alex is taking a walk. They catch up on their lives."
+        },
+        "dialogues": [
+            {
+                "speaker": "Alex",
+                "content": "Maya! Is that really you?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Surprise"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Alex! Wow, what a surprise! How have you been?",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "I've been good. Still working as a software developer. How about you?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Listening"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "I'm a journalist now! It's been such a journey.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Listening"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "That's amazing to hear! Want to grab a coffee and catch up more?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "standing",
+                        "action": "Standing Agree"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Alex",
+                "Maya"
+            ],
+            "where": "Beverage Room",
+            "what": "Alex and Maya sit down in a cozy beverage room and order their drinks while they reminisce about old times."
+        },
+        "dialogues": [
+            {
+                "speaker": "Maya",
+                "content": "This place is lovely. I can't believe we hadn't seen each other since college.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Listening"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Yeah, it's been ages. Remember that crazy project we worked on together?",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Laughing"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "How could I forget! We barely slept that week.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Laughing"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Laughing"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "Haha, those were the days. So, tell me more about your journalism adventures.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Listening"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Maya",
+                "content": "Well, there have been plenty of ups and downs. I've covered everything from local news to overseas assignments.",
+                "actions": [
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Listening"
+                    }
+                ],
+                "selected shot": "Zoom Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 2"
+            }
+        ]
+    },
+    {
+        "sceneinformation": {
+            "who": [
+                "Alex",
+                "Maya",
+                "Blake",
+                "Riley"
+            ],
+            "where": "Apartment living room",
+            "what": "Alex and Maya arrive at Alex's apartment where they join Blake and Riley. All four friends reminisce about their college days."
+        },
+        "dialogues": [
+            {
+                "speaker": "Blake",
+                "content": "Look who's finally decided to show up together!",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Laughing"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Laughing"
+                    },
+                    {
+                        "character": "Riley",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    }
+                ],
+                "selected shot": "Track Shot"
+            },
+            {
+                "speaker": "Riley",
+                "content": "It's been forever since we were all in the same room.",
+                "actions": [
+                    {
+                        "character": "Riley",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Listening"
+                    },
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Talking"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Listening"
+                    }
+                ],
+                "selected shot": "Long Shot"
+            },
+            {
+                "speaker": "Alex",
+                "content": "It feels just like old times, doesn't it? So many memories in this room.",
+                "actions": [
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Talking"
+                    },
+                    {
+                        "character": "Riley",
+                        "state": "standing",
+                        "action": "Standing Listening"
+                    },
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Listening"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Listening"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            },
+            {
+                "speaker": "Blake",
+                "content": "Remember that time we had that epic prank war? Those were some of the best days.",
+                "actions": [
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Happy"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Laughing"
+                    },
+                    {
+                        "character": "Riley",
+                        "state": "standing",
+                        "action": "Standing Laughing"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Laughing"
+                    }
+                ],
+                "selected shot": "Close Shot"
+            },
+            {
+                "speaker": "Riley",
+                "content": "Oh gosh, the look on your face when you opened the door and the bucket of water fell on you!",
+                "actions": [
+                    {
+                        "character": "Riley",
+                        "state": "standing",
+                        "action": "Standing Laughing"
+                    },
+                    {
+                        "character": "Alex",
+                        "state": "sitting",
+                        "action": "Sitting Laughing"
+                    },
+                    {
+                        "character": "Blake",
+                        "state": "standing",
+                        "action": "Standing Laughing"
+                    },
+                    {
+                        "character": "Maya",
+                        "state": "sitting",
+                        "action": "Sitting Laughing"
+                    }
+                ],
+                "selected shot": "Mid Shot"
+            }
+        ],
+        "initial position": [
+            {
+                "character": "Alex",
+                "position": "Position 1"
+            },
+            {
+                "character": "Maya",
+                "position": "Position 2"
+            },
+            {
+                "character": "Blake",
+                "position": "Position 3"
+            },
+            {
+                "character": "Riley",
+                "position": "Position 4"
+            }
+        ]
+    }
+]

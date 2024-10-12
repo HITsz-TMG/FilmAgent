@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Alex",
+    "age": "32",
+    "gender": "male",
+    "occupation": "Lawyer",
+    "personality traits": "Ambitious, analytical, distant",
+    "speaking style": "Formal, precise, uses legal jargon"
+  },
+  {
+    "name": "Maya",
+    "age": "31",
+    "gender": "female",
+    "occupation": "Artist",
+    "personality traits": "Creative, sensitive, expressive",
+    "speaking style": "Poetic, often uses metaphors"
+  },
+  {
+    "name": "Ben",
+    "age": "33",
+    "gender": "male",
+    "occupation": "Engineer",
+    "personality traits": "Logical, practical, introverted",
+    "speaking style": "Concise, straightforward, sometimes blunt"
+  },
+  {
+    "name": "Zoe",
+    "age": "30",
+    "gender": "female",
+    "occupation": "Teacher",
+    "personality traits": "Caring, patient, mediator",
+    "speaking style": "Warm, encouraging, engages others by asking questions"
+  }
+]

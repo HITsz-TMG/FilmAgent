@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Alex",
+        "age": "50",
+        "gender": "male",
+        "occupation": "Doctor",
+        "personality traits": "Analytical, stubborn, caring",
+        "speaking style": "Calm, measured"
+    },
+    {
+        "name": "Mia",
+        "age": "48",
+        "gender": "female",
+        "occupation": "Teacher",
+        "personality traits": "Empathetic, assertive, patient",
+        "speaking style": "Warm, encouraging"
+    },
+    {
+        "name": "Liam",
+        "age": "22",
+        "gender": "male",
+        "occupation": "College Student",
+        "personality traits": "Rebellious, passionate, sensitive",
+        "speaking style": "Casual, emotional"
+    },
+    {
+        "name": "Eve",
+        "age": "16",
+        "gender": "female",
+        "occupation": "High School Student",
+        "personality traits": "Observant, introverted, thoughtful",
+        "speaking style": "Soft-spoken, hesitant"
+    }
+]

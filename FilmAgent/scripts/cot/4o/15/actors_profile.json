@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Sara",
+        "age": "34",
+        "gender": "female",
+        "occupation": "Architect",
+        "personality traits": "Analytical, Compassionate, Reserved",
+        "speaking style": "Calm and thoughtful, with a tendency to pause before speaking"
+    },
+    {
+        "name": "Jake",
+        "age": "35",
+        "gender": "male",
+        "occupation": "Chef",
+        "personality traits": "Charismatic, Confident, Impulsive",
+        "speaking style": "Energetic, often with animated gestures and quick transitions between topics"
+    },
+    {
+        "name": "Lena",
+        "age": "33",
+        "gender": "female",
+        "occupation": "Journalist",
+        "personality traits": "Curious, Honest, Determined",
+        "speaking style": "Direct and probing, with a knack for asking the right questions"
+    },
+    {
+        "name": "Tom",
+        "age": "36",
+        "gender": "male",
+        "occupation": "Software Developer",
+        "personality traits": "Intelligent, Introverted, Loyal",
+        "speaking style": "Concise and to the point, often with technical jargon when talking about work"
+    }
+]
