@@ -1,8 +1,10 @@
-<h2 align="center"> <a href="https://github.com/HITsz-TMG/FilmAgent/">FilmAgent: Automating Virtual Film Production via Multi-Agent Collaboration</a></h2>
-<h5 align="center"> If you appreciate our project, please consider giving us a star ⭐ on GitHub to stay updated with the latest developments.  </h2>
+<h2 align="center"> <a href="https://github.com/HITsz-TMG/FilmAgent">FilmAgent: Automating Virtual Film Production via Multi-Agent Collaboration</a></h2>
+<h5 align="center"> If you like our project, please consider giving us a star ⭐ on GitHub to stay updated with the latest developments.  </h2>
 <h4 align="center">
   
 [![Project Page](https://img.shields.io/badge/Project_Page-FilmAgent-blue)](https://filmagent.github.io/)
+[![Project Page](https://img.shields.io/badge/Paper-Arxiv-yellow)](https://dl.acm.org/doi/10.1145/3681758.3698014)
+[![Project Page](https://img.shields.io/badge/Video-Youtube-red)](https://www.youtube.com/watch?v=hTI-0777iHU)
 
 </h4>
 
@@ -66,11 +68,18 @@ Case #1 and #2 are from the Critique-Correct-Verify method in Scriptwriting #2 a
 
 If you find FilmAgent useful for your research and applications, please cite using this BibTeX:
 ```bibtex
-@article{xxxx,
-  title={FilmAgent: Automating Virtual Film Production via Multi-Agent Collaboration},
-  author={Xu, Zhenran and Wang, Jifang and Li, Zhouyi and Shi, Senbao and Hu, Baotian and Wang, Longyue and Zhang, Min},
-  journal={arXiv preprint arXiv:xxxxxxxx},
-  year={2024}
+@inproceedings{filmagent_xu_2024,
+author = {Xu, Zhenran and Wang, Jifang and Wang, Longyue and Li, Zhouyi and Shi, Senbao and Hu, Baotian and Zhang, Min},
+title = {FilmAgent: Automating Virtual Film Production Through a Multi-Agent Collaborative Framework},
+year = {2024},
+isbn = {9798400711404},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3681758.3698014},
+doi = {10.1145/3681758.3698014},
+booktitle = {SIGGRAPH Asia 2024 Technical Communications},
+articleno = {15},
+numpages = {4},
+series = {SA '24}
 }
-
 ```
