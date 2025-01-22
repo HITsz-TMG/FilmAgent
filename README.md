@@ -1,4 +1,4 @@
-<h2 align="center"> <a href="https://github.com/HITsz-TMG/FilmAgent">FilmAgent: Automating Virtual Film Production via Multi-Agent Collaboration</a></h2>
+<h2 align="center"> <a href="https://github.com/HITsz-TMG/FilmAgent">FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces</a></h2>
 <h5 align="center"> If you like our project, please consider giving us a star ⭐ on GitHub to stay updated with the latest developments.  </h2>
 <h4 align="center">
   
@@ -8,13 +8,19 @@
 
 </h4>
 
+<div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/intro.png" height="100%" width="85%"/></div>
+
+**FilmAgent** is a multi-agent collaborative system for end-to-end film automation in 3D virtual spaces. 
+FilmAgent simulates key crew roles—directors, screenwriters, actors, and cinematographers, and integrates efficient human workflows within a sandbox environment.
+
+
 ## 🎨 Framework
 
-Following the traditional film studio workflow, we divide the whole virtual film production process into three sequential stages: planning, scriptwriting and cinematography, and apply the **Critique-Correct-Verify**、**Debate-Judge** collaboration strategies. After these stages, each line in the script is specified with the positions of the actors, their actions, their dialogue, and the chosen camera shots.
+Following the traditional film studio workflow, we divide the whole film automation process into three sequential stages: idea development, scriptwriting and cinematography, and apply the **Critique-Correct-Verify**, **Debate-Judge** collaboration strategies. After these stages, each line in the script is specified with the positions of the actors, their actions, their dialogue, and the chosen camera shots.
 
-<div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/framework.png" height="100%" width="75%"/></div>
+<div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/framework.png" height="100%" width="85%"/></div>
 
-## 🌟 How to use FilmAgent
+## 🌟 Build Your own Film with FilmAgent
 
 1. Install Package
 ```Shell
@@ -48,11 +54,11 @@ python GenerateAudio.py
 
 5. We now have the `script.json`, `actors_profile.json`, and a series of `.wav` audio files. Next, we need to execute the script in Unity. The recommended version of the Unity editor is **Unity 2022.3.14f1c1**. You need to download the [Unity project file](https://huggingface.co/datasets/wjfhit/filmagent_unity/tree/main) we provide. After decompression, open `TheBigBang\Assets\TheBigBang\Manyrooms.unity` with Unity. Then replace all the absolute pathnames '/path/to/' with your specific path in `TheBigBang\Assets\Scirpts\StartVideo.cs` and `TheBigBang\Assets\Scirpts\ScriptExecute.cs`. Press **'ctrl+R'** in the unity interface to recompile, click **'Play'** to enter Game mode, then press **'E'** to start executing the script (sometimes the audio files load slowly, so you may need to play it 2 or 3 times before it can run normally).
 
-<div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/unity_1.png" height="100%" width="50%"/><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/unity_2.png" height="100%" width="50%"/></div>  
+<div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/unity_1.png" height="100%" width="50%"/><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/unity_2.png" height="100%" width="50%"/></div>  
 
 6. For the tests on 15 topics in our experimental section, we provide three .py files: `test_full.py` (The full FilmAgent framework, utilizing multi-agent collaboration.), `test_no_interation.py` (A single agent is responsible for planning, scriptwriting, and cinematography, representing our FilmAgent framework without multi-agent collaboration algorithms.) and `test_cot.py` (A single agent generates the chain-of-thought rationale and the complete script).
 
-## 🌈 Case Show
+## 🌈 Case Study
 The following table records some comparisons of the scripts and camera settings before (left) and after (right) multi-agent collaboration, with excerpts from their discussion process.
 
 <div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/cases.png" height="100%" width="50%"/></div>
