@@ -73,7 +73,13 @@ Case #1 and #2 are from the Critique-Correct-Verify method in Scriptwriting #2 a
 
 ### Comparison with Sora
 
-<div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/sora.png" height="100%" width="100%"/></div>
+<div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/sora.png" height="100%" width="70%"/></div>
+
+
+
+https://github.com/user-attachments/assets/65bb4c12-cba0-4ee9-a673-63ea5103fd76
+
+
 
 While Sora shows **great adaptability** to diverse locations, characters and shots, it struggles with consistency and narrative delivery. In contrast, FilmAgent requires pre-built 3D spaces, but it produces **coherent, physics-compliant** videos
 with strong **storytelling capabilities**.
