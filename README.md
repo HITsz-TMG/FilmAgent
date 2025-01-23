@@ -60,7 +60,7 @@ python GenerateAudio.py
 
 ## 🌈 Case Study
 
-### What does Multi-Agent Collaboratuion do?
+### What does Multi-Agent Collaboration do?
 The following table records some comparisons of the scripts and camera settings before (left) and after (right) multi-agent collaboration, with excerpts from their discussion process.
 
 <div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/cases.png" height="100%" width="70%"/></div>
@@ -75,7 +75,7 @@ Case #1 and #2 are from the Critique-Correct-Verify method in Scriptwriting #2 a
 
 <div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/sora.png" height="100%" width="100%"/></div>
 
-While Sora shows **great adaptability**, it struggles with consistency and narrative delivery. In contrast, FilmAgent requires pre-built 3D spaces, but it produces **coherent, physics-compliant** videos
+While Sora shows **great adaptability** to diverse locations, characters and shots, it struggles with consistency and narrative delivery. In contrast, FilmAgent requires pre-built 3D spaces, but it produces **coherent, physics-compliant** videos
 with strong **storytelling capabilities**.
 
 
