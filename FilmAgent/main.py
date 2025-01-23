@@ -12,7 +12,7 @@ class FilmCrafter:
     
     def __init__(self, topic: str) -> None:
         self.topic = topic
-        self.log_path = cretae_new_path(os.path.join(ROOT_PATH, "Logs"), "txt")
+        self.log_path = create_new_path(os.path.join(ROOT_PATH, "Logs"), "txt")
         self.profile_path = os.path.join(ROOT_PATH, "Script\\actors_profile.json") 
         self.action_description_path = os.path.join(ROOT_PATH, "Locations\\actions.txt")
         self.shot_description_path = os.path.join(ROOT_PATH, "Locations\\shots.txt")
@@ -33,7 +33,7 @@ class FilmCrafter:
         # + shot (stage3_verify)
         self.scene_path_7 = os.path.join(ROOT_PATH, "Script\scenes_8.json") 
         # The final script
-        self.script_path = cretae_new_path(os.path.join(ROOT_PATH, "Script\script"), "json")
+        self.script_path = create_new_path(os.path.join(ROOT_PATH, "Script\script"), "json")
         
         # director's shot annotation
         self.director_shot_path = os.path.join(ROOT_PATH, "Script\director_shot.json")
