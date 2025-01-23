@@ -3,7 +3,7 @@
 <h4 align="center">
   
 [![Project Page](https://img.shields.io/badge/Project_Page-FilmAgent-blue)](https://filmagent.github.io/)
-[![Project Page](https://img.shields.io/badge/Paper-Arxiv-yellow)](https://dl.acm.org/doi/10.1145/3681758.3698014)
+[![Project Page](https://img.shields.io/badge/Paper-Arxiv-yellow)](https://arxiv.org/abs/2501.12909)
 [![Project Page](https://img.shields.io/badge/Video-Youtube-red)](https://www.youtube.com/watch?v=hTI-0777iHU)
 
 </h4>
