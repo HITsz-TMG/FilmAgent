@@ -83,18 +83,13 @@ with strong **storytelling capabilities**.
 
 If you find FilmAgent useful for your research and applications, please cite using this BibTeX:
 ```bibtex
-@inproceedings{filmagent_xu_2024,
-author = {Xu, Zhenran and Wang, Jifang and Wang, Longyue and Li, Zhouyi and Shi, Senbao and Hu, Baotian and Zhang, Min},
-title = {FilmAgent: Automating Virtual Film Production Through a Multi-Agent Collaborative Framework},
-year = {2024},
-isbn = {9798400711404},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3681758.3698014},
-doi = {10.1145/3681758.3698014},
-booktitle = {SIGGRAPH Asia 2024 Technical Communications},
-articleno = {15},
-numpages = {4},
-series = {SA '24}
+@misc{xu2025filmagent,
+      title={FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces}, 
+      author={Zhenran Xu and Longyue Wang and Jifang Wang and Zhouyi Li and Senbao Shi and Xue Yang and Yiyu Wang and Baotian Hu and Jun Yu and Min Zhang},
+      year={2025},
+      eprint={2501.12909},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2501.12909}, 
 }
 ```
