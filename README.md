@@ -28,7 +28,7 @@
 
 _**Zhenran Xu, Longyue Wang, Jifang Wang, Zhouyi Li, Senbao Shi, Xue Yang, Yiyu Wang, Baotian Hu, Jun Yu, Min Zhang**_
 
-🌐  [**Project Page**](https://filmagent.github.io)  :octocat:  [**Code**](https://github.com/HITsz-TMG/FilmAgent)  📝  [**Paper**](https://arxiv.org/abs/2501.12909) 🧑‍💻  [**Slides**](https://github.com/filmagent/filmagent.github.io/blob/main/static/SA24_FilmAgent.pdf)  📽️  [**Video**](https://www.youtube.com/watch?v=hTI-0777iHU)
+🎯  [**Project Page**](https://filmagent.github.io)  :octocat:  [**Code**](https://github.com/HITsz-TMG/FilmAgent)  📝  [**Paper**](https://arxiv.org/abs/2501.12909) 🧑‍💻  [**Slides**](https://github.com/filmagent/filmagent.github.io/blob/main/static/SA24_FilmAgent.pdf)  📽️  [**Video**](https://www.youtube.com/watch?v=hTI-0777iHU)
 
 </div>
 
@@ -110,7 +110,7 @@ While Sora shows **great adaptability** to diverse locations, characters and sho
 with strong **storytelling capabilities**.
 
 
-## 🎯 Citation
+## 📚 Citation
 
 If you find FilmAgent useful for your research and applications, please cite using this BibTeX:
 ```bibtex
