@@ -26,19 +26,20 @@
 
 <!-- **Affiliations:** -->
 
-⭐ _**Zhenran Xu, Longyue Wang, Jifang Wang, Zhouyi Li, Senbao Shi, Xue Yang, Yiyu Wang, Baotian Hu, Jun Yu, Min Zhang**_ ⭐
+_**Zhenran Xu, Longyue Wang, Jifang Wang, Zhouyi Li, Senbao Shi, Xue Yang, Yiyu Wang, Baotian Hu, Jun Yu, Min Zhang**_
 
 🌐  [**Project Page**](https://filmagent.github.io)  :octocat:  [**Code**](https://github.com/HITsz-TMG/FilmAgent)  📝  [**Paper**](https://arxiv.org/abs/2501.12909) 🧑‍💻  [**Slides**](https://github.com/filmagent/filmagent.github.io/blob/main/static/SA24_FilmAgent.pdf)  📽️  [**Video**](https://www.youtube.com/watch?v=hTI-0777iHU)
 
 </div>
 
-<div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/intro.png" height="100%" width="85%"/></div>
+#
 
 **FilmAgent** is a multi-agent collaborative system for end-to-end film automation in 3D virtual spaces. 
 FilmAgent simulates key crew roles—directors, screenwriters, actors, and cinematographers, and integrates efficient human workflows within a sandbox environment.
 
+<div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/intro.png" height="100%" width="85%"/></div>
 
-## 🎨 Framework
+## 🚀 Framework
 
 Following the traditional film studio workflow, we divide the whole film automation process into three sequential stages: idea development, scriptwriting and cinematography, and apply the **Critique-Correct-Verify**, **Debate-Judge** collaboration strategies. After these stages, each line in the script is specified with the positions of the actors, their actions, their dialogue, and the chosen camera shots.
 
@@ -109,7 +110,7 @@ While Sora shows **great adaptability** to diverse locations, characters and sho
 with strong **storytelling capabilities**.
 
 
-## Citation
+## 🎯 Citation
 
 If you find FilmAgent useful for your research and applications, please cite using this BibTeX:
 ```bibtex
