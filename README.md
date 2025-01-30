@@ -6,12 +6,19 @@
 <!-- <h5 align="center"> If you like our project, please consider giving us a star ⭐ on GitHub to stay updated with the latest developments.  </h2> -->
 <h4 align="center">
 
+<div align="center">
+<img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> 
+<img src="https://img.shields.io/badge/License-Apache%202.0-green.svg" alt="License">
+<img src="https://img.shields.io/github/stars/HITsz-TMG/FilmAgent?color=yellow" alt="Stars">
+<img src="https://img.shields.io/github/issues/HITsz-TMG/FilmAgent?color=red" alt="Issues">
+<img src="https://img.shields.io/badge/python-3.8-purple.svg" alt="Python">
+
 <!-- <img src="https://img.shields.io/github/stars/AIDC-AI/Marco-o1?color=yellow" alt="Stars"> -->
 
-[![Project Page](https://img.shields.io/badge/Project_Page-FilmAgent-blue)](https://filmagent.github.io/)
+<!-- [![Project Page](https://img.shields.io/badge/Project_Page-FilmAgent-blue)](https://filmagent.github.io/)
 [![Project Page](https://img.shields.io/badge/Paper-Arxiv-yellow)](https://arxiv.org/abs/2501.12909)
 [![Project Page](https://img.shields.io/badge/Video-Youtube-red)](https://www.youtube.com/watch?v=hTI-0777iHU)
-![Gitea Stars](https://img.shields.io/gitea/stars/HITsz-TMG/FilmAgent)
+![Gitea Stars](https://img.shields.io/gitea/stars/HITsz-TMG/FilmAgent) -->
 
 </h4>
 
