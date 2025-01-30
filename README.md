@@ -22,6 +22,16 @@
 
 </h4>
 
+<div align="center">
+
+<!-- **Affiliations:** -->
+
+⭐ _**Zhenran Xu, Longyue Wang, Jifang Wang, Zhouyi Li, Senbao Shi, Xue Yang, Yiyu Wang, Baotian Hu, Jun Yu, Min Zhang**_ ⭐
+
+🌐  [**Project Page**](https://filmagent.github.io)  :octocat:  [**Code**](https://github.com/HITsz-TMG/FilmAgent)  📝  [**Paper**](https://arxiv.org/abs/2501.12909) 🧑‍💻  [**Slides**](https://github.com/filmagent/filmagent.github.io/blob/main/static/SA24_FilmAgent.pdf)  📽️  [**Video**](https://www.youtube.com/watch?v=hTI-0777iHU)
+
+</div>
+
 <div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/intro.png" height="100%" width="85%"/></div>
 
 **FilmAgent** is a multi-agent collaborative system for end-to-end film automation in 3D virtual spaces. 
