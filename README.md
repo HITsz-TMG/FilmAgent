@@ -106,9 +106,9 @@ https://github.com/user-attachments/assets/65bb4c12-cba0-4ee9-a673-63ea5103fd76
 
 
 
-While Sora shows great adaptability to diverse locations, characters and shots, it **struggles with consistency and narrative delivery**. 
+While Sora (the above video ⏫) shows great adaptability to diverse locations, characters and shots, it **struggles with consistency and narrative delivery**, along with **strange artifacts**. 
 
-In contrast, FilmAgent requires pre-built 3D spaces, but it produces **coherent, physics-compliant** videos with strong **storytelling capabilities**.
+In contrast, FilmAgent requires pre-built 3D spaces, but it produces **coherent, physics-compliant** videos with strong **storytelling capabilities** (video at [Youtube](https://www.youtube.com/watch?v=yOOycdfolFY)).
 
 
 ## 📚 Citation
