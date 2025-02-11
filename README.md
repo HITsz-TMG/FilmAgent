@@ -85,30 +85,33 @@ python GenerateAudio.py
 
 ## 🌈 Case Study
 
-### What does Multi-Agent Collaboration do?
-The following table records some comparisons of the scripts and camera settings before (left) and after (right) multi-agent collaboration, with excerpts from their discussion process.
+### 🤝 What does Multi-Agent Collaboration do?
+The following table records some comparisons of the scripts and camera settings **before (⬅️) and after (➡️)** multi-agent collaboration, with excerpts from their discussion process.
 
 <div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/cases.png" height="100%" width="70%"/></div>
 
-Case #1 and #2 are from the Critique-Correct-Verify method in Scriptwriting #2 and #3 stages respectively. Case #3 and #4 are from the Debate-Judge method in Cinematography.
+📌 **Case Highlights:**
 - **Case #1** shows that Director-Screenwriter discussion reduces hallucinations in non-existent actions (e.g., standing suggest), enhances plot coherence, and ensures consistency across scenes.
 - **Case #2** shows that Actor-Director-Screenwriter discussion improves the alignment of dialogue with character profiles.
 - **Case #3**, in the Debate-Judge method in cinematography, demonstrates the correction of an inappropriate dynamic shot, which is replaced with a medium shot to better convey body language.
 - **Case #4** replaces a series of identical static shots with a mix of dynamic and static shots, resulting in a more diverse camera setup.
 
-### Comparison with Sora
+### ⚖️ Comparison with Sora
 
 <div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/sora.png" height="100%" width="70%"/></div>
 
+While Sora (🔗 [Video](https://github.com/user-attachments/assets/65bb4c12-cba0-4ee9-a673-63ea5103fd76)) shows great adaptability to diverse locations, characters and shots, it **struggles with consistency and narrative delivery**, along with **strange artifacts**. 
 
+In contrast, FilmAgent requires pre-built 3D spaces, but it produces **coherent, physics-compliant** videos with strong **storytelling capabilities** (▶️ Watch on [Youtube](https://www.youtube.com/watch?v=yOOycdfolFY)).
 
-https://github.com/user-attachments/assets/65bb4c12-cba0-4ee9-a673-63ea5103fd76
+### ✨ Integration with Text-to-Video Models (e.g. Sora, Vidu)
 
+We are currently working towards **merging the power of text-to-video models with FilmAgent**, unlocking enhanced storytelling, greater adaptability, and improved consistency. 🚀
 
+Here is a preview of our work—a fan-made tribute to the box office phenomenon *NeZha2*. This video celebrates *NeZha2* surpassing a CNY 8 billion at the box office, officially crowning it as the highest-grossing film in a single territory! 🎉 
 
-While Sora (the above video ⏫) shows great adaptability to diverse locations, characters and shots, it **struggles with consistency and narrative delivery**, along with **strange artifacts**. 
+[![IMAGE ALT TEXT HERE](https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/nezha_youtube.png)](https://www.youtube.com/watch?v=jY3n-AzBtUQ)
 
-In contrast, FilmAgent requires pre-built 3D spaces, but it produces **coherent, physics-compliant** videos with strong **storytelling capabilities** (video at [Youtube](https://www.youtube.com/watch?v=yOOycdfolFY)).
 
 
 ## 📚 Citation
