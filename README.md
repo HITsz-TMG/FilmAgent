@@ -30,6 +30,8 @@ _**Zhenran Xu, Longyue Wang, Jifang Wang, Zhouyi Li, Senbao Shi, Xue Yang, Yiyu 
 
 🎯  [**Project Page**](https://filmagent.github.io)  :octocat:  [**Code**](https://github.com/HITsz-TMG/FilmAgent)  📝  [**Paper**](https://arxiv.org/abs/2501.12909) 🧑‍💻  [**Slides**](https://filmagent.github.io/static/SA24_FilmAgent.pdf)  📽️  [**Video**](https://www.youtube.com/watch?v=hTI-0777iHU)
 
+<a href="https://trendshift.io/repositories/12871" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12871" alt="HITsz-TMG%2FFilmAgent | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 </div>
 
 #
@@ -37,7 +39,16 @@ _**Zhenran Xu, Longyue Wang, Jifang Wang, Zhouyi Li, Senbao Shi, Xue Yang, Yiyu 
 **FilmAgent** is a multi-agent collaborative system for end-to-end film automation in 3D virtual spaces. 
 FilmAgent simulates key crew roles—directors, screenwriters, actors, and cinematographers, and integrates efficient human workflows within a sandbox environment.
 
-<div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/intro.png" height="100%" width="85%"/></div>
+<div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/intro.png" height="100%" width="78%"/></div>
+
+## 💥 News
+
+- `2025/2/11`: 🎬 We’ve just released a fan-made video about ***NeZha2***, in celebration of its record-breaking success at the box office. Click the image below to watch the video! 👇
+  [<div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/nezha_youtube.png" width="450"></div>](https://www.youtube.com/watch?v=jY3n-AzBtUQ)
+- `2025/1/23`:  🙌 We're excited that FilmAgent is recommended by [AK](https://x.com/_akhaliq/status/1882268452716728789), [el.cine](https://x.com/EHuanglu/status/1882294685919772928) and [Theoretically Media](https://www.youtube.com/watch?v=0ebXKegfxWk&t=899s). Thanks!
+- `2025/1/22`: 📄 Our paper is now accessible at https://arxiv.org/abs/2501.12909.
+
+
 
 ## 🚀 Framework
 
@@ -108,11 +119,7 @@ In contrast, FilmAgent requires pre-built 3D spaces, but it produces **coherent,
 
 We are currently working towards **merging the power of text-to-video models with FilmAgent**, unlocking enhanced storytelling, greater adaptability, and improved consistency. 🚀
 
-Here is a preview of our work—a fan-made tribute to the box office phenomenon *NeZha2*. This video celebrates *NeZha2* surpassing a CNY 8 billion at the box office, officially crowning it as the highest-grossing film in a single territory! 🎉 
-
-[![IMAGE ALT TEXT HERE](https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/nezha_youtube.png)](https://www.youtube.com/watch?v=jY3n-AzBtUQ)
-
-
+Here is a preview of our work—a fan-made tribute to the box office phenomenon *NeZha2* [▶️[video link](https://www.youtube.com/watch?v=jY3n-AzBtUQ)]. This video celebrates *NeZha2* surpassing a CNY 8 billion at the box office, officially crowning it as the highest-grossing film in a single territory! 🎉 
 
 ## 📚 Citation
 
