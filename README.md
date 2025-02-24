@@ -43,6 +43,7 @@ FilmAgent simulates key crew roles—directors, screenwriters, actors, and cinem
 
 ## 💥 News
 
+- `2025/2/24`: 🚀 We have integrated **DeepSeek**-v3 and r1 for model selection, allowing for more sophisticated decision-making processes.
 - `2025/2/11`: 🎬 We’ve just released a fan-made video about ***NeZha2***, in celebration of its record-breaking success at the box office. Click the image below to watch the video! 👇
   [<div align=center><img src="https://github.com/HITsz-TMG/FilmAgent/blob/main/pics/nezha_youtube.png" width="450"></div>](https://www.youtube.com/watch?v=jY3n-AzBtUQ)
 - `2025/1/23`:  🙌 We're excited that FilmAgent is recommended by [AK](https://x.com/_akhaliq/status/1882268452716728789), [el.cine](https://x.com/EHuanglu/status/1882294685919772928) and [Theoretically Media](https://www.youtube.com/watch?v=0ebXKegfxWk&t=899s). Thanks!
