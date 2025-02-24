@@ -1,26 +1,27 @@
-import os
 import openai
 from openai import OpenAI
 
 
-api_key = "xxxxxxxxxxxxxx"
-organization = "xxxxxxxxxxxxxx"
+client_gpt = OpenAI(api_key = "<OpenAI API Key>")
+client_deepseek = OpenAI(api_key = "<DeepSeek API Key>", base_url="https://api.deepseek.com")
 
-def GPTCall(prompt):
+
+
+def LLMCall(prompt, model):
     counter = 0
     result = "api调用失败"
+    if "gpt" in model:
+        client = client_gpt
+    if "deepseek" in model:
+        client = client_deepseek
     while counter < 3:
         try:
-            openai.api_key = api_key
-            openai.organization = organization
-            client = OpenAI(api_key = api_key, organization = organization)
             completion = client.chat.completions.create(
-                model = "gpt-4o",
-                # model = "gpt-3.5-turbo",
-                # model="gpt-4-1106-preview",
+                model = model,
                 messages=[
                     {"role": "user", "content": prompt},
-                ]
+                ],
+                stream=False
             )
             result = completion.choices[0].message.content
             print(f"%%%%%%%%%%%%%%%%%%%%%%%%\n{result}\n%%%%%%%%%%%%%%%%%%%%%%%")
@@ -33,11 +34,10 @@ def GPTCall(prompt):
     return result
 
 
+
+
 def GPTTTS(text, role):
-    
-    openai.api_key = api_key
-    openai.organization = organization
-    client = OpenAI(api_key = api_key, organization = organization)
+    client = client_gpt
     response = client.audio.speech.create(
         model = "tts-1",
         voice = role,
