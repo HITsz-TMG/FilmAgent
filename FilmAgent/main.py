@@ -3,6 +3,8 @@ from LLMCaller import *
 from typing import Dict, List, Union
 import random
 import copy
+import argparse
+
 
 # TO DO
 ROOT_PATH = "/path/to/FilmAgent"
@@ -56,7 +58,7 @@ class FilmCrafter:
         prompt = read_prompt(os.path.join(ROOT_PATH, f"Prompt\{identity}.txt") )
         prompt = prompt_format(prompt, params)
         log_prompt(self.log_path, prompt)
-        result = GPTCall(prompt)
+        result = LLMCall(prompt, model)
         if trans2json:
             result = clean_text(result)
             result = GPTResponse2JSON(result)
@@ -691,6 +693,11 @@ class FilmCrafter:
                     
                     
 if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--model', help="LLM to be called", type=str)
+    args = parser.parse_args()
+    model = args.model
+    
     f = FilmCrafter(topic = "Reconcilation in a friend reunion")
     print("Characters selecting >>>")
     f.casting()
