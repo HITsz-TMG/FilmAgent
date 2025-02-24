@@ -7,6 +7,7 @@ import copy
 # TO DO
 ROOT_PATH = "/path/to/FilmAgent"
 ID = 15
+model = "gpt-4o"
 # TO DO
 
 topics=["Reconcilation in a friend reunion", "A quarrel and breakup scene", "Casual meet-up with an old friend", "Emergency meeting after a security breach", "Late night brainstorming for a startup", "Family argument during dinner", "Emotional farewell at the roadside", "Heated debate over investments in the office", "Heated family discussion ending in a heartfelt apology", "Office gossip turning into a major understanding", "Celebratory end of project cheers with team members", "Planning a secret escape from a mundane routine", "Unexpected guest crashes a small house party", "An employee's emotional breakdown after being terminated", "Confession of a long-held secret among close friends"]
@@ -63,7 +64,7 @@ class FilmCrafter:
         prompt = read_prompt(os.path.join(ROOT_PATH, f"Prompt\{identity}.txt") )
         prompt = prompt_format(prompt, params)
         log_prompt(self.log_path, prompt)
-        result = GPTCall(prompt)
+        result = LLMCall(prompt, model)
         if trans2json:
             result = clean_text(result)
             result = GPTResponse2JSON(result)
