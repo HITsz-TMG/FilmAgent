@@ -29,7 +29,7 @@ def log_prompt(prompt_log_path, input):
         log_file.write("#######################################################\n")
 
 
-def cretae_new_path(path, filetype):
+def create_new_path(path, filetype):
     if not os.path.exists(path):
         os.makedirs(path)
     files = os.listdir(path)

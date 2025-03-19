@@ -30,7 +30,7 @@ for file in os.listdir(female_path):
     spk['female'].append(t)
     
     
-def cretae_new_path(path, filetype):
+def create_new_path(path, filetype):
     if not os.path.exists(path):
         os.makedirs(path)
     files = os.listdir(path)
@@ -60,7 +60,7 @@ async def AudioGenerate(request: Request):
                   params_refine_text=params_refine_text,
                   params_infer_code=params_infer_code)
     
-    file_path = cretae_new_path(os.path.join(ROOT, "Audio"), "wav")
+    file_path = create_new_path(os.path.join(ROOT, "Audio"), "wav")
     soundfile.write(file_path, wavs[0][0], 24000)
 
     return FileResponse(path=file_path, filename=os.path.basename(file_path), media_type='audio/wav')
