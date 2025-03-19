@@ -80,7 +80,7 @@ python main.py --model "gpt-4o" # openai
 cd /path/to/TTS
 conda create -n tts python==3.9.18
 conda activate tts
-pip install -r tts_env.txt
+pip install -r env_tts.txt
 python tts_main.py
 ```
 
