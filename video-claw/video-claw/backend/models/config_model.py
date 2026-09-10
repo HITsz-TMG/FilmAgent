@@ -339,6 +339,31 @@ MODEL_CONFIG: dict[str, Any] = {'models': {'deepseek-chat': {'name': 'DeepSeek C
                                                                  'verified': True},
                                                     'resolutions': ['720P', '1080P'],
                                                     'api_contract_verified': True}},
+            'google/nano-banana-2': {'name': 'Nano Banana 2 (ModelRunner)',
+                                     'provider': 'modelrunner',
+                                     'type': ['t2i'],
+                                     'concurrency': 3,
+                                     'price_per_image': 0.068,
+                                     'capabilities': {'ability_type': 'image_generation',
+                                                      'ability_types': ['text_to_image'],
+                                                      'input_modalities': ['text']}},
+            'qwen/qwen-image-edit': {'name': 'Qwen-Image-Edit (ModelRunner)',
+                                     'provider': 'modelrunner',
+                                     'type': ['i2i'],
+                                     'concurrency': 3,
+                                     'price_per_image': 0.028,
+                                     'capabilities': {'ability_type': 'image_generation',
+                                                      'ability_types': ['image_to_image', 'reference_image'],
+                                                      'input_modalities': ['text', 'image']}},
+            'bytedance/seedance-v1-pro-fast': {'name': 'Seedance V1 Pro Fast (ModelRunner)',
+                                               'provider': 'modelrunner',
+                                               'type': ['video'],
+                                               'concurrency': 3,
+                                               'price_per_second': 0.136,
+                                               'capabilities': {'ability_type': 'image_to_video',
+                                                                'ability_types': ['text_to_video', 'image_to_video'],
+                                                                'duration': {'min': 3, 'max': 12, 'integer': True},
+                                                                'resolutions': ['480P', '720P', '1080P']}},
             'kling-v3': {'name': 'Kling V3',
                          'provider': 'kling',
                          'type': ['video'],
@@ -609,6 +634,17 @@ def get_model_config(model: str) -> dict[str, Any]:
         "type": [],
         "concurrency": 3,
     }
+
+
+def model_provider(model: str) -> Optional[str]:
+    """Provider for an EXACTLY registered model, else None.
+
+    Deliberately does not use get_model_config's loose alias fallback: that
+    matches on substrings in both directions, which is fine for reading metadata
+    but must never decide which backend a request is sent to.
+    """
+    entry = MODEL_CONFIG.get("models", {}).get(model)
+    return entry.get("provider") if isinstance(entry, dict) else None
 
 
 def get_max_concurrency(model: str, enable_concurrency: bool = False) -> int:

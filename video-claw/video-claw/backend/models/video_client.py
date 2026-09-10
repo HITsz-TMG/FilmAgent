@@ -16,14 +16,17 @@ if backend_dir not in sys.path:
 import logging
 from typing import Optional
 from config import Config
+from models.config_model import model_provider
 
 try:
     from models.video_dashscope import DashscopeVideoClient
     from models.video_kling import KlingVideoClient
+    from models.video_modelrunner import ModelRunnerVideoClient
     from models.video_seedance import SeedanceVideoClient
 except ImportError:
     from video_dashscope import DashscopeVideoClient
     from video_kling import KlingVideoClient
+    from video_modelrunner import ModelRunnerVideoClient
     from video_seedance import SeedanceVideoClient
 
 logger = logging.getLogger(__name__)
@@ -54,6 +57,15 @@ class VideoClient:
         self._dashscope_client = None
         self._kling_client = None
         self._seedance_client = None
+        self._modelrunner_client = None
+
+    @property
+    def modelrunner_client(self):
+        if self._modelrunner_client is None:
+            self._modelrunner_client = ModelRunnerVideoClient(
+                api_key=Config.MODELRUNNER_API_KEY,
+            )
+        return self._modelrunner_client
 
     @property
     def Dashscope_client(self):
@@ -170,6 +182,23 @@ class VideoClient:
             logger.info("\n%s", "\n".join(lines))
 
         model_lower = model.lower()
+
+        # An exactly-registered ModelRunner model wins before the substring
+        # tests: a catalog id like "kuaishou/kling-video/v2.6/image-to-video"
+        # would otherwise be captured by the "kling" test below and sent to the
+        # wrong backend.
+        if model_provider(model) == "modelrunner":
+            return self.modelrunner_client.generate_video(
+                prompt=prompt,
+                image_path=image_path,
+                save_path=save_path,
+                model=model,
+                duration=duration,
+                video_ratio=video_ratio,
+                resolution=resolution,
+                last_image_path=last_image_path,
+                seed=seed,
+            )
 
         if "kling" in model_lower:
             return self._generate_kling(

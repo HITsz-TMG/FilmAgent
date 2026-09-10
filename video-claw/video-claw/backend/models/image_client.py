@@ -13,15 +13,19 @@ import logging
 from typing import List, Optional
 from config import Config
 
+from models.config_model import model_provider
+
 try:
     from models.image_dashscope import DashScopeClient
     from models.image_seedream import SeedreamClient
     from models.image_gpt import ImageGPT
+    from models.image_modelrunner import ModelRunnerImageClient
     from models.image_processor import ImageProcessor
 except ImportError:
     from .image_dashscope import DashScopeClient
     from .image_seedream import SeedreamClient
     from .image_gpt import ImageGPT
+    from .image_modelrunner import ModelRunnerImageClient
     from .image_processor import ImageProcessor
 
 logger = logging.getLogger(__name__)
@@ -51,12 +55,22 @@ class ImageClient:
         self._dashscope_client = None
         self._seedream_client = None
         self._gpt_client = None
+        self._modelrunner_client = None
 
         # Initialize Image Processor for downloads
         self.image_processor = ImageProcessor()
 
         # Default save directory
         self.base_save_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "code", "result", "image_client")
+
+    @property
+    def modelrunner_client(self):
+        if self._modelrunner_client is None:
+            self._modelrunner_client = ModelRunnerImageClient(
+                api_key=Config.MODELRUNNER_API_KEY,
+                base_save_dir=self.base_save_dir,
+            )
+        return self._modelrunner_client
 
     @property
     def dashscope_client(self):
@@ -174,9 +188,12 @@ class ImageClient:
             lines.append("-" * 30)
             logger.info("\n%s", "\n".join(lines))
             
-        # Determine backend provider
-        is_seedream = "seedream" in model.lower()
-        is_sora = "sora" in model.lower() or "gpt" in model.lower()
+        # Determine backend provider. The registered provider is checked first
+        # and exactly, so a catalog id like "owner/alias" is never captured by
+        # the substring tests below.
+        is_modelrunner = model_provider(model) == "modelrunner"
+        is_seedream = not is_modelrunner and "seedream" in model.lower()
+        is_sora = not is_modelrunner and ("sora" in model.lower() or "gpt" in model.lower())
         
         # Prepare save directory
         if not save_dir:
@@ -189,7 +206,27 @@ class ImageClient:
         generated_local_paths = []
         provider_errors = []
 
-        if is_seedream:
+        if is_modelrunner:
+            # --- ModelRunner Logic ---
+            try:
+                logger.info("ImageClient routed to ModelRunner: model=%s", model)
+                paths = self.modelrunner_client.generate_image(
+                    prompt=prompt,
+                    model=model,
+                    session_id=session_id or "default",
+                    size=size,
+                    image_paths=image_paths,
+                    save_dir=save_dir,
+                )
+                if paths:
+                    generated_local_paths.extend(paths)
+                else:
+                    provider_errors.append("ModelRunner returned no images")
+            except Exception as e:
+                logger.exception("ModelRunner generation failed: %s", e)
+                provider_errors.append(f"ModelRunner: {e}")
+
+        elif is_seedream:
             # --- Seedream Logic ---
             try:
                 logger.info("ImageClient routed to Seedream: model=%s", model)
