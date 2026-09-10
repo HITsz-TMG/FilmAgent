@@ -32,6 +32,10 @@ api_providers:
     base_url: https://api-beijing.klingai.com
     api_key: ''
     enable_proxy: false
+  modelrunner:
+    base_url: https://queue.modelrunner.run
+    api_key: ''
+    enable_proxy: false
 models:
   llm: qwen3.5-plus
   vlm: qwen3.5-plus

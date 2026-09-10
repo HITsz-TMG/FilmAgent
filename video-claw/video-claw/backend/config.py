@@ -229,6 +229,9 @@ class Config:
     KLING_API_KEY = _get(CONFIG, "api_providers.kling.api_key")
     KLING_BASE_URL = _get(CONFIG, "api_providers.kling.base_url")
     KLING_ENABLE_PROXY = _get(CONFIG, "api_providers.kling.enable_proxy")
+    MODELRUNNER_API_KEY = _get(CONFIG, "api_providers.modelrunner.api_key")
+    MODELRUNNER_BASE_URL = _get(CONFIG, "api_providers.modelrunner.base_url")
+    MODELRUNNER_ENABLE_PROXY = _get(CONFIG, "api_providers.modelrunner.enable_proxy")
 
     LLM_API_KEY = DASHSCOPE_API_KEY
     LLM_BASE_URL = ""
@@ -300,6 +303,9 @@ class Config:
         cls.ARK_API_KEY = _get(clean, "api_providers.ark.api_key")
         cls.ARK_BASE_URL = _get(clean, "api_providers.ark.base_url")
         cls.ARK_ENABLE_PROXY = _get(clean, "api_providers.ark.enable_proxy")
+        cls.MODELRUNNER_API_KEY = _get(clean, "api_providers.modelrunner.api_key")
+        cls.MODELRUNNER_BASE_URL = _get(clean, "api_providers.modelrunner.base_url")
+        cls.MODELRUNNER_ENABLE_PROXY = _get(clean, "api_providers.modelrunner.enable_proxy")
         cls.KLING_API_KEY = _get(clean, "api_providers.kling.api_key")
         cls.KLING_BASE_URL = _get(clean, "api_providers.kling.base_url")
         cls.KLING_ENABLE_PROXY = _get(clean, "api_providers.kling.enable_proxy")
