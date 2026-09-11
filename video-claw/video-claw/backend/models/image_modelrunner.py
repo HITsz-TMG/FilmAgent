@@ -86,10 +86,12 @@ class ModelRunnerImageClient:
 
         image_size = self._size_to_image_size(size)
         candidates: List[Optional[object]] = [None]
-        if image_size:
-            # a couple of models take width/height instead; the filter keeps one
+        if image_size and "image_size" not in mr.input_fields(model):
+            # some models take a width and a height instead of one image_size
             params["width"] = image_size["width"]
             params["height"] = image_size["height"]
+            image_size = None
+        if image_size:
             preset = self._size_to_preset(image_size)
             # exact first, approximate second; skip straight to the one that
             # worked last time for this model
@@ -100,8 +102,8 @@ class ModelRunnerImageClient:
 
         if image_paths:
             urls = [mr.to_url(p, api_key=self.api_key) for p in image_paths]
-            params["image_url"] = urls[0]
-            params["image_urls"] = urls
+            mr.set_alias(model, params, ("image_urls", "image_url", "image"),
+                         urls if len(urls) > 1 else urls[0])
 
         url = record = None
         last_error = None

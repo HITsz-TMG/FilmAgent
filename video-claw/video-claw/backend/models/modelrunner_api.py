@@ -13,8 +13,11 @@ Measured against the live API, because the docs do not say any of this:
      GET /requests/{id}, which needs no model id.
   4. `output` is a list of urls for image models and a bare url string for most
      video models. Normalize both.
-  5. Unknown input fields are forwarded to the model rather than rejected here,
-     so filter against the model's public schema before spending anything.
+  5. The PUBLIC schema under-reports what an endpoint accepts: a model listing
+     three input fields accepted and honoured several more, and an undeclared
+     field is tolerated rather than rejected. So params are reported, never
+     dropped. A genuinely invalid payload is rejected at submit, BEFORE the
+     request is created, so it costs nothing to find out.
 """
 import logging
 import os
@@ -75,14 +78,35 @@ def input_fields(model: str) -> set:
 
 
 def filter_params(model: str, params: Dict[str, Any]) -> Dict[str, Any]:
-    """Drop params the model does not declare, logging what went."""
+    """Report params the published schema omits, but send them anyway (note 5).
+
+    Kept as a named step because the diagnostic is genuinely useful — it is how
+    a caller finds out a field is being ignored — but it no longer removes
+    anything.
+    """
     declared = input_fields(model)
-    if not declared:
-        return dict(params)
-    dropped = sorted(k for k in params if k not in declared)
-    if dropped:
-        logger.info("ModelRunner %s: dropping undeclared param(s) %s", model, ", ".join(dropped))
-    return {k: v for k, v in params.items() if k in declared}
+    if declared:
+        undeclared = sorted(k for k in params if k not in declared)
+        if undeclared:
+            logger.info("ModelRunner %s: param(s) not in the published schema, sending anyway: %s",
+                        model, ", ".join(undeclared))
+    return dict(params)
+
+
+def set_alias(model: str, params: Dict[str, Any], names, value) -> None:
+    """Set `value` under whichever of `names` the model declares.
+
+    Catalogs spell the same idea differently (image / image_url, resolution /
+    video_resolution). Pick the declared spelling explicitly rather than
+    sending every candidate and hoping the wrong ones are ignored. Falls back
+    to the first name when the schema is unavailable or declares none of them.
+    """
+    declared = input_fields(model)
+    for name in names:
+        if name in declared:
+            params[name] = value
+            return
+    params[names[0]] = value
 
 
 def submit(model: str, params: Dict[str, Any], api_key: Optional[str] = None) -> str:

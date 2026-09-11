@@ -38,20 +38,17 @@ class ModelRunnerVideoClient:
         params = {"prompt": prompt, "duration": duration, "aspect_ratio": video_ratio}
 
         if resolution:
-            # catalogs spell this either way; the filter keeps whichever exists
-            params["resolution"] = str(resolution).lower()
-            params["video_resolution"] = str(resolution).lower()
+            mr.set_alias(model, params, ("resolution", "video_resolution"),
+                         str(resolution).lower())
         if seed is not None:
             params["seed"] = seed
 
         if image_path:
             url = mr.to_url(image_path, api_key=self.api_key)
-            params["image"] = url
-            params["image_url"] = url
+            mr.set_alias(model, params, ("image", "image_url"), url)
         if last_image_path:
             end = mr.to_url(last_image_path, api_key=self.api_key)
-            params["end_image_url"] = end
-            params["tail_image_url"] = end
+            mr.set_alias(model, params, ("end_image_url", "tail_image_url", "last_image_url"), end)
 
         url, record = mr.run(model, params, timeout=timeout, api_key=self.api_key)
         mr.download(url, save_path)
